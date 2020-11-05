@@ -1,8 +1,12 @@
 ---
 title: "Put Your Title Here"
-subtitle: "Put Your Subtitle Here"
-author: "Group"
-date: "Date"
+subtitle: "STAT Final Report"
+author: 
+  - Gabe Gress
+  - Minyue Hu
+  - Tina Dantono
+  - Nikki West
+date: "11/4/2020"
 output: pdf_document
 ---
 
