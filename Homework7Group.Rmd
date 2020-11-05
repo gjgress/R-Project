@@ -21,7 +21,7 @@ library(RSQLite)
 library(dplyr)
 library(stringr)
 
-setwd("E:/R Data")
+setwd("./")
 headers <- read.csv(file="./arxiv-dataset.csv")
 names(headers) <- c("X", "ID", "Submitter", "Authors", "Title", "Comments", "JournalRef", "DOI", "ReportNo", "Categories", "License", "Abstract", "Versions", "UpdateDate", "AuthorsParsed")
 yearsarx <- sapply(headers$id,strsplit,split="[[:punct:]]{1}")
@@ -103,7 +103,7 @@ WEBSITE text,
 PT_ENROLL int,
 FT_ENROLL int,
 TOT_ENROLL int,
-TOP_EMP int,
+TOT_EMP int,
 PRIMARY KEY (OBJECTID)
 );
 ")
@@ -127,7 +127,7 @@ WEBSITE,
 PT_ENROLL,
 FT_ENROLL,
 TOT_ENROLL,
-TOP_EMP), append = TRUE, row.names = FALSE)
+TOT_EMP), append = TRUE, row.names = FALSE)
 }
 ```
 

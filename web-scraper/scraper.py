@@ -6,7 +6,8 @@ import re
 import lxml
 import time
 import random
-import proxy_list
+#import asyncio
+#from proxybroker import Broker
 from anglicize import anglicize
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -18,14 +19,14 @@ titles = conn.execute("SELECT Title from arXiv")
 doi = conn.execute("SELECT DOI from arXiv")
 schools = conn.execute("SELECT NAME from ColUni")
 
+authuni = []
 
 # Converts arXiv titles into HTML-parseable titles, for querying
 htmltitles = list(map(urllib.parse.quote,list(zip(*titles.fetchall()))[0] ))
 htmlauthors = list(zip(*authors.fetchall()))[0]
 
-authuni = []
 
-classid = "nova-v-person-inline-item"
+## Common agents that should be used alongside proxies
 
 most_common_user_agents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
@@ -36,43 +37,32 @@ most_common_user_agents = [
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36",
 ]
 
-def request_with_proxy(url):
-    
-    #replace with your mobile proxy provider URL 
-    proxy = ""
-    payload = {
-        "proxies": {"http": proxy, "https": proxy},
-        "url": url,
-        "verify": False,
-        "timeout": 60,
-        "headers": {
-            "User-Agent": random.choice(most_common_user_agents),
-            "referrer": "https://www.google.com",
-        },
-    }
-    
-    try:
-        start = time.time()
-        resolved_url = ''
-        response = requests.get(**payload)
-        status_code = response.status_code
-        resolved_url = response.url
-        if 200 <= status_code <= 299 or status_code == 404:
-            body = response.text
-            #print(body)
-        else:
-            body = f"Server responded with {status_code}"
-    except Exception as e:
-        body, status_code = str(e), 500
-        print("-------")
-        print(time.time() - start, proxy, body, e)
-        print("-------")
-        return {"statusCode": 500, "body": body, "time": time.time() - start, "resolved_url": resolved_url}
-    finally:
-        return {"statusCode": status_code, "body": body, "time": time.time() - start,  "resolved_url": resolved_url}
+
+## ProxyBroker method-- works, but proxies don't seem effective
+
+#async def show(proxies):
+#    while True:
+#        proxy = await proxies.get()
+#        if proxy is None: break
+#        return proxy.host
+#
+#proxies = asyncio.Queue()
+#broker = Broker(proxies)
+#tasks = asyncio.gather(
+#    broker.find(types=['HTTP', 'HTTPS'], limit=1),
+#    show(proxies))
+
+#loop = asyncio.get_event_loop()
+#loop.run_until_complete(tasks)
 
 
-def send_request(url):
+## Uses scrapingbee api-- but costs money for >1000 requests
+
+def send_request(url,counter):
+
+    if(counter>5):
+        raise Exception("ResearchGate blocking incoming proxies, cannot scrape data")
+
     response = requests.get(
         url="https://app.scrapingbee.com/api/v1/",
         params={
@@ -84,50 +74,64 @@ def send_request(url):
     )
     print('Response HTTP Status Code: ', response.status_code)
     print('Response HTTP Response Body: ', response.content)
+    
+    while (BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(authorslist[0][0])), flags=re.I)})== None):
+        counter += 1
+        send_request(url,counter)
     return(response)
 
-def get_proxy_from_freeproxylist():
-    proxies = ''
-    counter = 1
-    has_next_page = True
-    r = requests.get('http://freeproxylists.net/?c=&pt=&pr=HTTPS&a%5B%5D=2&u=0')
-    counter += 1
+## Returns list of proxies from freeproxylist. Unfortunately, requires a proxy... WIP
 
-    soup = BeautifulSoup(r.content, 'html.parser')
-    print(soup)
-    lines = soup.select('table.DataGrid tbody tr')
-    for i in lines[1:]: 
-        
-        if not 'adsbygoogle' in i.text:
-            proxy = i.select('td a')[0].text
-            port = i.select('td')[1].text
-            proxies += proxy + ':' + port + '\n'
-    return(proxies)
+#def get_proxy_from_freeproxylist():
+#    proxies = ''
+#    counter = 1
+#    has_next_page = True
+#    r = requests.get('http://freeproxylists.net/?c=&pt=&pr=HTTPS&a%5B%5D=2&u=0')
+#    counter += 1
+#
+#    soup = BeautifulSoup(r.content, 'html.parser')
+#    print(soup)
+#    lines = soup.select('table.DataGrid tbody tr')
+#    for i in lines[1:]: 
+#        
+#        if not 'adsbygoogle' in i.text:
+#            proxy = i.select('td a')[0].text
+#            port = i.select('td')[1].text
+#            proxies += proxy + ':' + port + '\n'
+#    return(proxies)
 
-def request_proxy(url):
-    #random_proxy = random.choice(proxylist)
-    # random_proxy = "62.210.75.50:13732"
-    payload = {
-            "proxies": {"http": 'http://127.0.0.1:8081'},
-        "url": url,
-        "verify": True,
-        "timeout": 60,
-        "headers": {
-            "User-Agent": random.choice(most_common_user_agents),
-            "referrer": "https://www.google.com",
-    }}
-    return(requests.get(**payload))
+## Generalized proxy request-- WIP
+
+#def request_proxy(url):
+#    #random_proxy = random.choice(proxylist)
+#    # random_proxy = "62.210.75.50:13732"
+#    payload = {
+#            "proxies": {"http": loop.run_until_complete(tasks)},
+#        "url": url,
+#        "verify": True,
+#        "timeout": 60,
+#        "headers": {
+#            "User-Agent": random.choice(most_common_user_agents),
+#            "referrer": "https://www.google.com",
+#    }}
+#    return(requests.get(**payload))
 
 
-for i,title in enumerate(htmltitles[0:1]):
+## This section is where the scraping happens
+
+for i,title in enumerate(htmltitles[0:400]):
+    # turn database into python list
     authorslist = eval("list(" + htmlauthors[i] + ")")
+
+    # pull publications and soupify
     time.sleep(1/250)
-    r = request_proxy('https://www.researchgate.net/search/publication?q=' + title)
+    r = send_request('https://www.researchgate.net/search/publication?q=' + title,0)
     soup = BeautifulSoup(r.text,'lxml')
+
+
     for author in authorslist:
         if authuni.count(author)==0:
-            print(soup)
-            r2 = request_proxy('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(author[0])),flags=re.I)}).attrs['href'])
+            r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(author[0])),flags=re.I)}).attrs['href'],0)
             soup2 = BeautifulSoup(r2.text, 'lxml')
             if r2.url.find("profile")>=0:
                 university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
