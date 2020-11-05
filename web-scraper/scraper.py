@@ -5,6 +5,8 @@ import requests
 import re
 import lxml
 import time
+import random
+import proxy_list
 from anglicize import anglicize
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -84,14 +86,48 @@ def send_request(url):
     print('Response HTTP Response Body: ', response.content)
     return(response)
 
-for i,title in enumerate(htmltitles):
+def get_proxy_from_freeproxylist():
+    proxies = ''
+    counter = 1
+    has_next_page = True
+    r = requests.get('http://freeproxylists.net/?c=&pt=&pr=HTTPS&a%5B%5D=2&u=0')
+    counter += 1
+
+    soup = BeautifulSoup(r.content, 'html.parser')
+    print(soup)
+    lines = soup.select('table.DataGrid tbody tr')
+    for i in lines[1:]: 
+        
+        if not 'adsbygoogle' in i.text:
+            proxy = i.select('td a')[0].text
+            port = i.select('td')[1].text
+            proxies += proxy + ':' + port + '\n'
+    return(proxies)
+
+def request_proxy(url):
+    #random_proxy = random.choice(proxylist)
+    # random_proxy = "62.210.75.50:13732"
+    payload = {
+            "proxies": {"http": 'http://127.0.0.1:8081'},
+        "url": url,
+        "verify": True,
+        "timeout": 60,
+        "headers": {
+            "User-Agent": random.choice(most_common_user_agents),
+            "referrer": "https://www.google.com",
+    }}
+    return(requests.get(**payload))
+
+
+for i,title in enumerate(htmltitles[0:1]):
     authorslist = eval("list(" + htmlauthors[i] + ")")
     time.sleep(1/250)
-    r = send_request('https://www.researchgate.net/search/publication?q=' + title)
+    r = request_proxy('https://www.researchgate.net/search/publication?q=' + title)
     soup = BeautifulSoup(r.text,'lxml')
     for author in authorslist:
         if authuni.count(author)==0:
-            r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(author[0])),flags=re.I)}).attrs['href'])
+            print(soup)
+            r2 = request_proxy('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(author[0])),flags=re.I)}).attrs['href'])
             soup2 = BeautifulSoup(r2.text, 'lxml')
             if r2.url.find("profile")>=0:
                 university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
