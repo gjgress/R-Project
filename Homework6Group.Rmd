@@ -1,0 +1,33 @@
+---
+title: "Homework 6 Group"
+author: 
+  - Gabe Gress
+  - Minyue Hu
+  - Tina Dantono
+  - Nikki West
+output:
+  pdf_document:
+    fig_height: 5
+    fig_width: 5
+  html_document:
+    df_print: paged
+date: 'Due: Thursday October 22'
+---
+
+```{r,echo=TRUE}
+
+setwd("E:/R Data")
+headers <- read.csv(file="./arxiv-dataset.csv")
+yearsarx <- sapply(headers$id,strsplit,split="[[:punct:]]{1}")
+yearsarx = aperm(array(as.character(unlist(yearsarx)),c(2,length(yearsarx)/2)))
+datesarx <- as.Date(paste(yearsarx[,1],"01",sep=""), "%y%m%d")
+
+```
+
+```{r,echo=TRUE}
+library(ggplot2)
+
+ggplot(as.data.frame(yearsarx[,1])) + stat_count() + aes(x = datesarx) +labs(title="ArXiv Papers over Time", x="Time", y="Count")
+
+
+```
