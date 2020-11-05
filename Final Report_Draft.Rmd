@@ -26,9 +26,10 @@ library(ggmap)
 
 \section{Introduction}
 \subsection{Main Dataset}
-Our main dataset is the NYC motor vehicle collisions from the official NYC public safety website 
-(link: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). \newline
-The dataset we extracted contains records of 1689136 crashs that took place in New York City from July 1, 2012 to July 3, 2020. For each crash, the dataset records
+Our main dataset is the arXiv Bulk Data from the arXiv official website 
+(link: https://arxiv.org/help/bulk_data). \newline
+The publicly available collections on the arXiv website are from 2007 to 2017.
+Our research topic was whether different authors have different propensities for research topics in publicly available collections on the arXiv website.
 
 \begin{itemize}
   \item Time: CRASH DATE, CRASH TIME
