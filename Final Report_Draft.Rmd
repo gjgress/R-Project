@@ -1,0 +1,78 @@
+---
+title: "Put Your Title Here"
+subtitle: "Put Your Subtitle Here"
+author: "Group"
+date: "Date"
+output: pdf_document
+---
+
+```{r echo=FALSE, include = FALSE}
+library(knitr)
+library(RSQLite)
+library(stringr)
+library(dplyr)
+library(ggplot2)
+library(tidyverse)
+library(ggmap)
+```
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Introduction}
+\subsection{Main Dataset}
+Our main dataset is the NYC motor vehicle collisions from the official NYC public safety website 
+(link: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95). \newline
+The dataset we extracted contains records of 1689136 crashs that took place in New York City from July 1, 2012 to July 3, 2020. For each crash, the dataset records
+
+\begin{itemize}
+  \item Time: CRASH DATE, CRASH TIME
+  \item Location
+      \begin{itemize}
+        \item BOUROUGH (Bronx, Brooklyn, Manhanttan, Queens, Staten Island)
+        \item ZIP CODE
+        \item ON STREET NAME (Street on which the collision occurred)
+        \item CROSS STREET NAME (Nearest cross street to the collision)
+        \item OFF STREET NAME (Street address if known)
+        \item LONGITUDE and LATITUDE
+      \end{itemize}
+  \item Number of Persons Injured or Killed
+    \begin{itemize}
+      \item NUMBER OF PERSONS INJURED and NUMBER OF PERSONS KILLED
+      \item NUMBER OF PEDESTRIANS INJURED and NUMBER OF PEDESTRIANS KILLED
+      \item NUMBER OF CYCLIST INJURED and NUMBER OF CYCLIST KILLED
+      \item NUMBER OF MOTORIST INJURED and NUMBER OF MOTORIST KILLED
+    \end{itemize}
+  \item Contributing Factors
+    \begin{itemize}
+    \item CONTRIBUTING FACTOR VEHICLE 1, ..., CONTRIBUTING FACTOR VEHICLE 5
+    \end{itemize}
+  \item Vehicle Types
+    \begin{itemize}
+    \item Vehicle Types: VEHICLE TYPE CODE 1, ..., VEHICLE TYPE CODE 5
+    \end{itemize}
+\end{itemize}
+
+\subsection{Auxillary Dataset}
+Where does the data come from, what are its characteristics?
+
+\section{Research Question}
+Give a clear and complete statement of the problem
+
+\section{Data Visualization}
+Graphs 
+
+\section{Data Investigation}
+Data Analysis 
+
+\section{Results}
+Give a detailed summary of the results of your work. Here is where you specify the exact performance measures you used. Usually there will be some kind of prediction and inference. 
+
+\section{Conclusion}
+The conclusion should reprise the questions and conclusions of the introduction, perhaps augmented by some additional observations or details gleaned from the analysis section. New questions, future work, etc., can also be raised here
+
+
+\section{Appendix}
+
+
