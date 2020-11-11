@@ -24,9 +24,9 @@ library(stringr)
 setwd("./")
 headers <- read.csv(file="./arxiv-dataset.csv")
 names(headers) <- c("X", "ID", "Submitter", "Authors", "Title", "Comments", "JournalRef", "DOI", "ReportNo", "Categories", "License", "Abstract", "Versions", "UpdateDate", "AuthorsParsed")
-yearsarx <- sapply(headers$id,strsplit,split="[[:punct:]]{1}")
-yearsarx = aperm(array(as.character(unlist(yearsarx)),c(2,length(yearsarx)/2)))
-datesarx <- as.Date(paste(yearsarx[,1],"01",sep=""), "%y%m%d")
+yearsarx <- sapply(headers$ID,as.character)
+yearsarx <- str_extract(yearsarx, pattern="(\\d{4})")
+datesarx <- as.Date(paste(yearsarx,"01",sep=""), "%y%m%d")
 
 seconddata <- read.csv(file="./Colleges_and_Universities.csv")
 

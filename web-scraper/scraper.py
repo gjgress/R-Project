@@ -6,6 +6,7 @@ import re
 import lxml
 import time
 import random
+import csv
 #import asyncio
 #from proxybroker import Broker
 from anglicize import anglicize
@@ -19,7 +20,9 @@ titles = conn.execute("SELECT Title from arXiv")
 doi = conn.execute("SELECT DOI from arXiv")
 schools = conn.execute("SELECT NAME from ColUni")
 
-authuni = []
+with open('authorsuni.csv', newline='') as f:
+    reader = csv.reader(f)
+    authuni = list(reader)
 
 # Converts arXiv titles into HTML-parseable titles, for querying
 htmltitles = list(map(urllib.parse.quote,list(zip(*titles.fetchall()))[0] ))
@@ -61,7 +64,7 @@ most_common_user_agents = [
 def send_request(url,counter):
 
     if(counter>5):
-        raise Exception("ResearchGate blocking incoming proxies, cannot scrape data")
+        raise Exception("ResearchGate blocking incoming proxies, cannot scrape data, failed on URL \n" + url)
 
     response = requests.get(
         url="https://app.scrapingbee.com/api/v1/",
@@ -75,12 +78,13 @@ def send_request(url,counter):
     print('Response HTTP Status Code: ', response.status_code)
     print('Response HTTP Response Body: ', response.content)
     
-    while (BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(authorslist[0][0])), flags=re.I)})== None):
+    while (BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(authorslist[0][0])), flags=re.I)})== None):
+        print(re.sub("[^0-9a-zA-Z\-]","",anglicize(authorslist[0][0])))
         counter += 1
         send_request(url,counter)
     return(response)
 
-## Returns list of proxies from freeproxylist. Unfortunately, requires a proxy... WIP
+# Returns list of proxies from freeproxylist. Unfortunately, requires a proxy... WIP
 
 #def get_proxy_from_freeproxylist():
 #    proxies = ''
@@ -119,9 +123,12 @@ def send_request(url,counter):
 
 ## This section is where the scraping happens
 
-for i,title in enumerate(htmltitles[0:400]):
+lastchecked = authuni[-1][0]
+for j,title in enumerate(htmltitles[int(lastchecked)+1:]):
+    i = j+int(lastchecked)+1
     # turn database into python list
     authorslist = eval("list(" + htmlauthors[i] + ")")
+
 
     # pull publications and soupify
     time.sleep(1/250)
@@ -130,13 +137,21 @@ for i,title in enumerate(htmltitles[0:400]):
 
 
     for author in authorslist:
-        if authuni.count(author)==0:
-            r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z]","",anglicize(author[0])),flags=re.I)}).attrs['href'],0)
+        authorcount = 0
+        for lists in authuni:
+            authorcount += lists.count(author)
+        print(authorcount)
+        if authorcount==0:
+            r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(author[0])),flags=re.I)}).attrs['href'],0)
             soup2 = BeautifulSoup(r2.text, 'lxml')
             if r2.url.find("profile")>=0:
                 university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
             else:
                 university = BeautifulSoup(str(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)[2]),"lxml").text
             authuni.append([author,university])
-dfauthuni = pd.DataFrame(authuni)
-dfauthuni.to_csv("authorsuni.csv")
+            with open('authorsuni.csv', 'a+', newline='') as f:
+                csv_writer = csv.writer(f)
+                csv_writer.writerow([i,author,university])
+
+#dfauthuni = pd.DataFrame(authuni)
+#dfauthuni.to_csv("authorsuni.csv")
