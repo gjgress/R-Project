@@ -59,30 +59,42 @@ most_common_user_agents = [
 #loop.run_until_complete(tasks)
 
 
-## Uses scrapingbee api-- but costs money for >1000 requests
-
-def send_request(url,counter):
+## Generalized send_request, specify which proxy system to use
+def send_request(url,counter,author, scraper):
 
     if(counter>5):
         raise Exception("ResearchGate blocking incoming proxies, cannot scrape data, failed on URL \n" + url)
 
-    response = requests.get(
-        url="https://app.scrapingbee.com/api/v1/",
-        params={
-            "api_key": "PVOYIDL5FRF939XKB13NVDML045BDNRXG9910JNQWEFGNJS61PGGPPPXP72CJSZ4KNPA0F4VPQWNZHHH",
-            "url": url,
-            "render_js": "false"
-        },
+    if(scraper=="scrapingbee"):
+        response = scrapingbee(url,js="false")
+    elif():
+        
+    elif():
+        
+    else:
 
-    )
     print('Response HTTP Status Code: ', response.status_code)
     print('Response HTTP Response Body: ', response.content)
     
-    while (BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(authorslist[0][0])), flags=re.I)})== None):
-        print(re.sub("[^0-9a-zA-Z\-]","",anglicize(authorslist[0][0])))
+    while (BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub(" ","-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author))), flags=re.I)})== None):
+        print(re.sub(" ","-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author))))
         counter += 1
-        send_request(url,counter)
+        send_request(url,counter,author,scraper)
     return(response)
+
+
+
+## Uses scrapingbee api-- but costs money for >1000 requests
+def scrapingbee(url, js):
+    return(requests.get(url=url,
+        params={
+            "api_key": "PVOYIDL5FRF939XKB13NVDML045BDNRXG9910JNQWEFGNJS61PGGPPPXP72CJSZ4KNPA0F4VPQWNZHHH",
+            "url": url,
+            "render_js": js
+        }
+
+    ))
+
 
 # Returns list of proxies from freeproxylist. Unfortunately, requires a proxy... WIP
 
@@ -132,26 +144,32 @@ for j,title in enumerate(htmltitles[int(lastchecked)+1:]):
 
     # pull publications and soupify
     time.sleep(1/250)
-    r = send_request('https://www.researchgate.net/search/publication?q=' + title,0)
-    soup = BeautifulSoup(r.text,'lxml')
 
+    # Prevents edge cases where organizations are listed as authors...
+    if (("The " in authorslist[0][0]) !=True):
+        r = send_request('https://www.researchgate.net/search/publication?q=' + title,0,authorslist[0][0],scraper="scrapingbee")
+        soup = BeautifulSoup(r.text,'lxml')
 
-    for author in authorslist:
-        authorcount = 0
-        for lists in authuni:
-            authorcount += lists.count(author)
-        print(authorcount)
-        if authorcount==0:
-            r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(author[0])),flags=re.I)}).attrs['href'],0)
-            soup2 = BeautifulSoup(r2.text, 'lxml')
-            if r2.url.find("profile")>=0:
-                university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
-            else:
-                university = BeautifulSoup(str(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)[2]),"lxml").text
-            authuni.append([author,university])
-            with open('authorsuni.csv', 'a+', newline='') as f:
-                csv_writer = csv.writer(f)
-                csv_writer.writerow([i,author,university])
+        for author in authorslist:
+            authorcount = 0
+            for lists in authuni:
+                authorcount += lists.count(author)
+            if (authorcount==0 & ("The " in author[0])):
+                print(soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(author[0])),flags=re.I)}))
+                r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub(" ", "-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author[0]))),flags=re.I)}).attrs['href'],0,author[0],scraper="scrapingbee")
+                soup2 = BeautifulSoup(r2.text, 'lxml')
+                if r2.url.find("profile")>=0:
+                    university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
+                else:
+                    if (len(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)
+)>=3 | (soup2.title!=("<title>17+ million researchers on ResearchGate</title>"))):
+                        university = BeautifulSoup(str(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)[2]),"lxml").text
+                    else:
+                        university = ""
+                authuni.append([author,university])
+                with open('authorsuni.csv', 'a+', newline='') as f:
+                    csv_writer = csv.writer(f)
+                    csv_writer.writerow([i,author,university])
 
 #dfauthuni = pd.DataFrame(authuni)
 #dfauthuni.to_csv("authorsuni.csv")
