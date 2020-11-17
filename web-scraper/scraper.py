@@ -83,6 +83,7 @@ def send_request(url,counter,author, scraper):
 
     print(response.text)
 
+    # This isn't perfect. At the moment, if it doesn't find the name it ought to find, it assumes the proxy blocks it. Ideally this should be rewritten to recognize if the proxy is getting blocked, or if there are no available proxies, and count different counters. If for some OTHER reason (i.e. the page loads but the author just isn't there) it cannot find the author, THEN it should just allow it through, so that the author will be paired with university = "". Caution must be used otherwise it will fill a bunch of entries with blank entries when the proxy fails... This is a task to resolve another time
     if(BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub(" ", "-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author))),flags=re.I)})== None):
         counter += 1
         send_request(url,counter,author,scraper)
@@ -189,7 +190,7 @@ def retrieve_count():
 
 ## This section is where the scraping happens
 
-lastchecked = int(authuni[-1][0]) + random.randint(1,3)
+lastchecked = int(authuni[-1][0])
 for j, title in enumerate(htmltitles[lastchecked+1]):
     i = j+lastchecked+1
     # turn database into python list
