@@ -160,3 +160,3186 @@
 81,"['Kurosaki', 'Tetsuo', '']",The University of Tokyo
 81,"['Wadati', 'Miki', '']",Tokyo University of Science
 82,"['Barvinsky', 'A. O.', '']",
+83,"['Fouxon', 'Itzhak', '']",Yonsei University
+83,"['Meerson', 'Baruch', '']",Hebrew University of Jerusalem
+83,"['Assaf', 'Michael', '']",Hebrew University of Jerusalem
+83,"['Livne', 'Eli', '']",Hebrew University of Jerusalem
+84,"['Mukhopadhyay', 'Partha', '']",The Institute of Mathematical Sciences
+85,"['Vysotsky', 'Vladislav V.', '']",University of Sussex
+86,"['Duc', 'Duong Minh', '']",Ho Chi Minh City University of Science
+86,"['Tuyen', 'Truong Trung', '']",Ho Chi Minh City University of Science
+87,"['Tcherniega', 'N. V.', '']",Russian Academy of Sciences
+88,"['Grabec', 'I.', '']",University of Ljubljana
+89,"['Ingber', 'Lester', '']",Physical Studies Institute LLC
+90,"['Minasyan', 'Ashot', '']",
+91,"['Gattringer', 'Christof', '']",Karl-Franzens-Universität Graz
+91,"['Liptak', 'Ludovit', '']",Abmerit
+92,"['Lee', 'W. S.', '']",Stanford University
+92,"['Johnston', 'S.', '']",Dayton Regional STEM School
+92,"['Devereaux', 'T. P.', '']",Stanford University
+93,"['Zhao', 'HongSheng', '', 'SUPA, St Andrews']",University of St Andrews
+94,"['Breuillard', 'Emmanuel', '']",University of Cambridge
+95,"['Nucci', 'M. C.', '']",Università degli Studi di Perugia
+95,"['Leach', 'P. G. L.', '']",University of KwaZulu-Natal
+96,"['Kawahigashi', 'Yasuyuki', '']",The University of Tokyo
+97,"['Raymond', 'Jack', '']",D-Wave Systems Inc.
+97,"['Saad', 'David', '']",Aston University
+98,"['Audenaert', 'Koenraad M. R.', '']","Royal Holloway, University of London"
+98,"['Aujla', 'Jaspal Singh', '']",National Institute of Technology Jalandhar
+99,"['Ida', 'Daisuke', '']",Gakushuin University
+99,"['Siino', 'Masaru', '']",Tokyo Institute of Technology
+100,"['Di Vecchia', 'Paolo', '']",KTH Royal Institute of Technology
+101,"['Chardin', 'Marc', '']",Sorbonne Université
+101,"['Cutkosky', 'Steven Dale', '']",University of Missouri
+101,"['Herzog', 'Juergen', '']",University of Duisburg-Essen
+101,"['Srinivasan', 'Hema', '']",University of Missouri
+102,"['Gemelli', 'Gianluca', '']",University of Padova
+103,"['Gaiffi', 'Giovanni', '']",Università di Pisa
+103,"['Grassi', 'Michele', '']","Elements Works, Italy, Pisa"
+104,"['Entov', 'Michael', '']",Technion - Israel Institute of Technology
+104,"['Polterovich', 'Leonid', '']",Tel Aviv University
+107,"['Gubin', 'Sergey', '']",Alcatel Lucent
+108,"['Durgun', 'Engin', '']",Bilkent University
+108,"['Cakir', 'Deniz', '']",University of North Dakota
+108,"['Akman', 'Nurten', '']",Mersin University
+108,"['Ciraci', 'Salim', '']",Bilkent University
+109,"['Goswami', 'Debashish', '']",Indian Statistical Institute
+111,"['de Marrais', 'Robert P. C.', '']",
+112,"['Li', 'Xiaolin', '', 'Department of Chemistry, Stanford University.']",
+112,"['Zhang', 'Li', '', 'Department of Chemistry, Stanford University.']",Stanford University
+112,"['Wang', 'Xinran', '', 'Department of Chemistry, Stanford University.']",The University of Hong Kong
+112,"['Shimoyama', 'Iwao', '', 'Department of Chemistry, Stanford University.']",Stanford University
+113,"['Kotov', 'Valeri N.', '']",University of Vermont
+113,"['Yao', 'Dao-Xin', '']",Sun Yat-Sen University
+113,"['Neto', 'A. H. Castro', '']",National University of Singapore
+113,"['Campbell', 'D. K.', '']",Boston University
+114,"['Ando', 'Yoshifumi', '']",Yamaguchi University
+115,"['Cho', 'Yong Seung', '']",Ewha Womans University
+115,"['Hong', 'Soon-Tae', '']",Ewha Womans University
+116,"['Liu', 'T.', '']",Beijing Computational Science Research Center
+116,"['Wang', 'K. L.', '']",University of Science and Technology of China
+116,"['Feng', 'M.', '']",Wuhan Institute of Physics and Mathematics
+117,"['Welander', 'Paul B.', '']",Stanford University
+117,"['Eckstein', 'James N.', '']","University of Illinois, Urbana-Champaign"
+118,"['Thamizhavel', 'A.', '']",Tata Institute of Fundamental Research
+118,"['Kulkarni', 'R.', '']",Tata Institute of Fundamental Research
+119,"['Cheng', 'Xiao-Dong', '']",
+119,"['He', 'Kang-Lin', '']",
+119,"['Li', 'Hai-Bo', '']",
+120,"['Ahn', 'Changhyun', '']",Kyungpook National University
+121,"['Takahashi', 'M.', '']",Okayama University
+121,"['Ghosh', 'Sankalpa', '']",Indian Institute of Technology Delhi
+121,"['Mizushima', 'T.', '']",Keio University
+121,"['Machida', 'K.', '']",Ritsumeikan University
+122,"['Makovetskii', 'D. N.', '']",
+124,"['Reissig', 'Michael', '']",
+124,"['Wirth', 'Jens', '']",Universität Stuttgart
+126,"['Dumas', 'Randy K.', '']",
+126,"['Li', 'Chang-Peng', '']",
+126,"['Roshchin', 'Igor V.', '']",Texas A&M University
+126,"['Schuller', 'Ivan K.', '']","University of California, San Diego"
+126,"['Liu', 'Kai', '']",
+127,"['Evans', 'P. A.', '']",University of Leicester
+127,"['Beardmore', 'A. P.', '']",University of Leicester
+127,"['Page', 'K. L.', '']",
+127,"['Tyler', 'L. G.', '']",University of Leicester
+127,"['Osborne', 'J. P.', '']",University of Leicester
+129,"['Bouarroudj', 'Sofiane', '']",New York University Abu Dhabi
+129,"['Grozman', 'Pavel', '']",Stockholm Care AB
+129,"['Leites', 'Dimitry', '']",NYUAD
+130,"['Zheng-Johansson', 'J. X.', '']",Institute of Fundamental Physics Research
+133,"['Chaudhuri', 'A. K.', '']",Variable Energy Cyclotron Centre
+136,"['Tiwari', 'S C', '']",
+137,"['Barausse', 'Enrico', '']",French National Centre for Scientific Research
+137,"['Hughes', 'Scott A.', '']",Massachusetts Institute of Technology
+137,"['Rezzolla', 'Luciano', '']",Goethe-Universität Frankfurt am Main
+138,"['Lanzoni', 'B.', '']",Università degli Studi di Siena
+138,"['Dalessandro', 'E.', '']",Università degli Studi di Siena
+138,"['Ferraro', 'F. R.', '']",Università degli Studi di Siena
+138,"['Mancini', 'C.', '']",University of Padova
+138,"['Beccari', 'G.', '']",European Southern Observatory
+142,"['Molodtsov', 'S. V.', '']",Institute for Theoretical and Experimental Physics
+146,"['Sudha', '', '']",Kuvempu University
+146,"['Rao', 'A. V. Gopala', '']",
+146,"['Devi', 'A. R. Usha', '']",Bangalore University
+146,"['Rajagopal', 'A. K.', '']",Independent Researcher
+150,"['Grabec', 'I.', '']",University of Ljubljana
+154,"['van der Tak', 'Floris', '', 'SRON Groningen']",University of Groningen
+154,"['Black', 'John', '', 'Onsala']",Chalmers University of Technology
+154,"['Schoeier', 'Fredrik', '', 'Stockholm']",Chalmers University of Technology
+154,"['Jansen', 'David', '', 'Leiden']",Leiden University
+154,"['van Dishoeck', 'Ewine', '', 'Leiden']",Leiden University
+155,"['He', 'Han', '']",
+155,"['Wang', 'Huaning', '']",Chinese Academy of Sciences
+159,"['Stasinska', 'G.', '']",French National Centre for Scientific Research
+159,"['Tenorio-Tagle', 'G.', '']","Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)"
+159,"['Rodriguez', 'M.', '']","Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)"
+159,"['Henney', 'W. J.', '']",Universidad Nacional Autónoma de México
+160,"['Ravindran', 'T. R.', '']",
+160,"['Arora', 'A. K.', '']",Indira Gandhi Centre for Atomic Research
+164,"['Abu-Hamed', 'Mohammad', '']",Technion - Israel Institute of Technology
+164,"['Gelaki', 'Shlomo', '']",Technion - Israel Institute of Technology
+168,"['Calucci', 'Giorgio', '']",University of Trieste
+172,"['Takenaka', 'H.', '']",
+176,"['Greilich', 'A.', '']",Technische Universität Dortmund
+176,"['Wiemann', 'M.', '']",Ruhr-Universität Bochum
+176,"['Hernandez', 'F. G. G.', '']",Technische Universität Dortmund
+176,"['Yakovlev', 'D. R.', '']",Technische Universität Dortmund
+180,"['Goh', 'Joel', '']",National University of Singapore
+180,"['Fushman', 'Ilya', '']",Stanford University
+180,"['Englund', 'Dirk', '']",Massachusetts Institute of Technology
+180,"['Vuckovic', 'Jelena', '']",Stanford University
+181,"['Kuch', 'W.', '']",Freie Universität Berlin
+181,"['Offi', 'F.', '']",Università Degli Studi Roma Tre
+181,"['Chelaru', 'L. I.', '']",Forschungszentrum Jülich
+181,"['Wang', 'J.', '']",
+181,"['Fukumoto', 'K.', '']",High Energy Accelerator Research Organization
+185,"['Takahashi', 'Ryo', '']",
+185,"['Tanimoto', 'Morimitsu', '']",Niigata University
+186,"['Worseck', 'G.', '']",Universität Potsdam
+186,"['Fechner', 'C.', '']",Universität Potsdam
+186,"['Wisotzki', 'L.', '']",Leibniz Institute for Astrophysics Potsdam
+186,"[""Dall'Aglio"", 'A.', '']",
+187,"['Elliott', 'Tanya M', '']",University of Oxford
+187,"['Wheater', 'John F', '']",University of Oxford
+188,"['Birget', 'J. C.', '']",
+189,"['Konishi', 'E.', '']",Hirosaki University
+189,"['Minorikawa', 'Y.', '']",
+189,"['Galkin', 'V. I.', '']",Lomonosov Moscow State University
+193,"['Gurvitz', 'S. A.', '']",Weizmann Institute of Science
+197,"['Hilario', 'L. M. Leon', '']",Centro Atómico Bariloche
+197,"['Bruchhausen', 'A.', '']",Centro Atómico Bariloche
+201,"['Perdrix', 'Simon', '']",University of Lorraine
+202,"['Muench', 'August A.', '']",
+202,"['Lada', 'Charles J.', '']",Harvard-Smithsonian Center for Astrophysics
+202,"['Luhman', 'K. L.', '']",Pennsylvania State University
+202,"['Muzerolle', 'James', '']",Space Telescope Science Institute
+202,"['Young', 'Erick', '']",Universities Space Research Association
+206,"['Prakash', 'M', '']",Ohio University
+207,"['Hagge', 'Tobias J.', '']",Pacific Northwest National Laboratory
+207,"['Hong', 'Seung-Moon', '']",University of Toledo
+208,"['Park', 'Sangwook', '', 'Penn State']",University of Texas at Arlington
+208,"['Burrows', 'David N.', '', 'Penn State']",Pennsylvania State University
+208,"['Garmire', 'Gordon P.', '', 'Penn State']",Pennsylvania State University
+208,"['McCray', 'Richard', '', 'Colorado']",University of Colorado Boulder
+208,"['Racusin', 'Judith L.', '', 'Penn State']",
+208,"['Zhekov', 'Svetozar A.', '', 'Space Res Inst']",Bulgarian Academy of Sciences
+209,"['Dancer', 'Andrew', '']","Jesus College, Cambridge"
+209,"['Wang', 'Mckenzie', '']",McMaster University
+213,"['Znojil', 'Miloslav', '']",Nuclear Physics Institute of the AS CR
+216,"['Santipach', 'Wiroonsak', '']",Kasetsart University
+216,"['Honig', 'Michael L.', '']",Northwestern University
+219,"['Ulery', 'Jason Glyndwr', '', 'for the STAR Collaboration']",Goethe-Universität Frankfurt am Main
+220,"['Krauss', 'Lawrence M.', '']",Origins Project Foundation
+220,"['Scherrer', 'Robert J.', '']",
+221,"['Sanchez-Conde', 'Miguel A.', '']",Universidad Autónoma de Madrid
+222,"['Lou', 'Yu-Qing', '']",University of Chicago
+222,"['Wang', 'Wei-Gang', '']",Tsinghua University
+224,"['Kashlinsky', 'A.', '']","University of Maryland, Baltimore County"
+224,"['Band', 'D.', '']",Paris Diderot University
+225,"['Tombesi', 'F.', '']","University of Maryland, College Park"
+228,"['Mulmuley', 'Ketan D.', '']",University of Chicago
+229,"['Duffard', 'R.', '']",Instituto De Astrofisica De Andalucia
+229,"['Roig', 'F.', '']",Observatório Nacional
+230,"['Ortega-Cerda', 'Joaquim', '']",University of Barcelona
+231,"['Bergbauer', 'Christoph', '']",Freie Universität Berlin
+231,"['Kreimer', 'Dirk', '']",Humboldt-Universität zu Berlin
+232,"['Tomadin', 'Andrea', '']",Lancaster University
+232,"['Mannella', 'Riccardo', '']",Università di Pisa
+232,"['Wimberger', 'Sandro', '']",Università di Parma
+233,"['Ghirlanda', 'G.', '']",
+233,"['Nava', 'L.', '']",National Institute of Astrophysics
+237,"['Bower', 'Geoffrey C.', '', 'Berkeley']",The Graduate University for Advanced Studies
+241,"['Fish', 'Vincent L.', '', 'NRAO']",Massachusetts Institute of Technology
+242,"['Bauer', 'J.', '']",Harvard University
+242,"['Hewson', 'A. C.', '']",Imperial College London
+246,"['Cacciatori', 'S. L.', '']",Università degli Studi dell'Insubria
+246,"['Caldarelli', 'M. M.', '']",University of Southampton
+246,"['Klemm', 'D.', '']",University of Milan
+246,"['Mansi', 'D. S.', '']",University of Milan
+246,"['Roest', 'D.', '']",University of Groningen
+247,"['Weder', 'Ricardo', '']",Universidad Nacional Autónoma de México
+248,"['Ortloff', 'Jutta', '']",RWTH Aachen University
+248,"['Balzer', 'Matthias', '']",University of Hamburg
+248,"['Potthoff', 'Michael', '']",University of Hamburg
+249,"['Pankov', 'S.', '']",Harik Shazeer Labs
+249,"['Dobrosavljevic', 'V.', '']",Florida State University
+253,"['Alves', 'Alexandre', '']",Federal University of São Paulo UNIFESP
+253,"['Eboli', 'Oscar', '']",University of São Paulo
+254,"['Marin', 'Felipe', '', 'Chicago, KICP']",Swinburne University of Technology
+254,"['Wechsler', 'Risa', '', 'KIPAC, Stanford']",Stanford University
+254,"['Frieman', 'Joshua', '', 'Chicago, KICP and Fermilab']",University of Chicago
+254,"['Nichol', 'Robert', '', 'ICG, Portsmouth']",The University of Edinburgh
+255,"['Harvey', 'Paul M.', '']",University of Texas at Austin
+255,"['Oldag', 'Andrew', '']",University of Texas at Austin
+256,"['Holm', 'Tara S.', '']",Cornell University
+257,"['Guerra', 'Diego', '']",Universidad Politécnica Salesiana (UPS)
+257,"['Mendez-Galain', 'Ramon', '']",Universidad de la República de Uruguay
+257,"['Wschebor', 'Nicolas', '']",Universidad de la República de Uruguay
+258,"['Kenyon', 'Scott J.', '']",Harvard-Smithsonian Center for Astrophysics
+258,"['Bromley', 'Benjamin C.', '']",University of Utah
+258,"[""O'Brien"", 'David P.', '']",Planetary Science Institute
+258,"['Davis', 'Donald R.', '']",Planetary Science Institute
+259,"['Gorbachuk', 'M. L.', '']",National Academy of Sciences of Ukraine
+259,"['Torba', 'S. M.', '']",Center for Research and Advanced Studies of the National Polytechnic Institute
+260,"['Randall', 'Scott W.', '']",Harvard-Smithsonian Center for Astrophysics
+260,"['Markevitch', 'Maxim', '']",NASA
+260,"['Clowe', 'Douglas', '']",Ohio University
+260,"['Gonzalez', 'Anthony H.', '']",University of Florida
+260,"['Bradac', 'Marusa', '']","University of California, Davis"
+261,"['Argurio', 'Riccardo', '']",Université Libre de Bruxelles
+261,"['Bertolini', 'Matteo', '']",Scuola Internazionale Superiore di Studi Avanzati di Trieste
+261,"['Ferretti', 'Gabriele', '']",Chalmers University of Technology
+261,"['Lerda', 'Alberto', '']",Amedeo Avogadro University of Eastern Piedmont
+261,"['Petersson', 'Christoffer', '']",Université Libre de Bruxelles
+265,"['Hoffman', 'Jennifer L.', '']",
+266,"['Froning', 'C. S.', '']",University of Texas at Austin
+266,"['Robinson', 'E. L.', '']",University of Texas at Austin
+266,"['Bitner', 'M. A.', '']",Space Telescope Science Institute
+267,"['Whitney', 'Mark', '']",
+267,"['Isailovic', 'Nemanja', '']","University of California, Berkeley"
+267,"['Patel', 'Yatish', '']","University of California, Berkeley"
+267,"['Kubiatowicz', 'John', '']","University of California, Berkeley"
+268,"['Joshi', 'M.', '']",Northeastern University
+268,"['Boettcher', 'M.', '']",North West University South Africa
+269,"['Bonfils', 'X.', '']",Université Grenoble Alpes
+269,"['Mayor', 'M.', '']",University of Geneva
+269,"['Delfosse', 'X.', '']",Université Grenoble Alpes
+269,"['Forveille', 'T.', '']",French National Centre for Scientific Research
+269,"['Gillon', 'M.', '']",University of Liège
+272,"['Cimasoni', 'David', '']",University of Geneva
+272,"['Reshetikhin', 'Nicolai', '']","University of California, Berkeley"
+275,"['Wolleben', 'M.', '']",Skaha Remote Sensing Ltd.
+276,"['Kalai', 'Gil', '']",Hebrew University of Jerusalem
+276,"['Meshulam', 'Roy', '']",Technion - Israel Institute of Technology
+277,"['Khavkine', 'Igor', '']",The Czech Academy of Sciences
+277,"['Christensen', 'J. Daniel', '']",The University of Western Ontario
+278,"['Petric', 'A. O.', '']",Gemini Observatory
+278,"['Rupen', 'M. P.', '']",National Radio Astronomy Observatory
+279,"['Webbink', 'Ronald F.', '', 'University of Illinois at Urbana-Champaign']","University of Illinois, Urbana-Champaign"
+280,"['Richard', 'Denis', '']",
+281,"['Bandi', 'Samuele', '']",University of Ferrara
+281,"['Stabellini', 'Luca', '']",KTH Royal Institute of Technology
+281,"['Conti', 'Andrea', '']",University of Ferrara
+281,"['Tralli', 'Velio', '']",University of Ferrara
+282,"['Green', 'R. M.', '']",University of Colorado Boulder
+283,"['Kao', 'Hsien-chung', '']",National Taiwan Normal University
+284,"['de Heer', 'Walt A.', '']",Georgia Institute of Technology
+284,"['Berger', 'Claire', '']",French National Centre for Scientific Research
+284,"['Wu', 'Xiaosong', '']",
+284,"['First', 'Phillip N.', '']",Georgia Institute of Technology
+284,"['Conrad', 'Edward H.', '']",Georgia Institute of Technology
+284,"['Li', 'Xuebin', '']",
+284,"['Li', 'Tianbo', '']",
+287,"['Chaudhuri', 'G.', '']",Variable Energy Cyclotron Centre
+290,"['Jeppesen', 'M.', '']",
+290,"['Dugué', 'J.', '']",Ecole Normale Supérieure de Paris
+290,"['Dennis', 'G. R.', '']",Australian National University
+293,"['Ward', 'B. F. L.', '']",Baylor University
+293,"['Yost', 'S. A.', '']",The Citadel
+294,"['Basu', 'Saugata', '']",Purdue University
+295,"['Bars', 'Itzhak', '']",University of Southern California
+295,"['Orcal', 'Bora', '']",University of Southern California
+296,"['Yoon', 'Sung-Chul', '']",Seoul National University
+296,"['Podsiadlowski', 'Philipp', '']",University of Oxford
+296,"['Rosswog', 'Stephan', '']",Stockholm University
+297,"['Grushka', 'Ya.', '']",National Academy of Sciences of Ukraine
+297,"['Torba', 'S.', '']",Center for Research and Advanced Studies of the National Polytechnic Institute
+298,"['Alexander', 'Stephon', '']",Brown University
+298,"['Yunes', 'Nicolas', '']","University of Illinois, Urbana-Champaign"
+299,"['Purewal', 'Meninder', '']",Columbia University
+299,"['Hong', 'Byung Hee', '']",Seoul National University
+299,"['Ravi', 'Anirudhh', '']",Columbia University
+299,"['Chandra', 'Bhupesh', '']",IBM
+299,"['Hone', 'James', '']",Columbia University
+302,"['BenZvi', 'S. Y.', '']",University of Rochester
+302,"['Connolly', 'B. M.', '']",Metropolitan State University of Denver
+302,"['Matthews', 'J. A. J.', '']",University of New Mexico
+302,"['Prouza', 'M.', '']",Universidade Federal de Pelotas
+306,"['Jensen', 'Eric L. N.', '', '1 - Swarthmore College; 2 - Vanderbilt; 3 - Caltech; 4\n  - Wesleyan University; 5 - SUNY Stony Brook; 6 - UC Berkeley']",Swarthmore College
+306,"['Dhital', 'Saurav', '', '1 - Swarthmore College; 2 - Vanderbilt; 3 - Caltech; 4\n  - Wesleyan University; 5 - SUNY Stony Brook; 6 - UC Berkeley']",Vanderbilt University
+306,"['Stassun', 'Keivan G.', '', '1 - Swarthmore College; 2 - Vanderbilt; 3 - Caltech; 4\n  - Wesleyan University; 5 - SUNY Stony Brook; 6 - UC Berkeley']",Vanderbilt University
+306,"['Patience', 'Jenny', '', '1 - Swarthmore College; 2 - Vanderbilt; 3 - Caltech; 4\n  - Wesleyan University; 5 - SUNY Stony Brook; 6 - UC Berkeley']",Vanderbilt University
+306,"['Herbst', 'William', '', '1 - Swarthmore College; 2 - Vanderbilt; 3 - Caltech; 4\n  - Wesleyan University; 5 - SUNY Stony Brook; 6 - UC Berkeley']",Wesleyan University
+309,"['Liu', 'Xiang', '', 'Urumqi\n  Observatory, NAOC']",Xinjiang Astronomical Observatory Chinese Academy of Sciences
+309,"['Cui', 'Lang', '', 'Urumqi\n  Observatory, NAOC']",Chinese Academy of Sciences
+309,"['Luo', 'Wen-Feng', '', 'Urumqi\n  Observatory, NAOC']",Chinese Academy of Sciences
+309,"['Shi', 'Wei-Zhao', '', 'Urumqi\n  Observatory, NAOC']",University of Science and Technology Liaoning
+309,"['Song', 'Hua-Gang', '', 'Urumqi\n  Observatory, NAOC']",
+310,"['Kirtley', 'John R.', '']",Stanford University
+310,"['Deng', 'Zhifeng', '']",
+310,"['Luan', 'Lan', '']",Harvard University
+310,"['Yenilmez', 'Erhan', '']",Stanford University
+310,"['Dai', 'Hongjie', '']",Stanford University
+312,"['Hayashi', 'Yuta', '']",The University of Tokyo
+312,"['Ogata', 'Masao', '']",The University of Tokyo
+313,"['Baukh', 'Viktor', '']",Eindhoven University of Technology
+313,"['Zhuk', 'Alexander', '']",Odessa National University
+313,"['Kahniashvili', 'Tina', '']",Carnegie Mellon University
+314,"['Gasanenko', 'Vitalii A.', '']",Università degli Studi di Salerno
+315,"['Graham', 'Alister W.', '']",Swinburne University of Technology
+315,"['Driver', 'Simon P.', '']",University of Western Australia
+315,"['Allen', 'Paul D.', '']",Swinburne University of Technology
+315,"['Liske', 'Jochen', '']",University of Hamburg
+316,"['Wylie', 'William', '']",Syracuse University
+317,"['Biswas', 'Subhrajyoti', '']",Rishi Bankim Chandra College
+317,"['Dutt-Mazumder', 'Abhee K.', '']",
+318,"['Ding', 'Guo-Hui', '']",Shanghai Jiao Tong University
+322,"['Dang', 'Gui-Fang', '']",Technical Institute of Physics and Chemistry
+322,"['Fan', 'Heng', '']",Technical Institute of Physics and Chemistry
+323,"['Pravda-Starov', 'Karel', '']",
+325,"['Mathai', 'A. M.', '']",McGill University
+325,"['Haubold', 'H. J.', '']",United Nations Organization
+326,"['Maiti', 'Kalobaran', '']",Tata Institute of Fundamental Research
+326,"['Singh', 'Ravi Shankar', '']",Indian Institute of Science Education and Research Bhopal
+326,"['Medicherla', 'V. R. R.', '']",Siksha O Anusandhan University
+327,"['Ham', 'S. W.', '']",Kyungil University
+330,"['Jestin', 'J. -L.', '', 'IHES']",Institut Pasteur
+330,"['Soule', 'C.', '', 'IHES']",CNRS
+331,"['Gerrard', 'M. B.', '']",
+331,"['Sumner', 'T. J.', '']",Imperial College London
+335,"['Karvonen', 'J. T.', '']",University of Jyväskylä
+335,"['Maasilta', 'I. J.', '']",University of Jyväskylä
+337,"['Bec', 'Sandrine', '', 'LTDS']",French National Centre for Scientific Research
+337,"['Tonck', 'André', '', 'LTDS']",Ecole Centrale de Lyon
+337,"['Georges', 'Jean-Marie', '', 'LTDS']",Ecole Centrale de Lyon
+337,"['Roper', 'Glyn W.', '', 'SHELL']",Ecole Centrale de Lyon
+338,"['Fonda', 'Enrico', '']",University of Trieste
+338,"['Tessarotto', 'Massimo', '']",University of Trieste
+338,"['Ellero', 'Marco', '']",Basque Center for Applied Mathematics
+339,"['Kien', 'Fam Le', '']",Vietnam Maritime University
+339,"['Gupta', 'S. Dutta', '']",Raman Research Institute
+339,"['Hakuta', 'K.', '']",The University of Electro-Communications
+340,"['Ermolaev', 'B. I.', '']",Ioffe Physical Technical Institute
+344,"['Wang', 'Bing', '']",The University of Tokyo
+344,"['Kim', 'Beom Jun', '']",Sungkyunkwan University
+345,"['Hamaguchi', 'Kenji', '']","University of Maryland, College Park"
+345,"['team', 'the Suzaku Eta Carinae', '']",
+345,"['team', 'the Carinae D-1', '']",
+346,"['Chihara', 'Hiroyuki', '']",University of the Ryukyus
+347,"['Stasinska', 'G.', '']",French National Centre for Scientific Research
+348,"['Izmestiev', 'Ivan', '']",TU Wien
+349,"['Fornasier', 'S.', '']",Observatoire de Paris
+349,"['Dotto', 'E.', '']",National Institute of Astrophysics
+349,"['Hainaut', 'O.', '']",European Southern Observatory
+349,"['Marzari', 'F.', '']",University of Padova
+349,"['Boehnhardt', 'H.', '']",Max Planck Institute for Solar System Research
+351,"['Chigvinadze', 'J. G.', '']",Andronikashvili Institute of Physics
+354,"['Ducourant', 'C.', '']",
+354,"['Teixeira', 'R.', '']",University of São Paulo
+354,"['Hambly', 'N. C.', '']",McMaster University
+354,"['Oppenheimer', 'B. R.', '']",University of Toronto
+354,"['Hawkins', 'M. R. S.', '']",The University of Edinburgh
+357,"['Paradisi', 'Paride', '']",University of Padova
+358,"['Van Khue', 'Nguyen', '']",
+358,"['Hiep', 'Pham Hoang', '']",Institute of Mathematics-Vietnam Academy of Science and Technology
+359,"['Zaqarashvili', 'T. V.', '']",Karl-Franzens-Universität Graz
+359,"['Murawski', 'K', '']",Maria Curie-Sklodowska University in Lublin
+362,"['Field', 'J. H.', '']",
+366,"['Ita', 'Eyo Eyo', 'III']",
+367,"['Pashkin', 'A.', '']",Helmholtz-Zentrum Dresden-Rossendorf
+370,"['Kremer', 'G. M.', '']",Universidade Federal do Paraná
+374,"['Gueniche', 'Hadj-Ali', '', 'DCPR']",
+374,"['Glaude', 'Pierre-Alexandre', '', 'DCPR']",French National Centre for Scientific Research
+374,"['Dayma', 'Guillaume', '', 'DCPR']",CNRS Orleans Campus
+374,"['Fournet', 'René', '', 'DCPR']",French National Centre for Scientific Research
+374,"['Battin-Leclerc', 'Frédérique', '', 'DCPR']",French National Centre for Scientific Research
+375,"['Parodi', 'Daniele', '']",Università degli Studi di Genova
+375,"['Sassetti', 'Maura', '']",Università degli Studi di Genova
+375,"['Solinas', 'Paolo', '']",Italian National Research Council
+375,"['Zanghì', 'Nino', '']",Università degli Studi di Genova
+376,"['Binosi', 'Daniele', '', 'ECT*, Trento']",European Centre for Theoretical Studies in Nuclear Physics and Related Areas
+376,"['Pascalutsa', 'Vladimir', '', 'ECT*, Trento &\n  Mainz U.']",Johannes Gutenberg-Universität Mainz
+377,"['Duits', 'Maurice', '']",KTH Royal Institute of Technology
+377,"['Kuijlaars', 'Arno B. J.', '']",KU Leuven
+378,"['Virnau', 'P.', '']",Johannes Gutenberg-Universität Mainz
+378,"['Kardar', 'M.', '']",Massachusetts Institute of Technology
+378,"['Kantor', 'Y.', '']",Tel Aviv University
+379,"['Git', 'Y.', '']",University of Bath
+379,"['Harris', 'J. W.', '']",University of Auckland
+379,"['Harris', 'S. C.', '']",University of Auckland
+381,"['Hamidoune', 'Yahya Ould', '']",
+381,"['Serra', 'Oriol', '']",Universitat Politècnica de Catalunya
+381,"['Zemor', 'Gilles', '']",University of Bordeaux
+382,"['Prasad', 'Rajendra', '']",
+386,"['Eisenbeiss', 'T.', '']",Friedrich Schiller University Jena
+386,"['Seifahrt', 'A.', '']",University of Chicago
+386,"['Mugrauer', 'M.', '']",Physical Research Laboratory
+386,"['Schmidt', 'T. O. B.', '']",
+386,"['Neuhaeuser', 'R.', '']",Universitätsklinikum Jena
+389,"['Troubetzkoy', 'Serge', '', 'CPT, Iml, Frumam']",Aix-Marseille Université
+391,"['Kaiser', 'Marcus', '']",Newcastle University
+391,"['Martin', 'Robert', '']",Newcastle University
+391,"['Andras', 'Peter', '']",Keele University
+391,"['Young', 'Malcolm P.', '']",Newcastle University
+392,"['Hendy', 'S. C.', '']",University of Auckland
+396,"['Nielsen', 'Anne E. B.', '']",Max Planck Institute for Dynamics of Complex Technical Systems
+396,"['Molmer', 'Klaus', '']",Aarhus University
+397,"['Dennert', 'Florian', '']",
+400,"['Lançon', 'A.', '']",French National Centre for Scientific Research
+403,"['Kaidalov', 'A. B.', '']",Lawrence Livermore National Laboratory
+403,"['Vysotsky', 'M. I.', '']",Institute for Theoretical and Experimental Physics
+404,"['Kang', 'W.', '']",Sungkyunkwan University
+404,"['Williams', 'R. J.', '']",Stanford University
+405,"['Heidarian', 'Dariush', '']",University of Toronto
+405,"['Sorella', 'Sandro', '']",Scuola Internazionale Superiore di Studi Avanzati di Trieste
+406,"['Avancini', 'S. S.', '']",Federal University of Santa Catarina
+410,"['Xu', 'Zhiping', '']",Tsinghua University
+411,"['Hertweck', 'Martin', '']",Universität Stuttgart
+412,"['Kojo', 'Toru', '']","University of Illinois, Urbana-Champaign"
+412,"['Jido', 'Daisuke', '']",Tokyo Institute of Technology
+412,"['Hayashigaki', 'Arata', '']",Goethe-Universität Frankfurt am Main
+413,"['Moreau', 'Antoine', '', 'LASMEA']",Université Clermont Auvergne
+413,"['Felbacq', 'Didier', '', 'GES']",Université de Montpellier
+414,"['Raichev', 'O. E.', '']",National Academy of Sciences of Ukraine
+415,"['Schmithuesen', 'Gabriela', '']",Karlsruhe Institute of Technology
+416,"['Baumgartner', 'Bernhard', '']",University of Vienna
+417,"['Lin', 'Yu-Cheng', '']",
+417,"['Igloi', 'Ferenc', '']",Magyar Tudományos Akadémia Wigner Fizikai Kutatóközpont
+417,"['Rieger', 'Heiko', '']",Universität des Saarlandes
+421,"['Bianucci', 'Pablo', '']",Concordia University Montreal
+423,"['Luo', 'Xiao-Feng', '']",Central China Normal University
+423,"['Dong', 'Xin', '']",宁波舜宇车载光学有限公司
+423,"['Shao', 'Ming', '']","National Institutes for Food and Drug Control, China"
+423,"['Wu', 'Ke-Jun', '']",
+423,"['Li', 'Cheng', '']",
+423,"['Chen', 'Hong-Fang', '']",Technische Universität Dresden
+423,"['Xu', 'Hu-Shan', '']",
+424,"['Gleim', 'Tobias', '']",Hochschule Mainz
+425,"['Chuzhoy', 'Leonid', '']",University of Chicago
+425,"['Kuhlen', 'Michael', '']","University of California, Berkeley"
+429,"['Duistermaat', 'J. J.', '']",
+429,"['Pelayo', 'A.', '']","University of California, San Diego"
+431,"['Akman', 'Fusun', '']",Illinois State University
+431,"['Ionescu', 'Lucian M.', '']",Illinois State University
+433,"['Berejnov', 'Viatcheslav V.', '']",Great Wall Motors
+434,"['Pravda', 'Vojtech', '']",The Czech Academy of Sciences
+434,"['Pravdova', 'Alena', '']",The Czech Academy of Sciences
+434,"['Ortaggio', 'Marcello', '']",The Czech Academy of Sciences
+435,"['Gu', 'Ying-Qiu', '']",Fudan University
+435,"['Li', 'Ta-tsien', '']",
+436,"['CLEO Collaboration', '', '']",
+436,"['Pedlar', 'T. K.', '']",Luther College
+437,"['Graesser', 'Michael L.', '']",Los Alamos National Laboratory
+440,"['Setiawan', 'J.', '']",Toyohashi University of Technology
+440,"['Weise', 'P.', '']",Max Planck Institute for Astronomy
+440,"['Henning', 'Th.', '']",University College Dublin
+440,"['Launhardt', 'R.', '']",Max Planck Institute for Astronomy
+442,"['Lensky', 'V.', '']",Johannes Gutenberg-Universität Mainz
+442,"['Baru', 'V.', '']",University of Bonn
+442,"['Epelbaum', 'E.', '']",Ruhr-Universität Bochum
+442,"['Hanhart', 'C.', '']",Forschungszentrum Jülich
+442,"['Haidenbauer', 'J.', '']",Forschungszentrum Jülich
+445,"['Carnovale', 'Giovanna', '']",University of Padova
+445,"['Polizzi', 'Francesco', '']",Università della Calabria
+446,"['Christensson', 'J.', '']",Lund University
+446,"['Bargi', 'S.', '']",Lund University
+446,"['Karkkainen', 'K.', '']",Lund University
+446,"['Yu', 'Y.', '']",Lund University
+446,"['Kavoulakis', 'G. M.', '']",Hellenic Mediterranean University
+448,"['Braun', 'Volker', '']",University of Oxford
+448,"['Kreuzer', 'Maximilian', '']",TU Wien
+448,"['Ovrut', 'Burt A.', '']",University of Pennsylvania
+448,"['Scheidegger', 'Emanuel', '']",Peking University
+449,"['Aguiar', 'M. C. O.', '']",Federal University of Minas Gerais
+449,"['Dobrosavljevic', 'V.', '']",Florida State University
+449,"['Abrahams', 'E.', '']","University of California, Los Angeles"
+449,"['Kotliar', 'G.', '']","Rutgers, The State University of New Jersey"
+450,"['Ward', 'D. R.', '']",
+450,"['Grady', 'N. K.', '']",Los Alamos National Laboratory
+452,"['Richard', 'P.', '']",Kansas State University
+452,"['Neupane', 'M.', '']",University of Central Florida
+452,"['Xu', 'Y. -M.', '']",Lawrence Berkeley National Laboratory
+452,"['Fournier', 'P.', '']",Université de Sherbrooke
+452,"['Li', 'S.', '']",
+454,"['Kraus', 'Adam L.', '', 'Caltech']",University of Texas at Austin
+454,"['Hillenbrand', 'Lynne A.', '', 'Caltech']",California Institute of Technology
+455,"['Arteaga', 'Daniel', '']","Dolby Laboratories, Inc."
+456,"['Blencowe', 'M. P.', '']",Dartmouth College
+456,"['Buks', 'E.', '']",Technion - Israel Institute of Technology
+457,"['Brown', 'J. C.', '']",The University of Calgary
+457,"['Haverkorn', 'M.', '']",Radboud University
+457,"['Gaensler', 'B. M.', '']",University of Toronto
+457,"['Taylor', 'A. R.', '']",University of Cape Town
+457,"['Bizunok', 'N. S.', '']",Harvard-Smithsonian Center for Astrophysics
+457,"['McClure-Griffiths', 'N. M.', '']",Australian National University
+457,"['Dickey', 'J. M.', '']",University of Tasmania
+459,"['Pepper', 'Joshua', '']",Lehigh University
+459,"['Pogge', 'Richard W.', '']",University of Warsaw
+459,"['DePoy', 'D. L.', '']",Texas A&M University
+459,"['Marshall', 'J. L.', '']",Texas A&M University
+459,"['Stanek', 'K. Z.', '']",The Ohio State University
+463,"['Lyman', 'Edward', '']",University of Delaware
+463,"['Zuckerman', 'Daniel M.', '']",Oregon Health and Science University
+465,"['Simon', 'F.', '']",BSH HOSPITAL
+469,"['Tokovinin', 'A.', '']",NSF's OIR lab
+469,"['Sarazin', 'M.', '']",European Southern Observatory
+469,"['Smette', 'A.', '']",European Southern Observatory
+470,"['Shetty', 'D. V.', '']",
+470,"['Yennello', 'S. J.', '']",Texas A&M University
+473,"['Veld', ""Pieter J. in 't"", '']",BASF
+473,"['Ismail', 'Ahmed E.', '']",West Virginia University
+473,"['Grest', 'Gary S.', '']",Sandia National Laboratories
+474,"['Werner', 'N.', '']",Masaryk University
+474,"['Kaastra', 'J. S.', '']",Leiden University
+474,"['Takei', 'Y.', '']","Netherlands Institute for Space Research, Utrecht"
+474,"['Lieu', 'R.', '']",University of Alabama in Huntsville
+474,"['Vink', 'J.', '']",University of Amsterdam
+474,"['Tamura', 'T.', '']",St. Luke's International Hospital
+475,"['Zhang', 'P.', '']",
+475,"['You', 'L.', '']",Georgia Institute of Technology
+476,"['Smith', 'Britton D.', '']",The University of Edinburgh
+476,"['Sigurdsson', 'Steinn', '']",Pennsylvania State University
+477,"['McCrady', 'Nate', '']",
+477,"['Graham', 'James R.', '']","University of California, Berkeley"
+478,"['Geisser', 'T.', '']",Rikkyo University
+481,"['Yin', 'Zhang-qi', '']",Beijing Institute of Technology
+481,"['Li', 'Fu-li', '']",
+481,"['Peng', 'Peng', '']","University of California, Davis"
+482,"['Ichioka', 'Masanori', '']",Okayama University
+482,"['Adachi', 'Hiroto', '']",Okayama University
+482,"['Mizushima', 'Takeshi', '']",Osaka University
+482,"['Machida', 'Kazushige', '']",Ritsumeikan University
+483,"['McCaslin', 'J. O.', '']",ANSYS
+483,"['Broussard', 'P. R.', '']",Covenant College
+484,"['Gao', 'Z. M.', '']",Institute of Applied Physics and Computational Mathematics
+484,"['Ma', 'Y. C.', '']",
+484,"['Zhuang', 'H. W.', '']",Logistical College of Chinese People's Armed Police Force
+485,"['Lee', 'Young-Wook', '']",Yonsei University
+485,"['Gim', 'Hansung B.', '']",Arizona State University
+485,"['Casetti-Dinescu', 'Dana I.', '']",Southern Connecticut State University
+489,"['Stancil', 'Daniel D.', '']",North Carolina State University
+490,"['Restrepo', 'Juan G.', '']",
+490,"['Ott', 'Edward', '']",Loyola University Maryland
+490,"['Hunt', 'Brian R.', '']","University of Maryland, College Park"
+491,"['Su', 'Shenghui', '']",
+491,"['Lu', 'Shuwang', '']",
+492,"['Koibuchi', 'Hiroshi', '']","National Institute of Technology, Ibaraki College"
+493,"['Kuzmin', 'Yuriy I.', '']",Russian Academy of Sciences
+494,"['Saniga', 'Metod', '', 'ASTRINSTSAV']",Astronomical Institute of the Slovak Academy of Sciences
+494,"['Planat', 'Michel', '', 'FEMTO-ST']",Institut FEMTO-ST
+494,"['Pracna', 'Petr', '', 'JH-Inst']",The Czech Academy of Sciences
+497,"['Mention', 'Guillaume', '', 'DAPNIA']",Atomic Energy and Alternative Energies Commission
+501,"['Vespa', 'Christine', '']",University of Strasbourg
+502,"['Le', 'Hong-Van', '']",The Institute  of Mathematics of the Czech Academy of Sciences
+503,"['Hyun', 'Chang Ho', '']",Daegu University
+504,"['Kihara', 'Hironobu', '']",Ehime University
+504,"['Nitta', 'Muneto', '']",Keio University
+505,"['Donath', 'J. G.', '']",Max Planck Institute for Chemical Physics of Solids
+505,"['Gegenwart', 'P.', '']",Universität Augsburg
+505,"['Steglich', 'F.', '']",Max Planck Institute for Chemical Physics of Solids
+505,"['Bauer', 'E. D.', '']",Los Alamos National Laboratory
+505,"['Sarrao', 'J. L.', '']",
+509,"['Seto', 'Osamu', '']",Hokkaido University
+509,"['Yamaguchi', 'Masahide', '']",Aoyama Gakuin University
+510,"['Albouy', 'O.', '', 'IPNL']",Claude Bernard University Lyon 1
+510,"['Kibler', 'M. R.', '', 'IPNL']",Institut National de Physique Nucléaire et de Physique des Particules
+511,"['Tomé', 'Tânia', '']",University of São Paulo
+511,"['de Carvalho', 'Kelly C', '']",
+512,"['Southworth', 'John', '', '1 and 3']",Keele University
+512,"['Gaensicke', 'B. T.', '', '1 and 3']",The University of Warwick
+512,"['Marsh', 'T. R.', '', '1 and 3']",The University of Warwick
+516,"['Allais', 'Olivier', '', 'CORELA']","French National Institute for Agriculture, Food, and Environment (INRAE)"
+516,"['Tressou', 'Jessica', '', 'METARISK, Hkust-Ismt']",The University of Tokyo
+517,"['Beuther', 'H.', '']",Max Planck Institute for Astronomy
+517,"['Zhang', 'Q.', '']",Tsinghua University
+517,"['Bergin', 'E. A.', '']",Chinese Academy of Sciences
+517,"['Sridharan', 'T. K.', '']",Harvard-Smithsonian Center for Astrophysics
+517,"['Hunter', 'T. R.', '']",National Radio Astronomy Observatory
+522,"['Jeong', 'Hyunseok', '']",
+522,"['Ralph', 'Timothy C.', '']",The University of Queensland
+523,"['Bonaccorsi', 'S.', '']",Università degli Studi di Trento
+523,"['Confortola', 'F.', '']",Politecnico di Milano
+523,"['Mastrogiacomo', 'E.', '']",Università degli Studi dell'Insubria
+524,"['Aygun', 'Sezgin', '']",Çanakkale Onsekiz Mart Üniversitesi
+524,"['Tarhan', 'Ismail', '']",Çanakkale Onsekiz Mart Üniversitesi
+524,"['Baysal', 'Husnu', '']",Çanakkale Onsekiz Mart Üniversitesi
+525,"['Rabei', 'Eqab M.', '']",Al al-Bayt University
+525,"['Altarazi', 'Ibrahim M. A.', '']",
+525,"['Muslih', 'Sami I.', '']",Al-Azhar University - Gaza
+525,"['Baleanu', 'Dumitru', '']",Institute of Space Sciences
+527,"['Chan', 'Chi Pan', '']",The Chinese University of Hong Kong
+527,"['Liew', 'Soung Chang', '']",The Chinese University of Hong Kong
+527,"['Chan', 'An', '']",
+528,"['Dubois', 'C.', '']",
+528,"['Santi', 'G.', '']",École Polytechnique Fédérale de Lausanne
+528,"['Cuttat', 'I.', '']",
+528,"['Berthod', 'C.', '']",University of Geneva
+528,"['Jenkins', 'N.', '']",
+530,"['Leigh', 'Robert G.', '']","University of Illinois, Urbana-Champaign"
+530,"['Petkou', 'Anastasios C.', '']",Aristotle University of Thessaloniki
+533,"['Horbach', 'Juergen', '']",Heinrich-Heine-Universität Düsseldorf
+533,"['Das', 'Subir K.', '']",Jawaharlal Nehru Centre for Advanced Scientific Research
+536,"['Blanc', 'Jérémy', '']",University of Basel
+537,"['Prelipceanu', 'M.', '']",Stefan cel Mare University of Suceava
+537,"['Prelipceanu', 'O. S.', '']",Stefan cel Mare University of Suceava
+537,"['Tudose', 'O. G.', '']",Universitatea Alexandru Ioan Cuza
+537,"['Grytsenko', 'K.', '']","E.V. Lashkarev Institute of Semiconductor Physics, National Academy of Sciences of Ukraine"
+537,"['Schrader', 'S.', '']",Technische Hochschule Wildau
+538,"['Royen', 'Thomas', '']",Fachhochschule Bingen
+540,"['Hamidoune', 'Y. O.', '']",Sorbonne Université
+540,"['Lladó', 'A. S.', '']",Universitat Politècnica de Catalunya
+540,"['Serra', 'O.', '']",Universitat Politècnica de Catalunya
+541,"['Raghavan', 'K. N.', '']",The Institute of Mathematical Sciences
+541,"['Upadhyay', 'Shyamashree', '']",Chennai Mathematical Institute
+542,"['Romano', 'P.', '']",The Astronomical Observatory of Brera
+542,"['Sidoli', 'L.', '']",National Institute of Astrophysics
+542,"['Mangano', 'V.', '']",Pennsylvania State University
+542,"['Mereghetti', 'S.', '']",National Institute of Astrophysics
+542,"['Cusumano', 'G.', '']",National Institute of Astrophysics
+543,"['Patsahan', 'O. V.', '']","Institute for Condensed Matter Physics of the National Academy of Sciences of Ukraine, Lviv"
+543,"['Caillol', 'J. -M.', '']",Université Paris-Saclay
+547,"['Cribier', 'M.', '', 'APC']",
+548,"['Mussardo', 'Giuseppe', '']",Scuola Internazionale Superiore di Studi Avanzati di Trieste
+549,"['Tosi', 'Monica', '']",The Astronomical Observatory of Brera
+549,"['Bragaglia', 'Angela', '']",The Astronomical Observatory of Brera
+552,"['Chkareuli', 'J. L.', '']",Andronikashvili Institute of Physics
+556,"['Szczerba', 'R.', '']",Centrum Astronomiczne im. M. Kopernika PAN
+556,"['Schmidt', 'M. R.', '']",Nicolaus Copernicus University
+556,"['Pulecka', 'M.', '']",
+560,"['Berger', 'Jorge', '']",ORT Braude College
+564,"['Damialis', 'Apostolos', '']",
+565,"['Tsuji', 'Hajime', '']",
+566,"['Keller-Ressel', 'Martin', '']",Technische Universität Dresden
+566,"['Steiner', 'Thomas', '']",TU Wien
+570,"['Cavoto', 'Gianluca', '']",Sapienza University of Rome
+574,"['Santos', 'F C', '']",Federal University of Rio de Janeiro
+576,"['Xu', 'Wei-shui', '']",
+576,"['Zeng', 'Ding-fang', '']",Beijing University of Technology
+579,"['Russ', 'Stefanie', '']",Freie Universität Berlin
+579,"['Bunde', 'Armin', '']",Justus-Liebig-Universität Gießen
+580,"['Keller', 'Thomas Michael', '']",Texas State University
+581,"['Kuelske', 'C.', '']",Ruhr-Universität Bochum
+581,"['Orlandi', 'E.', '']",Università Degli Studi Roma Tre
+582,"['Dadarlat', 'Marius', '']",Purdue University
+582,"['Winter', 'Wilhelm', '']",University of Münster
+583,"['Timoteo', 'V. S.', '']",University of Campinas
+583,"['Lima', 'C. L.', '']",University of São Paulo
+584,"['Sadowski', 'M. L.', '']",French National Centre for Scientific Research
+584,"['Martinez', 'G.', '']",Friedrich-Alexander-University of Erlangen-Nürnberg
+584,"['Potemski', 'M.', '']",Université Grenoble Alpes
+584,"['Berger', 'C.', '']",French National Centre for Scientific Research
+584,"['de Heer', 'W. A.', '']",Georgia Institute of Technology
+588,"['Zhou', 'Wei-Xing', '', 'ECUST']",East China University of Science and Technology
+590,"['Takeshita', 'N.', '']",
+590,"['Takashima', 'S.', '']",Fuji Electric Co.
+590,"['Terakura', 'C.', '']",National Institute for Materials Science
+590,"['Nishikubo', 'H.', '']",
+590,"['Miyasaka', 'S.', '']",Osaka University
+594,"['Dobarro', 'Fernando', '']",Austral University (Argentina)
+598,"['Di Matteo', 'S.', '']",French National Centre for Scientific Research
+598,"['Norman', 'M. R.', '']",Argonne National Laboratory
+599,"['Fish', 'Alexander', '']",University of Wisconsin–Madison
+600,"['Chen', 'Chuan-Hung', '']",National Cheng Kung University
+600,"['Geng', 'Chao-Qiang', '']",National Tsing Hua University
+600,"['Yuan', 'Tzu-Chiang', '']",Academia Sinica
+601,"['Sannino', 'Francesco', '', 'CERN and University of Southern Denmark']",University of Southern Denmark
+604,"['Hanhart', 'C.', '', 'FZ-Juelich']",Forschungszentrum Jülich
+604,"['Kalashnikova', 'Yu. S.', '', 'ITEP, Moscow']",National Research Nuclear University MEPhI
+604,"['Kudryavtsev', 'A. E.', '', 'ITEP, Moscow']",George Washington University
+604,"['Nefediev', 'A. V.', '', 'ITEP, Moscow']",Russian Academy of Sciences
+606,"['Rana', 'Farhan', '']",Cornell University
+608,"['Lopata', 'Paul A', '']",
+610,"['Bracic', 'A. Borstnik', '']",Gorenje projekt
+610,"['Govekar', 'E.', '']",University of Ljubljana
+610,"['Grabec', 'I.', '']",University of Ljubljana
+612,"['Gutman', 'D. B.', '']",Bar Ilan University
+612,"['Maslov', 'D. L.', '']",University of Florida
+613,"['Zwonek', 'Wlodzimierz', '']",Jagiellonian University
+617,"['Galati', 'Concettina', '']",Università della Calabria
+618,"['Gennai', 'S.', '']",INFN - Istituto Nazionale di Fisica Nucleare
+618,"['Heinemeyer', 'S.', '']",
+618,"['Kalinowski', 'A.', '']",University of Warsaw
+618,"['Kinnunen', 'R.', '']",Helsinki Institute of Physics (HIP)
+620,"['Melnikov', 'Mark', '']",Autonomous University of Barcelona
+620,"['Poltoratski', 'Alexei', '']",Texas A&M University
+620,"['Volberg', 'Alexander', '']",Michigan State University
+621,"['Galati', 'Concettina', '']",Università della Calabria
+622,"['Milotti', 'Edoardo', '']",University of Trieste
+623,"['Rous', 'P. J.', '']","University of Maryland, College Park"
+625,"['McEwen', 'J. D.', '']",University College London
+625,"['Wiaux', 'Y.', '']",Heriot-Watt University
+625,"['Hobson', 'M. P.', '']",University of Cambridge
+625,"['Vandergheynst', 'P.', '']",
+625,"['Lasenby', 'A. N.', '']",University of Cambridge
+628,"['CLEO Collaboration', '', '']",
+628,"['Artuso', 'M.', '']",Syracuse University
+632,"['Hague', 'J. P.', '']",The Open University (UK)
+633,"['Bathe', 'Mark', '']",Massachusetts Institute of Technology
+635,"['Mukamel', 'Shaul', '']","University of California, Irvine"
+635,"['Oszwaldowski', 'Rafal', '']",South Dakota School of Mines and Technology
+635,"['Abramavicius', 'Darius', '']",Vilnius University
+636,"['Fuentes', 'M. C. Lopez', '']",Instituto Espacio para la Memoria
+636,"['Demoulin', 'P.', '']",Observatoire de Paris
+636,"['Klimchuk', 'J. A.', '']",NASA Johnson Space Center
+637,"['CDF Collaboration', '', '']",
+640,"['Porras', 'D.', '']",Pontifical Catholic University of Peru
+640,"['Cirac', 'J. I.', '']",Max Planck Institute of Quantum Optics
+644,"['Kalas', 'Paul', '', 'University of\n  California, Berkeley']","University of California, Berkeley"
+644,"['Fitzgerald', 'Michael P.', '', 'University of\n  California, Berkeley']","University of California, Los Angeles"
+644,"['Graham', 'James R.', '', 'University of\n  California, Berkeley']","University of California, Berkeley"
+645,"['Tegmark', 'Max', '', 'MIT']",Massachusetts Institute of Technology
+646,"['Kallosh', 'Renata', '']",
+646,"['Linde', 'Andrei', '']",Stanford University
+647,"['Majumdar', 'Kaushik', '']",Chennai Mathematical Institute
+648,"['Derksen', 'Harm', '']",University of Michigan
+648,"['Weyman', 'Jerzy', '']",University of Connecticut
+648,"['Zelevinsky', 'Andrei', '']",Northeastern University
+649,"['Mozyrsky', 'D.', '']",Los Alamos National Laboratory
+649,"['Martin', 'I.', '']",Argonne National Laboratory
+649,"['Timmermans', 'E.', '']",Los Alamos National Laboratory
+651,"['Kawata', 'Daisuke', '']",University College London
+651,"['Rauch', 'Michael', '']",Carnegie Institution for Science
+652,"['Mark', 'M.', '']",University of Innsbruck
+652,"['Kraemer', 'T.', '']",University of Innsbruck
+652,"['Waldburger', 'P.', '']",
+652,"['Herbig', 'J.', '']",IONICON Analytik
+652,"['Chin', 'C.', '']",University of Chicago
+655,"['Ferreira', 'Rui A. C.', '']",University of Lisbon
+657,"['Dickmann', 'S.', '']",Institute of Solid State Physics RAS
+659,"['Barnett', 'Ryan', '']",Imperial College London
+659,"['Maragakis', 'Paul', '']",D. E. Shaw Research
+659,"['Turner', 'Ari', '']",Harvard University
+659,"['Fyta', 'Maria', '']",Universität Stuttgart
+659,"['Kaxiras', 'Efthimios', '']",Harvard University
+660,"['Beltrametti', 'Mauro C.', '']",Università degli Studi di Genova
+664,"['Miao', 'Changxing', '']",Institute of Applied Physics and Computational Mathematics
+664,"['Xu', 'Guixiang', '']",Beijing Normal University
+668,"['Derezinski', 'J.', '']",University of Warsaw
+668,"['De Roeck', 'W.', '']",KU Leuven
+669,"['Dozono', 'M.', '']",The University of Tokyo
+669,"['Wakasa', 'T.', '']",Kyushu University
+669,"['Ihara', 'E.', '']",Kyushu University
+669,"['Asaji', 'S.', '']",Kyushu University
+669,"['Fujita', 'K.', '']",RIKEN
+669,"['Hatanaka', 'K.', '']",Osaka University
+673,"['Faltenbacher', 'A.', '']",University of the Witwatersrand
+673,"['Li', 'Cheng', '']",
+673,"['Mao', 'Shude', '']",The University of Manchester
+673,"['Bosch', 'Frank C. van den', '']",Yale University
+673,"['Yang', 'Xiaohu', '']",Shanghai Jiao Tong University
+673,"['Jing', 'Y. P.', '']",
+677,"['Cable', 'Hugo', '']",National University of Singapore
+677,"['Dowling', 'Jonathan P.', '']",National Institute of Information and Communications Technology
+678,"['Iwasaki', 'Katsunori', '']",Kyushu University
+679,"['Rahvar', 'Sohrab', '']",Sharif University of Technology
+679,"['Sobouti', 'Yousef', '']",Institute for Advanced Studies in Basic Sciences
+680,"['Zakharov', 'P.', '']",IROC Science to Innovation AG
+680,"['Scheffold', 'F.', '']",Université de Fribourg
+682,"['Grigoriev', 'S. V. Maleyev S. V.', '']",Petersburg Nuclear Physics Institute
+683,"['Chamon', 'Claudio', '']",Boston University
+683,"['Cugliandolo', 'Leticia F.', '']",Sorbonne Université
+684,"['Tomie', 'Masaya', '']",
+685,"['Ioannis', 'Antoniou', '']",Aristotle University of Thessaloniki
+685,"['Eleni', 'Tsompa', '']",
+686,"['Szopa', 'Piotr', '']",University of Warsaw
+687,"['Levine', 'Lionel', '']",Cornell University
+690,"['Schulze', 'C.', '']",
+690,"['Stauffer', 'D.', '']",University of Cologne
+690,"['Wichmann', 'S.', '']",Leiden University
+691,"['Adam', 'Gh.', '', 'LIT-JINR, Dubna, Russia and IFIN-HH,\n  Magurele-Bucharest, Romania']",Joint Institute for Nuclear Research
+691,"['Adam', 'S.', '', 'LIT-JINR, Dubna, Russia and IFIN-HH,\n  Magurele-Bucharest, Romania']",Joint Institute for Nuclear Research
+692,"['Schwingenschloegl', 'Udo', '']",King Abdullah University of Science and Technology
+692,"['Schuster', 'Cosima', '']",Universität Augsburg
+693,"['Gokhfeld', 'D M', '']",Krasnoyarsk Scientific Center
+693,"['Balaev', 'D A', '']",Saratov State Technical University
+693,"['Shaykhutdinov', 'K A', '']",Krasnoyarsk Research Center
+693,"['Popkov', 'S I', '']",Krasnoyarsk Scientific Center
+693,"['Petrov', 'M I', '']",Russian Academy of Sciences
+694,"['Di Piazza', 'A.', '']",Max Planck Institute for Nuclear Physics
+694,"['Milstein', 'A. I.', '']",Budker Institute of Nuclear Physics
+694,"['Keitel', 'C. H.', '']",Max Planck Institute for Nuclear Physics
+695,"['Verma', 'Ashok K.', '']",Bhabha Atomic Research Centre
+695,"['Modak', 'P.', '']",Bhabha Atomic Research Centre
+696,"['Kanemura', 'Shinya', '']",
+696,"['Matsuda', 'Koichi', '']",Tsinghua University
+696,"['Ota', 'Toshihiko', '']",Max Planck Institute for Physics
+696,"['Petcov', 'Serguey', '']",The University of Tokyo
+700,"['Chenais', 'Sebastien', '', 'LCFIO, LPL']",Université Paris 13 Nord
+700,"['Druon', 'Frederic', '', 'LCFIO']",French National Centre for Scientific Research
+700,"['Forget', 'Sebastien', '', 'LCFIO, LPL']",Université Paris 13 Nord
+700,"['Balembois', 'Francois', '', 'LCFIO']",Université Paris-Sud 11
+700,"['Georges', 'Patrick', '', 'LCFIO']",Institut d'Optique Graduate School
+702,"['Leveque', 'Gaetan', '']",University of Lille Nord de France
+702,"['Martin', 'Olivier J. F.', '']",
+702,"['Weiner', 'John', '']",University of São Paulo
+704,"['Van Overmeire', 'B.', '']",Ghent University
+706,"['Warren', 'Patrick B.', '']",
+707,"['Afraites', 'Lekbir', '', 'LMAC']",Faculté des Sciences et Techniques de Beni Mellal
+707,"['Dambrine', 'Marc', '', 'LMAC']",Université de Technologie de Compiègne
+707,"['Kateb', 'Djalil', '', 'LMAC']",Université de Technologie de Compiègne
+708,"['Chen', 'Jing-Ling', '']",Nankai University
+708,"['Xue', 'Kang', '']",Northeast Normal University
+708,"['Ge', 'Mo-Lin', '']",Nankai University
+709,"['Junkersfeld', 'J.', '', 'for the CB-ELSA collaboration']",
+710,"['Ishikawa', 'S.', '']",
+710,"['Robilotta', 'M. R.', '']",University of São Paulo
+711,"['Hetzheim', 'H.', '']",Max Born Institute for Nonlinear Optics and Short Pulse Spectroscopy
+711,"['Faria', 'C. Figueira de Morisson', '']",University College London
+711,"['Becker', 'W.', '']",Max Born Institute for Nonlinear Optics and Short Pulse Spectroscopy
+712,"['Löw', 'Ute', '']",
+715,"['Richard', 'Christoph', '']",Bielefeld University
+716,"['Aligia', 'A. A.', '']",Centro Atómico Bariloche
+716,"['Anfossi', 'A.', '']",Politecnico di Torino
+716,"['Arrachea', 'L.', '']",Universidad Nacional de San Martín - Buenos Aires
+716,"['Boschi', 'C. Degli Esposti', '']",University of Bologna
+716,"['Dobry', 'A. O.', '']",Rosario National University
+718,"['Kiuchi', 'Kenta', '']",Max Planck Institute for Gravitational Physics (Albert-Einstein-Institute)
+718,"['Koyama', 'Hiroko', '']",Waseda University
+718,"['Maeda', 'Kei-ichi', '']",Waseda University
+720,"['Summons', 'D. P.', '', 'University of Southampton']",University of Southampton
+722,"['Lü', 'J. T.', '']",Huazhong University of Science and Technology
+722,"['Wang', 'Jian-Sheng', '']",National University of Singapore
+723,"['Kang', 'Ning', '']",The University of Tokyo
+723,"['Abe', 'Eisuke', '']",The University of Tokyo
+723,"['Hashimoto', 'Yoshiaki', '']",Japanese Red Cross
+723,"['Iye', 'Yasuhiro', '']",The University of Tokyo
+723,"['Katsumoto', 'Shingo', '']",The University of Tokyo
+724,"['Goette', 'J. B.', '']",University of Glasgow
+724,"['Barnett', 'S. M.', '']",University of Glasgow
+724,"['Padgett', 'M.', '']",University of Glasgow
+725,"['Jafari', 'G. R.', '']",Shahid Beheshti University
+725,"['Pedram', 'P.', '']",
+728,"['Kastor', 'David', '']",University of Massachusetts Amherst
+728,"['Ray', 'Sourya', '']",Universidad Austral de Chile
+728,"['Traschen', 'Jennie', '']",
+729,"['Haddadi', 'Hamed', '']","Queen Mary, University of London"
+729,"['Landa', 'Raul', '']",University College London
+729,"['Rio', 'Miguel', '']",University College London
+729,"['Bhatti', 'Saleem', '']",University of St Andrews
+730,"['Lesinski', 'T.', '', 'IPNL']",ALTEN
+730,"['Bender', 'M.', '', 'DAPNIA, Cenbg']",Claude Bernard University Lyon 1
+730,"['Bennaceur', 'K.', '', 'IPNL,\n  Dapnia']",Nomadia
+730,"['Duguet', 'T.', '', 'NSCL, Msu']",Atomic Energy and Alternative Energies Commission
+730,"['Meyer', 'J.', '', 'IPNL']",Institut de Physique Nucléaire de Lyon
+734,"['Pozzi', 'F.', '']",Università degli Studi di Siena
+734,"['Vignali', 'C.', '']",Università degli Studi di Siena
+734,"['Comastri', 'A.', '']",National Institute of Astrophysics
+734,"['Pozzetti', 'L.', '']",National Institute of Astrophysics
+734,"['Mignoli', 'M.', '']",
+737,"['Ilg', 'Patrick', '']",University of Reading
+737,"['Barrat', 'Jean-Louis', '']",Université Grenoble Alpes
+741,"['Texier', 'Christophe', '']",Université Paris-Sud 11
+741,"['Montambaux', 'Gilles', '']",Université Paris-Sud 11
+742,"['Rycerz', 'Adam', '']",Jagiellonian University
+746,"['Malesevic', 'Branko J.', '']",University of Belgrade
+747,"['Davis', 'Christopher C.', '']","University of Maryland, College Park"
+747,"['Harris', 'Joseph', '']",
+747,"['Gammon', 'Robert W.', '']","University of Maryland, College Park"
+747,"['Smolyaninov', 'Igor I.', '']","University of Maryland, College Park"
+747,"['Cho', 'Kyuman', '']",Sogang University
+748,"['Damour', 'Thibault', '']",Institut des Hautes Études Scientifiques
+750,"['Bracci', 'Filippo', '']",University of Rome Tor Vergata
+750,"['Saracco', 'Alberto', '']",Università di Parma
+753,"['Damour', 'Thibault', '']",Institut des Hautes Études Scientifiques
+754,"['Malesevic', 'Branko', '']",University of Belgrade
+754,"['Jovovic', 'Ivana', '']",University of Belgrade
+755,"['Durrer', 'Ruth', '']",University of Geneva
+755,"['Ruser', 'Marcus', '']",
+756,"['Ou', 'Yong-Cheng', '']",
+756,"['Fan', 'Heng', '']",Chinese Academy of Sciences
+758,"['Cheskidov', 'A.', '']",University of Illinois at Chicago
+758,"['Constantin', 'P.', '']",University of Chicago
+760,"['Vilar', 'Jose M. G.', '']",Universidad del País Vasco / Euskal Herriko Unibertsitatea
+760,"['Rubi', 'J. Miguel', '']",University of Barcelona
+761,"['Ziebarth', 'Jesse D.', '']",The University of Memphis
+761,"['Wang', 'Yongmei', '']",The University of Memphis
+761,"['Polotsky', 'Alexey', '']",Russian Academy of Sciences
+761,"['Luo', 'Mengbo', '']",Zhejiang University
+762,"['Martin', 'John', '']",University of Liège
+762,"['Braun', 'Daniel', '']",University of Tuebingen
+763,"['Vekua', 'T.', '']",Indiana University Bloomington
+763,"['Honecker', 'A.', '']",Université de Cergy-Pontoise
+763,"['Mikeska', 'H. -J.', '']",Leibniz Universität Hannover
+763,"['Heidrich-Meisner', 'F.', '']",
+764,"['Tan', 'K. H. Sarwa B.', '']",
+764,"['Parendo', 'Kevin A.', '']",University of Minnesota Duluth
+764,"['Goldman', 'A. M.', '']",University of Minnesota Twin Cities
+765,"['Clover', 'Michael', '']","Leidos, Inc."
+768,"['Seidl', 'Michael', '']",Vrije Universiteit Amsterdam
+768,"['Bhaduri', 'Rajat K.', '']",McMaster University
+769,"['Matteucci', 'Francesca', '']",University of Trieste
+770,"['Kuopanportti', 'Pekko', '']",University of Helsinki
+772,"['Pan', 'Raj Kumar', '']",Aalto University
+772,"['Sinha', 'Sitabhra', '']",The Institute of Mathematical Sciences
+773,"['Lane', 'K. P.', '']",University of Nottingham
+773,"['Gray', 'M. E.', '']",University of Nottingham
+773,"['Aragon-Salamanca', 'A.', '']",University of Nottingham
+773,"['Wolf', 'C.', '']",Australian National University
+773,"['Meisenheimer', 'K.', '']",Max Planck Institute for Astronomy
+774,"['Park', 'Efton', '']",Texas Christian University
+774,"['Trout', 'Jody', '']",Dartmouth College
+775,"['Klironomos', 'A. D.', '']",
+775,"['Meyer', 'Julia S.', '']",Univ. Grenoble Alpes
+775,"['Hikihara', 'T.', '']",Gunma University
+775,"['Matveev', 'K. A.', '']",
+776,"['Green', 'Michael B.', '']","Queen Mary, University of London"
+776,"['Ooguri', 'Hirosi', '']",California Institute of Technology
+776,"['Schwarz', 'John H.', '']",California Institute of Technology
+777,"['He', 'Xuhua', '']",
+777,"['Thomsen', 'Jesper Funch', '']",Aarhus University
+778,"['Graff', 'Philip B.', '']","University of Maryland, Baltimore County"
+778,"['Georganopoulos', 'Markos', '']","University of Maryland, Baltimore County"
+781,"['Rinne', 'Oliver', '']",Hochschule für Technik und Wirtschaft Berlin
+781,"['Lindblom', 'Lee', '']",
+781,"['Scheel', 'Mark A.', '']",
+782,"['Zimmermann', 'Sebastien', '']",
+785,"['Ball', 'Patricia', '']",
+786,"['Zimmermann', 'Sebastien', '']",
+787,"['Soileau', 'Kerry M.', '']",Louisiana State University
+789,"['Ruser', 'Marcus', '']",University of Geneva
+789,"['Durrer', 'Ruth', '']",University of Geneva
+792,"['Gong', 'Yungui', '']",Huazhong University of Science and Technology
+792,"['Wang', 'Anzhong', '']",Baylor University
+793,"['Erickcek', 'Adrienne L.', '']",University of North Carolina at Chapel Hill
+793,"['Steinhardt', 'Paul J.', '']",
+793,"['McCammon', 'Dan', '']",University of Wisconsin–Madison
+793,"['McGuire', 'Patrick C.', '']",University of Reading
+794,"['Aubin', 'C.', '']",Fordham University
+794,"['Bernard', 'C.', '']",Washington University in St. Louis
+795,"['Adler', 'Stephen L.', '']",Institute for Advanced Study
+796,"['Haas', 'Roland', '']",National Center for Supercomputing Applications
+797,"['Davis', 'Donald M.', '']",
+797,"['Mahowald', 'Mark', '']",
+798,"['Bondarescu', 'Ruxandra', '', 'Cornell\n  University']",University of Portsmouth
+798,"['Teukolsky', 'Saul A.', '', 'Cornell\n  University']",Cornell University
+798,"['Wasserman', 'Ira', '', 'Cornell\n  University']",Cornell University
+799,"['Hogg', 'Tad', '']",Institute for Molecular Manufacturing
+799,"['Harsha', 'Pavithra', '']",IBM
+799,"['Chen', 'Kay-Yut', '']",HP Inc.
+800,"['Camus', 'Brice', '']",Ludwig-Maximilians-University of Munich
+801,"['Lo', 'Caleb K.', '']",
+801,"['Heath,', 'Robert W.', 'Jr.']",North Carolina State University
+801,"['Vishwanath', 'Sriram', '']","University at Buffalo, The State University of New York"
+802,"['Simmons', 'Walter A.', '']",Honolulu University
+805,"['Schneider', 'Donald P.', '']",
+805,"['Hall', 'Patrick B.', '']",York University
+805,"['Richards', 'Gordon T.', '']",
+805,"['Strauss', 'Michael A.', '']",Princeton University
+805,"['Berk', 'Daniel E. Vanden', '']",St. Vincent's College
+805,"['Anderson', 'Scott F.', '']",
+807,"['Lacey', 'Michael', '']",
+807,"['Li', 'Xiaochun', '']",
+808,"['Lawrence', 'A.', '']",Scottish Universities Physics Alliance
+809,"['Leonardi', 'Rodrigo', '']",European Space Agency
+809,"['Williams', 'Brian', '']","University of California, Santa Barbara"
+809,"['Bersanelli', 'Marco', '']",University of Milan
+809,"['Ferreira', 'Ivan', '']",University of Brasília
+809,"['Lubin', 'Philip M.', '']","University of California, Santa Barbara"
+813,"['Marzlin', 'K. -P.', '']",Dalhousie University
+813,"['Appel', 'Juergen', '']",University of Copenhagen
+813,"['Lvovsky', 'A. I.', '']",University of Oxford
+814,"['Portes', 'D.', 'Jr.']",Federal University of Rio de Janeiro
+814,"['Rodrigues', 'H.', '']",Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)
+814,"['Duarte', 'S. B.', '']",Centro Brasileiro de Pesquisas Físicas
+814,"['Baseia', 'B.', '']",Universidade Federal de Goiás
+815,"['Punsly', 'Brian', '']",Sapienza University of Rome
+816,"['Thomas', 'Hugh', '']",Université du Québec à Montréal
+816,"['Yong', 'Alexander', '']","University of Illinois, Urbana-Champaign"
+817,"['Shay', 'M. A.', '']",University of Delaware
+817,"['Drake', 'J. F.', '']","University of Maryland, College Park"
+817,"['Swisdak', 'M.', '']","University of Maryland, College Park"
+818,"['Uscanga', 'Lucero', '']",Universidad de Guanajuato
+818,"['Cantó', 'Jorge', '']",Ecole Supérieure des Sciences Economiques et Commerciales de Tunis
+818,"['Raga', 'Alejandro C.', '']",Universidad Nacional Autónoma de México
+819,"['Boriskina', 'Svetlana V.', '']",Massachusetts Institute of Technology
+820,"['Gregor', 'Karol', '']",California Institute of Technology
+820,"['Motrunich', 'Olexei I.', '']",California Institute of Technology
+821,"['Sasai', 'Yuya', '']",Meiji Gakuin University
+821,"['Sasakura', 'Naoki', '']",Kyoto University
+824,"['Lan', 'Yu', '']",Hengyang Normal University
+824,"['Qin', 'Jihong', '']",University of Science and Technology Beijing
+824,"['Feng', 'Shiping', '']",Beijing Normal University
+826,"['Fekadu', 'Nassissie', '']",San Diego State University
+826,"['Sandquist', 'Eric L.', '']",San Diego State University
+826,"['Bolte', 'Michael', '']",Michigan State University
+827,"['Reichhardt', 'C.', '']",
+827,"['Reichhardt', 'C. J. Olson', '']",
+828,"['Zhou', 'Bang-Rong', '', 'Graduate School of Chinese Academy of Sciences']",
+830,"['Shrader', 'Brooke', '']",Massachusetts Institute of Technology
+830,"['Ephremides', 'Anthony', '']","University of Maryland, College Park"
+833,"['Rodionov', 'Anatoly', '']",Moscow Center For Continuous Mathematical Education
+833,"['Volkov', 'Sergey', '']",
+834,"['Cheung', 'C. C.', '']",
+838,"['Mikhalkin', 'Grigory', '']",University of Geneva
+839,"['Liu', 'Yao-Bei', '']",Henan Institute of Science and Technology
+839,"['Shen', 'Jie-Fen', '']",Xinxiang University
+840,"['Zhou', 'Bang-Rong', '', 'Graduate School of Chinese Academy of Sciences']",
+841,"['Bao', 'Chengguang', '']",
+842,"['Okabe', 'Takuya', '']",Shizuoka University
+843,"['Matsuzaki', 'Masayuki', '', 'Fukuoka Univ. of Educ.']",Fukuoka University of Education
+843,"['Kobayashi', 'Etsuchika', '', 'Fukuoka Univ. of Educ.']",Fukuoka University of Education
+844,"['Niskanen', 'A. O.', '']",Nokia Research Center
+844,"['Nakamura', 'Y.', '']",The University of Tokyo
+844,"['Pekola', 'J. P.', '']",Aalto Scientific
+845,"['Haynal', 'Heidi', '']","University of California, Santa Barbara"
+846,"['Poenaru', 'D. N.', '']",Goethe-Universität Frankfurt am Main
+846,"['Gherghescu', 'R. A.', '']",Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering
+846,"[""Solov'yov"", 'A. V.', '']",Forschungszentrum L3S
+846,"['Greiner', 'W.', '']",Sportmedizinisches Institut Frankfurt am Main e.V.
+847,"['Jeong', 'Hyeong-Chai', '']",Sejong University
+850,"['Janjic', 'Milan', '']",University of Banja Luka
+852,"['Yin', 'Hao', '']",University of Science and Technology of China
+853,"['Ren', 'Xi-Feng', '']",University of Science and Technology of China
+853,"['Zhang', 'Pei', '']",Xi'an Jiaotong University
+853,"['Guo', 'Guo-Ping', '']",
+853,"['Huang', 'Yun-Feng', '']",University of Science and Technology of China
+853,"['Wang', 'Zhi-Wei', '']",University of Science and Technology of China
+853,"['Guo', 'Guang-Can', '']",University of Science and Technology of China
+854,"['Chaneliere', 'Thierry', '', 'LAC']",Institut Néel
+854,"['He', 'Ling Xiang', '', 'INLN']",
+854,"['Kaiser', 'Robin', '', 'INLN']",Université Côte d'Azur
+854,"['Wilkowski', 'David', '', 'INLN']",Nanyang Technological University
+857,"['Alata', 'Eric', '', 'LAAS']",Paul Sabatier University - Toulouse III
+857,"['Nicomette', 'Vincent', '', 'LAAS']",Laboratoire d’Analyse et d’Architecture des Systèmes (LAAS)
+857,"['Kaâniche', 'Mohamed', '', 'LAAS']",Laboratoire d’Analyse et d’Architecture des Systèmes (LAAS)
+857,"['Dacier', 'Marc', '', 'LAAS']",EURECOM
+857,"['Herrb', 'Matthieu', '', 'LAAS']",French National Centre for Scientific Research
+858,"['Farkas', 'Balint', '']",Bergische Universität Wuppertal
+858,"['Nagy', 'Bela', '']",Hungarian Academy of Sciences and University of Szeged
+860,"['Kaaniche', 'Mohamed', '', 'LAAS']",Laboratoire d’Analyse et d’Architecture des Systèmes (LAAS)
+860,"['Deswarte', 'Y.', '', 'LAAS']",French National Centre for Scientific Research
+860,"['Alata', 'Eric', '', 'LAAS']",Paul Sabatier University - Toulouse III
+860,"['Dacier', 'Marc', '', 'SC']",EURECOM
+860,"['Nicomette', 'Vincent', '', 'LAAS']",Laboratoire d’Analyse et d’Architecture des Systèmes (LAAS)
+861,"['Leroy', 'Adam', '']",The Ohio State University
+861,"['Cannon', 'John', '']",Macalester College
+861,"['Walter', 'Fabian', '']",Max Planck Institute for Astronomy
+861,"['Bolatto', 'Alberto', '']","University of Maryland, College Park"
+861,"['Weiss', 'Axel', '']",
+863,"['Bagoly', 'Z.', '']",Eötvös Loránd University
+863,"['Csabai', 'I.', '']",Eötvös Loránd University
+863,"['Meszaros', 'A.', '']",Charles University in Prague
+863,"['Meszaros', 'P.', '']",Charles University in Prague
+863,"['Horvath', 'I.', '']",National University of Public Service
+863,"['Balazs', 'L. G.', '']",Eötvös Loránd University
+867,"['Climente', 'Juan I.', '']",Universitat Jaume I
+867,"['Bertoni', 'Andrea', '']",Italian National Research Council
+867,"['Goldoni', 'Guido', '']",Università degli Studi di Modena e Reggio Emilia
+867,"['Rontani', 'Massimo', '']",INO - Istituto Nazionale di Ottica
+867,"['Molinari', 'Elisa', '']",Università degli Studi di Modena e Reggio Emilia
+868,"['Golinelli', 'O.', '', 'Cea Saclay, France']",
+868,"['Mallick', 'K.', '', 'Cea Saclay, France']",Université Paris-Saclay
+869,"['Bessonov', 'E. G.', '', 'Lebedev Phys. Inst. RAS, Moscow,\n  Russia']",Russian Academy of Sciences
+869,"['Gorbunkov', 'M. V.', '', 'Lebedev Phys. Inst. RAS, Moscow,\n  Russia']",P.N. Lebedev Physics Institute Russian Academy of Sciences
+869,"['Mikhailichenko', 'A. A.', '', 'Cornell University, Ithaca, NY, U.S.A.']",Cornell University
+870,"['Gabanyi', 'K. E.', '']",Konkoly Observatory
+870,"['Marchili', 'N.', '']",National Institute of Astrophysics
+870,"['Krichbaum', 'T. P.', '']",Max Planck Institute for Radio Astronomy
+870,"['Britzen', 'S.', '']",Max Planck Institute for Radio Astronomy
+870,"['Fuhrmann', 'L.', '']",Max Planck Institute for Radio Astronomy
+870,"['Witzel', 'A.', '']",Max Planck Institute for Radio Astronomy
+870,"['Zensus', 'J. A.', '']",Max Planck Institute for Radio Astronomy
+874,"['Tarasov', 'Boris V.', '']",
+876,"['Mannucci', 'F.', '']",Cancer Research UK Cambridge Institute
+876,"['Panagia', 'N.', '']",Space Telescope Science Institute
+879,"['Wang', 'Q. A.', '', 'ISMANS']",ESIEA Paris France
+879,"['Tsobnang', 'F.', '', 'ISMANS']",Institut International d'ingénierie de l'eau et de l'environnement
+879,"['Bangoup', 'S.', '', 'ISMANS']",Institut Supérieur des Matériaux et Mécanique Avancés
+879,"['Dzangue', 'F.', '', 'ISMANS']",Institut Supérieur des Matériaux et Mécanique Avancés
+879,"['Jeatsa', 'A.', '', 'ISMANS']",
+882,"['Hosotani', 'Yutaka', '']",
+883,"['Pflug', 'Peter', '']",Carl von Ossietzky Universität Oldenburg
+883,"['Nguyen', 'Viet-Anh', '']",Université de Lille
+884,"['Pachl', 'Jan', '']",York University
+885,"['Jung', 'Peter', '']",University of Cologne
+885,"['Rosch', 'Achim', '']",University of Cologne
+889,"['Orlando', 'S.', '']",National Institute of Astrophysics
+889,"['Bocchino', 'F.', '']",National Institute of Astrophysics
+889,"['Reale', 'F.', '']",National Institute of Astrophysics
+889,"['Peres', 'G.', '']",Università degli Studi di Palermo
+889,"['Petruk', 'O.', '']",National Institute of Astrophysics
+890,"['Cribier', 'M.', '', 'APC']",SATT Paris-Saclay
+891,"['Wang', 'Xingang', '']",Shaanxi Normal University
+891,"['Zhan', 'Meng', '']",Huazhong University of Science and Technology
+891,"['Guan', 'Ghuguang', '']",
+891,"['Lai', 'Choy Heng', '']",National University of Singapore
+892,"['Souza', 'C. E. R.', '']",Universidade Federal Fluminense
+892,"['Huguenin', 'J. A. O.', '']",Universidade Federal Fluminense
+892,"['Milman', 'P.', '']",French National Centre for Scientific Research
+896,"['Nguyen', 'Viet-Anh', '']",Université de Lille
+897,"['Bekaert', 'Xavier', '']",
+900,"['Simmons', 'Jacob J. H.', '']",Maine Maritime Academy
+900,"['Kleban', 'Peter', '']",University of Maine
+900,"['Dahlberg', 'Kevin', '']",University of Michigan
+900,"['Ziff', 'Robert M.', '']",University of Michigan
+901,"['Tomczak', 'Jan M.', '']",
+901,"['Aryasetiawan', 'Ferdi', '']",Lund University
+901,"['Biermann', 'Silke', '']",Université Paris-Saclay
+903,"['Corbet', 'Robin', '']",Maryland Institute College of Art
+903,"['Dubois', 'Richard', '']",
+904,"['Lukić', 'D. V.', '']",Institute of Physics Belgrade
+904,"['Schnell', 'M.', '']",Columbia University
+904,"['Savin', 'D. W.', '']",Columbia University
+904,"['Brandau', 'C.', '']",GSI Helmholtzzentrum für Schwerionenforschung
+907,"['Rudnick', 'Lawrence', '']",University of Minnesota Twin Cities
+907,"['Brown', 'Shea', '']",University of Iowa
+907,"['Williams', 'Liliya R.', '']",University of Minnesota Twin Cities
+908,"['Azzali', 'Sara', '']",
+910,"['Elmegreen', 'Debra Meloy', '']",Vassar College
+910,"['Elmegreen', 'Bruce G.', '']",Vassar College
+910,"['Ferguson', 'Thomas', '']",Fraunhofer Center for Sustainable Energy Systems
+914,"['Noda', 'S.', '']",Waseda University
+914,"['Hasegawa', 'K.', '']",Tokyo Institute of Technology
+914,"['Sugime', 'H.', '']",Waseda University
+914,"['Kakehi', 'K.', '']",The University of Tokyo
+918,"['Zelyak', 'Oleksandr', '']",University of Alberta
+918,"['Murthy', 'Ganpathy', '']",University of Kentucky
+918,"['Rozhkov', 'Igor', '']",
+920,"['Balachandran', 'A. P.', '']",Syracuse University
+920,"['Jo', 'S. G.', '']",Syracuse University
+922,"['Miller', 'Steven J.', '']",Williams College
+924,"['Black', 'A. T.', '']",United States Naval Research Laboratory
+924,"['Gomez', 'E.', '']",Universidad Autónoma de San Luis Potosí
+924,"['Turner', 'L. D.', '']",Monash University (Australia)
+924,"['Jung', 'S.', '']",National Institute of Standards and Technology
+924,"['Lett', 'P. D.', '']",National Institute of Standards and Technology
+927,"['Anchordoqui', 'Luis', '']",City University of New York City - Lehman College
+927,"['Goldberg', 'Haim', '']",Northeastern University
+927,"['Nawata', 'Satoshi', '']",Fudan University
+927,"['Nunez', 'Carlos', '']",Swansea University
+928,"['Yang', 'Hyun Seok', '']",Korea Institute for Advanced Study
+929,"['Erler', 'Theodore', '']",Institute of Physics ASCR
+930,"['Pasquali', 'Anna', '', 'MPIA']",Universität Heidelberg
+930,"['Bosch', 'Frank C. van den', '', 'MPIA']",Yale University
+933,"['Grigorenko', 'L. V.', '']",Joint Institute for Nuclear Research
+933,"['Zhukov', 'M. V.', '']",Chalmers University of Technology
+934,"['Dementsov', 'Alexander', '']",Clarkson University
+934,"['Privman', 'Vladimir', '']",Clarkson University
+935,"['Okawa', 'Yuji', '', 'DESY']",The University of Tokyo
+936,"['Boyko', 'Vyacheslav', '']",National Academy of Sciences of Ukraine
+938,"['Nandikotkur', 'Giridhar', '']","University of Maryland, College Park"
+942,"['LIGO Scientific Collaboration', '', '']",
+943,"['Kuhlen', 'Michael', '']","University of California, Berkeley"
+943,"['Diemand', 'Jürg', '']",
+943,"['Madau', 'Piero', '']","University of California, Santa Cruz"
+944,"['McCullagh', 'Peter', '']",University of Chicago
+944,"['Pitman', 'Jim', '']","University of California, Irvine"
+944,"['Winkel', 'Matthias', '']",University of Oxford
+945,"['Mesinger', 'Andrei', '']",
+945,"['Furlanetto', 'Steven', '']","University of California, Los Angeles"
+949,"['Joshi', 'Yogesh C.', '', ""Queen's University Belfast""]",Aryabhatta Research Institute of Observational Sciences
+950,"['Hoyos', 'J. A.', '']",University of São Paulo
+950,"['Vieira', 'André P.', '']",University of São Paulo
+952,"['Bai', 'Lei', '']",
+952,"['Marcillac', 'Delphine', '']",Université Paris-Sud 11
+952,"['Rieke', 'George H.', '']",The University of Arizona
+952,"['Rieke', 'Marcia J.', '']",The University of Arizona
+952,"['Tran', 'Kim-Vy H.', '']",UNSW Sydney
+955,"['Das', 'Tanmoy', '']",
+955,"['Markiewicz', 'R. S.', '']",
+955,"['Bansil', 'A.', '']",Northeastern University
+956,"['Pal', 'Soumik', '']",University of Washington Seattle
+956,"['Pitman', 'Jim', '']","University of California, Berkeley"
+957,"['Pian', 'E.', '']",National Institute of Astrophysics
+957,"['Romano', 'P.', '']",The Astronomical Observatory of Brera
+957,"['Treves', 'A.', '']",Università degli Studi dell'Insubria
+957,"['Ghisellini', 'G.', '']",National Institute of Astrophysics
+959,"['Huo', 'Wen Yi', '']",Institute of Applied Physics and Computational Mathematics
+959,"['Long', 'Gui Lu', '']",Tsinghua University
+960,"['Tovmassian', 'G. H.', '']",Universidad Nacional Autónoma de México
+960,"['Zharikov', 'S. V.', '']",Universidad Nacional Autónoma de México
+961,"['Sauer', 'Tilman', '']",Johannes Gutenberg-Universität Mainz
+963,"['Bravyi', 'Sergey', '']",IBM Research
+964,"['Yu', 'Zongwen', '']",
+964,"['Hu', 'Su', '']",
+965,"['Alver', 'B.', '']",Massachusetts Institute of Technology
+965,"['Collaboration', 'the PHOBOS', '']",University of Washington Seattle
+968,"['Hu', 'Su', '']",
+968,"['Yu', 'Zongwen', '']",
+969,"['Wardle', 'Mark', '', 'Macquarie University']",Macquarie University
+970,"['Xing', 'Zhi-zhong', '']",
+973,"['Kawamura', 'Hikaru', '']",Osaka University
+973,"['Yamamoto', 'Atsushi', '']",Osaka University
+974,"['Sarkar', 'A.', '']",Bhabha Atomic Research Centre
+974,"['Webber', 'Charles L.', 'Jr.']","Loyola University Chicago, Stritch School of Medicine - Health Sciences Division"
+976,"['Yang', 'Wei', '']",
+976,"['Wang', 'Ru-Zhi', '']",
+976,"['Wang', 'Yu-Fang', '']",Beijing University of Technology
+976,"['Song', 'Xue-Mei', '']",Beijing University of Technology
+976,"['Wang', 'Bo', '']",Beijing University of Technology
+976,"['Yan', 'Hui', '']",Beijing University of Technology
+977,"['Muller', 'S.', '']",Chalmers University of Technology
+977,"['Guelin', 'M.', '']",Institut de Radioastronomie Millimétrique
+977,"['Combes', 'F.', '']",Sorbonne Université
+977,"['Wiklind', 'T.', '']",The Catholic University of America
+978,"['Takami', 'Hajime', '']",High Energy Accelerator Research Organization
+978,"['Murase', 'Kohta', '']","Pennsylvania State University, Yukawa Institute for Theoretical Physics"
+978,"['Nagataki', 'Shigehiro', '']",RIKEN
+978,"['Sato', 'Katsuhiko', '']",Meisei University
+979,"['Pfund', 'A.', '']",
+979,"['Shorubalko', 'I.', '']",Empa - Swiss Federal Laboratories for Materials Science and Technology
+979,"['Ensslin', 'K.', '']",ETH Zurich
+979,"['Leturcq', 'R.', '']",Luxembourg Institute of Science and Technology (LIST)
+980,"['Nguyen', 'Xuan Hien', '']",Iowa State University
+981,"['Drobyshevski', 'Edward M.', '']",Ioffe Physical Technical Institute
+981,"['Drobyshevski', 'Mikhail E.', '']",
+982,"['Gerasyuta', 'S. M.', '']",Saint Petersburg State University
+982,"['Durnev', 'M. A.', '']",
+983,"['Bose', 'Sougato', '']",University College London
+983,"['Angelakis', 'Dimitris G.', '']",Technical University of Crete
+983,"['Burgarth', 'Daniel', '']",Macquarie University
+984,"['Abubakr', 'Mohd', '']",Microsoft
+984,"['Vinay', 'R. M.', '']",Gokaraju Rangaraju Institute of Engineering & Technology
+985,"['Maluf', 'J. W.', '']",University of Brasília
+985,"['Faria', 'F. F.', '']",University of Brasília
+985,"['Ulhoa', 'S. C.', '']",Canadian Heart Research Centre
+986,"['Munoz', 'C.', '']",Universidad Autónoma de Madrid
+987,"['Cyganowski', 'C. J.', '']",University of St Andrews
+987,"['Brogan', 'C. L.', '']",National Radio Astronomy Observatory
+987,"['Hunter', 'T. R.', '']",National Radio Astronomy Observatory
+991,"['Magliaro', 'Elena', '']",Pennsylvania State University
+994,"['Joglekar', 'Satish D.', '']",Indian Institute of Technology Kanpur
+996,"['Coman', 'Dan', '']",Syracuse University
+996,"['Poletsky', 'Evgeny A.', '']",Syracuse University
+999,"['Zhang', 'L. M.', '']",
+1000,"['Losev', 'A.', '']",National Research University Higher School of Economics
+1000,"['Shadrin', 'S.', '']",University of Amsterdam
+1000,"['Shneiberg', 'I.', '']",
+1002,"['Acharya', 'Amit', '']",Carnegie Mellon University
+1005,"['Kleptsyn', 'Victor', '']",Université de Rennes 1
+1005,"['Navas', 'Andres', '']",
+1006,"['Zhang', 'Pan', '']","Institute of Theoretical Physics, Chinese Academy of Sciences"
+1006,"['Chen', 'Yong', '']",Beihang University (BUAA)
+1007,"['Noohi', 'Behrang', '']","Queen Mary, University of London"
+1010,"['Krishan', 'Kapilanjan', '']",Georgia Institute of Technology
+1010,"['Handel', 'Andreas', '']",University of Georgia
+1010,"['Grigoriev', 'Roman O.', '']",Georgia Institute of Technology
+1010,"['Schatz', 'Michael F.', '']",Georgia Institute of Technology
+1014,"['Ikeda', 'Noriaki', '']",Ritsumeikan University
+1014,"['Tokunaga', 'Tatsuya', '']",
+1015,"['Zhou', 'T.', '']",South China Normal University
+1015,"['Wang', 'Z. D.', '']",The University of Hong Kong
+1016,"['Misguich', 'Gregoire', '']",Université Paris-Saclay
+1016,"['Sindzingre', 'Philippe', '']",Sorbonne Université
+1017,"['Ohno', 'Yutaka', '']",Nagoya University
+1017,"['Iwasaki', 'Shinya', '']",Nagoya University
+1017,"['Murakami', 'Yoichi', '']",Tokyo Institute of Technology
+1017,"['Kishimoto', 'Shigeru', '']",Nagoya University
+1017,"['Maruyama', 'Shigeo', '']",The University of Tokyo
+1020,"['Gerhardt', 'Claus', '']",Universität Heidelberg
+1021,"['Rassoul-Agha', 'Firas', '']",University of Utah
+1024,"['Bevan', 'S.', '']",University College London
+1024,"['Danaher', 'S.', '']",Northumbria University
+1024,"['Perkin', 'J.', '']",The University of Sheffield
+1024,"['Ralph', 'S.', '']",The University of Sheffield
+1026,"['Liu', 'Xin', '']",Jiangsu Normal University
+1026,"['Xiao', 'Zhen-Jun', '']",Nanjing Normal University
+1026,"['Wang', 'Hui-Sheng', '']",Anhui Polytechnic University
+1030,"['Okada', 'H.', '']",Nagoya City University
+1030,"['Alekseev', 'I.', '']",National Research Nuclear University MEPhI
+1030,"['Bravar', 'A.', '']",University of Geneva
+1030,"['Bunce', 'G.', '']",Brookhaven National Laboratory
+1030,"['Dhawan', 'S.', '']",Tata Consultancy Services Limited
+1030,"['Eyser', 'K. O.', '']",Brookhaven National Laboratory
+1032,"['Pelayo', 'Alvaro', '']","University of California, San Diego"
+1034,"['Heydari-Fard', 'M.', '']",University of Qom
+1034,"['Sepangi', 'H. R.', '']",Shahid Beheshti University
+1035,"['Pelayo', 'Alvaro', '']","University of California, San Diego"
+1035,"['Schmidt', 'Benjamin', '']",Michigan State University
+1036,"['Idziaszek', 'Z.', '']",University of Warsaw
+1036,"['Calarco', 'T.', '']",Ulm University
+1036,"['Zoller', 'P.', '']",Austrian Academy of Sciences
+1037,"['Dolan', 'F. A.', '']",University of Crete
+1038,"['Bourgeois', 'Frédéric', '']",Université Paris-Sud 11
+1038,"['Oancea', 'Alexandru', '']",Polytech Paris-UPMC
+1039,"['Geyer', 'B.', '']",University of Leipzig
+1039,"['Klimchitskaya', 'G. L.', '']",Russian Academy of Sciences
+1039,"['Mostepanenko', 'V. M.', '']",Peter the Great St.Petersburg Polytechnic University
+1040,"['Krantz', 'Steven G.', '']",Washington University in St. Louis
+1041,"['Groisman', 'Berry', '']",University of Cambridge
+1042,"['Delahaye', 'Jean-Paul', '']",Université de Lille
+1042,"['Zenil', 'Hector', '']",Oxford Immune Algorithmics
+1043,"['Pan', 'Hongjun', '']",University of North Texas
+1044,"['Megeath', 'S. T.', '', 'University of Toledo']",University of Toledo
+1044,"['Gaidos', 'E.', '', 'University of\n  Hawaii']",
+1044,"['Hester', 'J. J.', '', 'Arizona State University']",University of Toronto
+1044,"['Adams', 'F. C.', '', 'University of\n  Michigan']",University of Michigan
+1044,"['Bally', 'J.', '', 'University of Colorado']",University of Colorado Boulder
+1048,"['Cheng', 'Hai-Yang', '']",
+1048,"['Chua', 'Chun-Khiang', '']",
+1048,"['Soni', 'Amarjit', '']",Brookhaven National Laboratory
+1050,"['Massa', 'D.', '']",Università degli Studi di Palermo
+1050,"['Evans', 'N. R.', '']",Harvard-Smithsonian Center for Astrophysics
+1051,"['Novikov', 'D. S.', '']",NYU Langone Medical Center
+1052,"['Jo', 'J. Y.', '']",Gwangju Institute of Science and Technology
+1052,"['Han', 'H. S.', '']",Konkuk University
+1052,"['Yoon', 'J. -G.', '']",University of Suwon
+1052,"['Song', 'T. K.', '']",Changwon National University
+1052,"['Kim', 'S. -H.', '']",Brown University
+1056,"['Dominici', 'Diego', '']",Johannes Kepler University Linz
+1057,"['Ruiz-Lapuente', 'Pilar', '']",University of Barcelona
+1058,"['Villarino', 'Mark B.', '']",University of Costa Rica
+1059,"['Itoyama', 'Hiroshi', '']",Osaka City University
+1059,"['Maruyoshi', 'Kazunobu', '']",Seikei University
+1060,"['Chao', 'Kuang-Ta', '']",Peking University
+1060,"['He', 'Xiao-Gang', '']",
+1060,"['Ma', 'Jian-Ping', '']",
+1064,"['Yoshizumi', 'Daisuke', '']",The University of Tokyo
+1064,"['Muraoka', 'Yuji', '']",Okayama University
+1064,"['Okamoto', 'Yoshihiko', '']",Nagoya University
+1064,"['Kiuchi', 'Yoko', '']",The University of Tokyo
+1064,"['Yamaura', 'Jun-Ichi', '']",The University of Tokyo
+1067,"['Nannicini', 'Giacomo', '']",IBM Research
+1067,"['Baptiste', 'Philippe', '']",École Polytechnique
+1067,"['Barbier', 'Gilles', '']",École Polytechnique
+1067,"['Krob', 'Daniel', '']",École Polytechnique
+1067,"['Liberti', 'Leo', '']",CNRS and École Polytechnique
+1068,"['Leung', 'Patrick M.', '']",The University of Queensland
+1068,"['Ralph', 'Timothy C.', '']",The University of Queensland
+1069,"['Fu', 'Hua', '']",National University of Singapore
+1069,"['Kam', 'Pooi Yuen', '']",National University of Singapore
+1071,"['Mineo', 'H.', '']",Ton Duc Thang University
+1071,"['Tjon', 'J. A.', '']",Utrecht University
+1071,"['Tsushima', 'K.', '']",Universidade Cruzeiro do Sul
+1074,"['Zhang', 'Hong-Hao', '']",Sun Yat-Sen University
+1074,"['Yan', 'Wen-Bin', '']",Tsinghua University
+1078,"['Ibanez', 'L. E.', '']",Universidad Autónoma de Madrid
+1078,"['Schellekens', 'A. N.', '']",National Institute for Subatomic Physics
+1078,"['Uranga', 'A. M.', '']",
+1080,"['Dremin', 'I. M.', '']","Lebedev Physical Institute of the Russian Academy of Sciences, Moscow, Russia"
+1080,"['Nechitailo', 'V. A.', '']",Institute for Theoretical and Experimental Physics
+1084,"['Kawano', 'Teruhiko', '']",Kyoto Prefectural University of Medicine
+1084,"['Ooguri', 'Hirosi', '']",California Institute of Technology
+1084,"['Ookouchi', 'Yutaka', '']",Kyushu University
+1085,"['Arun', 'K. G.', '']",Chennai Mathematical Institute
+1085,"['Iyer', 'Bala R.', '']",International Centre for Theoretical Sciences
+1085,"['Sathyaprakash', 'B. S.', '']",The Pennsylvania State University USA and Cardiff University UK
+1085,"['Sinha', 'Siddhartha', '']",Raman Research Institute
+1086,"['Cohen', 'Doron', '']",Ben-Gurion University of the Negev
+1087,"['Weniger', 'Ernst Joachim', '']",Universität Regensburg
+1088,"['Yukalov', 'V. I.', '']",University of São Paulo
+1089,"['Cai', 'Yi-Fu', '']",University of Science and Technology of China
+1089,"['Qiu', 'Taotao', '']",Central China Normal University
+1089,"['Piao', 'Yun-Song', '']",Chinese Academy of Sciences
+1089,"['Li', 'Mingzhe', '']",
+1089,"['Zhang', 'Xinmin', '']",Central South University of Forestry and Technology
+1091,"['Fukuda', 'Motohisa', '']",Yamagata University
+1091,"['Wolf', 'Michael M.', '']",
+1092,"['Doktorov', 'E. V.', '']",
+1092,"['Molchan', 'M. A.', '']",Castlight Health
+1093,"['Lee', 'Jae-Joon', '']",Korea Astronomy and Space Science Institute
+1093,"['Koo', 'Bon-Chul', '']",Seoul National University
+1095,"['Kurita', 'Yasunari', '']",Kanagawa Institute of Technology
+1095,"['Morinari', 'Takao', '']",Kyoto University
+1096,"['Granato', 'Enzo', '']","National Institute for Space Research, Brazil"
+1097,"['Fuente', 'A.', '']",French National Centre for Scientific Research
+1101,"['Mantoiu', 'Marius', '']",University of Chile
+1101,"['de Aldecoa', 'Rafael Tiedra', '']",
+1105,"['Wang', 'Zhi-Gang', '']",
+1106,"['Devi', 'A. Senorita', '', 'Manipur Univ']",Manipur University
+1106,"['Misra', 'R.', '', 'IUCAA']",The Inter-University Centre for Astronomy and Astrophysics
+1106,"['Agrawal', 'V. K.', '', 'TIFR']",Tata Institute of Fundamental Research
+1106,"['Singh', 'K. Y.', '', 'Manipur Univ']",
+1108,"['Rosa', 'Valeria M.', '']",Federal University of Juiz de Fora
+1108,"['letelier', 'Patricio S.', '']",
+1112,"['Mokiem', 'M. R.', '']",
+1116,"['Ramos', 'Rudnei O.', '']",Rio de Janeiro State University
+1116,"['Neto', 'J. F. Medeiros', '']",Federal University of Pará
+1116,"['Barci', 'Daniel G.', '']",Rio de Janeiro State University
+1116,"['Linhares', 'Cesar A.', '']",Rio de Janeiro State University
+1117,"['Aprile', 'E.', '']",Columbia University
+1117,"['Giboni', 'K. L.', '']",Shanghai Jiao Tong University
+1117,"['Majewski', 'P.', '']",
+1117,"['Ni', 'K.', '']",
+1117,"['Yamashita', 'M.', '']",The University of Tokyo
+1118,"['Evans', 'C. J.', '']","The Royal Observatory, Edinburgh"
+1119,"['Satinover', 'J. B.', '']",ETH Zurich
+1119,"['Sornette', 'D.', '']",ETH Zurich
+1120,"['Grossman', 'Pinhas', '']",UNSW Sydney
+1120,"['Izumi', 'Masaki', '']",Kyoto University
+1121,"['Ghomi', 'M. Khakian', '']",Amirkabir University of Technology
+1121,"['Bahmanabadi', 'M.', '']",Sharif University of Technology
+1125,"['Mackay', 'Tom G.', '', 'University of Edinburgh']",The University of Edinburgh
+1125,"['Lakhtakia', 'Akhlesh', '', 'Pennsylvania State University']",Pennsylvania State University
+1126,"['Raouafi', 'N. -E.', '']",Johns Hopkins University
+1126,"['Solanki', 'S. K.', '']",Max Planck Institute for Solar System Research
+1127,"['Camp', 'Wes', '']",
+1127,"['Nicoara', 'Remus', '']",The University of Tennessee Medical Center at Knoxville
+1128,"['Rodriguez-Gil', 'P.', '']",Universidad de La Laguna
+1128,"['Gaensicke', 'B. T.', '']",The University of Warwick
+1128,"['Hagen', 'H. -J.', '']",University of Hamburg
+1128,"['Araujo-Betancor', 'S.', '']",Instituto de Astrofísica de Canarias
+1128,"['Aungwerojwit', 'A.', '']",Naresuan University
+1131,"['Frampton', 'Paul H.', '']",
+1132,"['Sion', 'Edward M.', '']",Villanova University
+1132,"['Godon', 'Patrick', '']",Johns Hopkins University
+1132,"['Cheng', 'Fuhua', '']",Villanova University
+1132,"['Szkody', 'Paula', '']",University of Washington Seattle
+1133,"['Yurkin', 'Maxim A.', '']",Russian Academy of Sciences
+1135,"['Eiroa', 'Ernesto F.', '']",Universidad de Buenos Aires
+1135,"['Simeone', 'Claudio', '']",Universidad de Buenos Aires
+1136,"['Bojowald', 'Martin', '']",Pennsylvania State University
+1136,"['Cartin', 'Daniel', '']",Naval Academy Preparatory School
+1136,"['Khanna', 'Gaurav', '']",University of Massachusetts Dartmouth
+1137,"['Boss', 'Alan P.', '']",Carnegie Institution for Science
+1138,"['Wasserman', 'Larry', '']",Carnegie Mellon University
+1138,"['Roeder', 'Kathryn', '']",Carnegie Mellon University
+1139,"['Martinez-Raton', 'Yuri', '']",University Carlos III de Madrid
+1139,"['Cinacchi', 'Giorgio', '']",Universidad Autónoma de Madrid
+1139,"['Velasco', 'Enrique', '']",Universidad Autónoma de Madrid
+1139,"['Mederos', 'Luis', '']",Spanish National Research Council
+1142,"['Carena', 'M.', '']",University of Chicago
+1142,"['Menon', 'A.', '']",University of Chicago
+1142,"['Wagner', 'C. E. M.', '']",Argonne National Laboratory
+1146,"['Ruffini', 'Giulio', '']",Neuroelectrics
+1147,"['Wio', 'Horacio S.', '']",Institute for Cross-Disciplinary Physics and Complex Systems
+1147,"['Deza', 'Roberto R.', '']",Universidad Nacional de Mar del Plata
+1149,"['Harnad', 'John', '']",Concordia University Montreal
+1149,"['Orlov', 'Alexander Yu.', '']",P.P. Shirshov Institute of Oceanology
+1150,"['Noel', 'Noelia E. D.', '']",University of Surrey
+1150,"['Gallart', 'Carme', '']",Universidad de La Laguna
+1150,"['Costa', 'Edgardo', '']",
+1150,"['Mendez', 'Rene A.', '']","University of Santiago, Chile"
+1151,"['Koyama', 'Kazuya', '']",University of Portsmouth
+1151,"['Mizuno', 'Shuntaro', '']",Université Paris-Sud 11
+1151,"['Wands', 'David', '']",University of Portsmouth
+1153,"['Hsu', 'Stephen D. H.', '']",University of Oregon
+1154,"['Deza', 'Roberto R.', '']",Universidad Nacional de Mar del Plata
+1158,"['Pavani', 'D. B', '']",Universidade Federal do Rio Grande do Sul
+1158,"['Bica', 'E.', '']",Universidade Federal do Rio Grande do Sul
+1159,"['Hartnoll', 'Sean A.', '']",Stanford University
+1159,"['Kovtun', 'Pavel', '']",University of Victoria
+1160,"['Bao', 'Wei', '']",City University of Hong Kong
+1160,"['Chen', 'Ying', '']",Imperial College London
+1160,"['Yamada', 'K.', '']",Tohoku University
+1160,"['Savici', 'A. T.', '']",Oak Ridge National Laboratory
+1160,"['Russo', 'P. L.', '']",TRIUMF
+1162,"['Zlatos', 'Andrej', '']",
+1164,"['Foot', 'Robert', '']",
+1164,"['Kobakhidze', 'Archil', '']",The University of Sydney
+1164,"['Volkas', 'Raymond R.', '']",University of Melbourne
+1165,"['Roberts', 'David C.', '']",
+1166,"['Beloborodov', 'I. S.', '']","California State University, Northridge"
+1166,"['Glatz', 'A.', '']",Argonne National Laboratory
+1166,"['Vinokur', 'V. M.', '']",Argonne National Laboratory
+1169,"['Jura', 'M.', '', 'UCLA']","University of California, Los Angeles"
+1169,"['Farihi', 'J.', '', 'Gemini']",University College London
+1169,"['Zuckerman', 'B.', '', 'UCLA']","University of California, Los Angeles"
+1170,"['Izús', 'Gonzalo G.', '', 'Departamento de Física, Facultad de Ciencias Exactas y Naturales,\n  Universidad Nacional de Mar del Plata, Argentina']",Universidad Nacional de Mar del Plata
+1170,"['Deza', 'Roberto R.', '', 'Departamento de Física, Facultad de Ciencias Exactas y Naturales,\n  Universidad Nacional de Mar del Plata, Argentina']",Universidad Nacional de Mar del Plata
+1172,"['Ye', 'Xing-Hao', '']",Zhejiang University
+1172,"['Lin', 'Qiang', '']",Beihang University (BUAA)
+1173,"['Katz', 'Gabriel', '']",Massachusetts Institute of Technology
+1174,"['Izús', 'Gonzalo G.', '']",Universidad Nacional de Mar del Plata
+1174,"['Deza', 'Roberto R.', '']",Universidad Nacional de Mar del Plata
+1174,"['Bernal', 'Luis', '']",Universidad Nacional de Mar del Plata
+1174,"['Pérez-Villar', 'Vicente', '']","University of California, Berkeley"
+1175,"['Ludwig', 'Hans-G.', '']",Heidelberg University
+1175,"['Steffen', 'Matthias', '']",Leibniz Institute for Astrophysics Potsdam
+1176,"['Baghbanzadeh', 'S.', '']",Institute for Research in Fundamental Sciences (IPM)
+1176,"['Rezakhani', 'A. T.', '']",Sharif University of Technology
+1177,"['Takenaga', 'Kazunori', '']",Kumamoto University
+1178,"['Favazza', 'C.', '']",Mayo Foundation for Medical Education and Research
+1178,"['Trice', 'J.', '']",Washington University in St. Louis
+1182,"['Ruan', 'Zhichao', '']",Zhejiang University
+1182,"['Yan', 'Min', '']",KTH Royal Institute of Technology
+1182,"['Neff', 'Curtis W.', '']",
+1182,"['Qiu', 'Min', '']",Zhejiang University
+1186,"['Raymond', 'S.', '']",
+1186,"['Ressouche', 'E.', '']",Université Grenoble Alpes
+1190,"['Fischer', 'Debra A.', '']",Yale University
+1190,"['Vogt', 'Steven S.', '']","University of California, Santa Cruz"
+1190,"['Marcy', 'Geoffrey W.', '']","University of California, Berkeley"
+1190,"['Butler', 'R. Paul', '']",Carnegie Institution for Science
+1190,"['Sato', ""Bun'ei"", '']",Tokyo Institute of Technology
+1194,"['Toma', 'Matei', '']",University of Lorraine
+1195,"['Yang', 'Qing', '']",South-Central University For Nationalities
+1198,"['Kuraev', 'E. A.', '']",
+1200,"['Adler', 'Stephen L.', '']",Institute for Advanced Study
+1200,"['Yndurain', 'F. J.', '']",Universidad Autónoma de Madrid
+1201,"['Li', 'Zhongmu', '']",
+1203,"['Postnov', 'K. A.', '', 'Sternberg Astronomical Institute, Moscow']",Lomonosov Moscow State University
+1203,"['Kuranov', 'A. G.', '', 'Sternberg Astronomical Institute, Moscow']",Lomonosov Moscow State University
+1204,"['Schwingenschlögl', 'Udo', '']",
+1205,"['Mathiesen', 'Joachim', '']",University of Oslo
+1205,"['Procaccia', 'Itamar', '']",Weizmann Institute of Science
+1205,"['Regev', 'Ido', '']",Ben-Gurion University of the Negev
+1208,"['Dey', 'Aparajita', '']",Variable Energy Cyclotron Centre
+1212,"['Weymann', 'I.', '']",Adam Mickiewicz University
+1214,"['Heuvel', 'E. P. J. van den', '', 'University of Amsterdam, University of\n  California']",University of Amsterdam
+1217,"['Okamoto', 'Takashi', '']",Hokkaido University
+1221,"['Odrzywolek', 'A.', '']",Jagiellonian University
+1222,"['Briand', 'Philippe', '']",Université Savoie Mont Blanc
+1222,"['Confortola', 'Fulvia', '']",Politecnico di Milano
+1223,"['Balakin', 'Alexander B.', '']",Kazan (Volga Region) Federal University
+1223,"['Sushkov', 'Sergey V.', '']",Kazan (Volga Region) Federal University
+1223,"['Zayats', 'Alexei E.', '']",Kazan (Volga Region) Federal University
+1224,"['Serrano', 'M. Angeles', '']",University of Barcelona
+1224,"['Boguna', 'Marian', '']",University of Barcelona
+1224,"['Vespignani', 'Alessandro', '']",Northeastern University
+1225,"['Sethi', 'Shiv. K.', '']",Raman Research Institute
+1225,"['Subrahmanyan', 'Ravi', '']",
+1225,"['Roshi', 'D. Anish', '']",National Radio Astronomy Observatory
+1226,"['Genenko', 'Y. A.', '']",Technical University of Darmstadt
+1226,"['Rauh', 'H.', '']",Technische Universität Darmstadt
+1230,"['Mesablishvili', 'Bachuki', '']",A. Razmadze Mathematical Institute
+1234,"['Subashiev', 'Arsen V.', '']",Stony Brook University
+1234,"['Luryi', 'Serge', '']",Stony Brook University
+1238,"['Cai', 'Rong-Gen', '']",Chinese Academy of Sciences
+1240,"['Moya', 'Xavier', '']",University of Cambridge
+1240,"['Manosa', 'Lluis', '']",University of Barcelona
+1240,"['Planes', 'Antoni', '']",University of Barcelona
+1240,"['Aksoy', 'Seda', '']",Istanbul Technical University
+1240,"['Acet', 'Mehmet', '']",University of Duisburg-Essen
+1243,"['Stanishev', 'V.', '']",Linköping University
+1243,"['Goobar', 'A.', '']",Stockholm University
+1243,"['Benetti', 'S.', '']",The Astronomical Observatory of Brera
+1243,"['Kotak', 'R.', '']","Mahatma Gandhi Dental College , Jaipur"
+1243,"['Pignata', 'G.', '']",Universidad Andrés Bello
+1246,"['Masjuan', 'P.', '']",Johannes Gutenberg-Universität Mainz
+1246,"['Peris', 'S.', '']",IFAE Institute for High Energy Physics
+1247,"['Ross', 'Graham', '']",
+1250,"['Ray', 'Nirat', '']",Jawaharlal Nehru Centre for Advanced Scientific Research
+1250,"['Waghmare', 'Umesh V.', '']",Jawaharlal Nehru Centre for Advanced Scientific Research
+1251,"['Stuchlik', 'Z.', '']",Silesian University in Opava
+1251,"['Slany', 'P.', '']",Silesian University in Opava
+1253,"['Dedkov', 'Yu. S.', '']",Technische Universität Dresden
+1253,"['Fonin', 'M.', '']",
+1253,"['Kucherenko', 'Yu.', '']",National Academy of Sciences of Ukraine
+1257,"['Garcia-Berro', 'E.', '']",Universitat Politècnica de Catalunya
+1257,"['Loren-Aguilar', 'P.', '']",University of Exeter
+1257,"['Pedemonte', 'A. G.', '']",Universitat Politècnica de Catalunya
+1257,"['Isern', 'J.', '']",Institut de Ciències de l'Espai
+1257,"['Bergeron', 'P.', '']",Université de Montréal
+1259,"['Gurvitz', 'S. A.', '']",Weizmann Institute of Science
+1260,"['Nouicer', 'Khireddine', '']",University of Jijel
+1263,"['Grbic', 'Boris', '']",ETH Zurich
+1263,"['Leturcq', 'Renaud', '']",Luxembourg Institute of Science and Technology (LIST)
+1263,"['Ihn', 'Thomas', '']",ETH Zurich
+1263,"['Ensslin', 'Klaus', '']",ETH Zurich
+1263,"['Reuter', 'Dirk', '']",Universität Paderborn
+1266,"['Likforman-Sulem', 'Laurence', '']",Institut Mines Telecom/Telecom ParisTech & CNRS LTCI
+1266,"['Zahour', 'Abderrazak', '']",Technische Universität Braunschweig
+1266,"['Taconet', 'Bruno', '']",
+1267,"['Landau', 'I. L.', '']",Universität Bern
+1267,"['Keller', 'H.', '']",University of Zurich
+1269,"['Werner', 'Klaus', '']",IMT Atlantique
+1270,"['Ossola', 'Giovanni', '', 'Democritos Nucl. Res. Ctr.']",CUNY Graduate Center
+1270,"['Papadopoulos', 'Costas G.', '', 'Democritos Nucl. Res. Ctr.']",National Center for Scientific Research Demokritos
+1270,"['Pittau', 'Roberto', '', 'Turin U. & INFN, Turin']",University of Granada
+1271,"['Pinsky', 'Tali', '']",
+1271,"['Wajnryb', 'Bronislaw', '']",Rzeszów University of Technology
+1272,"['Esnault', 'Hélène', '']",Freie Universität Berlin
+1274,"['MacGregor', 'K. B.', '']",National Center for Atmospheric Research
+1274,"['Jackson', 'Stephen', '']",
+1274,"['Skumanich', 'Andrew', '']",
+1274,"['Metcalfe', 'T. S.', '']",Max Planck Institute for Solar System Research
+1276,"['Wootters', 'William K.', '']",Williams College
+1276,"['Sussman', 'Daniel M.', '']",Emory University
+1277,"['Piro', 'Anthony L.', '', 'KITP, UCB']",California Institute of Technology
+1277,"['Bildsten', 'Lars', '', 'KITP']","University of California, Santa Barbara"
+1280,"['Genzel', 'R.', '']",
+1280,"['Karas', 'V.', '']",The Czech Academy of Sciences
+1281,"['Sondow', 'Jonathan', '']",Princeton University
+1282,"['Kollath', 'Corinna', '']",University of Bonn
+1284,"['Strempfer', 'J.', '']",Argonne National Laboratory
+1284,"['Bohnenbuck', 'B.', '']",Max Planck Institute for Solid State Research
+1284,"['Mostovoy', 'M.', '']",University of Groningen
+1284,"['Aliouane', 'N.', '']",Paul Scherrer Institut
+1284,"['Argyriou', 'D. N.', '']",European Spallation Source (ESS)
+1288,"['Maia', 'M. D.', '']",University of Brasília
+1290,"['Guenther', 'Uwe', '']",Helmholtz-Zentrum Dresden-Rossendorf
+1290,"['Rotter', 'Ingrid', '']",
+1290,"['Samsonov', 'Boris F.', '']",Tomsk State University
+1291,"['Barankov', 'R. A.', '']",IPG Photonics Corporation
+1291,"['Levitov', 'L. S.', '']",Massachusetts Institute of Technology
+1292,"['Roy', 'Aidan', '']",D-Wave Systems Inc.
+1292,"['Godsil', 'Chris', '']",University of Waterloo
+1293,"['Sidky', 'Ahmed', '']",Santeon Group
+1293,"['Arthur', 'James', '']",
+1293,"['Bohner', 'Shawn', '']",Rose Hulman Institute of Technology
+1296,"['Perri', 'M.', '']",ASI Science Data Center
+1296,"['Guetta', 'D.', '']",National Institute of Astrophysics
+1296,"['Antonelli', 'L. A.', '']",National Institute of Astrophysics
+1296,"['Cucchiara', 'A.', '']",University of the Virgin Islands
+1296,"['Mangano', 'V.', '']",Pennsylvania State University
+1296,"['Reeves', 'J.', '']","University of Maryland, Baltimore County"
+1298,"['Vignali', 'C.', '']",Università degli Studi di Siena
+1298,"['Brandt', 'W. N.', '']",
+1298,"['Shemmer', 'O.', '']",University of North Texas
+1298,"['Steffen', 'A.', '']",California Institute of Technology
+1298,"['Schneider', 'D. P.', '']",Pennsylvania State University
+1300,"['Hunter', 'T. R.', '']",
+1300,"['Zhang', 'Q.', '']",Tsinghua University
+1300,"['Sridharan', 'T. K.', '']",Harvard-Smithsonian Center for Astrophysics
+1301,"['Stanishev', 'V.', '']",Linköping University
+1301,"['Kraicheva', 'Z.', '']",
+1301,"['Genkov', 'V.', '']",Bulgarian Academy of Sciences
+1302,"['Taylor', 'Steven M', '']",
+1303,"['Heng', 'Kevin', '']",The University of Warwick
+1304,"['Nisoli', 'Cristiano', '']",Los Alamos National Laboratory
+1304,"['Lammert', 'Paul E.', '']",Pennsylvania State University
+1304,"['Mockensturm', 'Eric', '']",Pennsylvania State University
+1304,"['Crespi', 'Vincent H.', '']",Pennsylvania State University
+1305,"['Deming', 'Drake', '']","University of Maryland, College Park"
+1305,"['Richardson', 'L. Jeremy', '']",University of Colorado Boulder
+1305,"['Harrington', 'Joseph', '']",University of Central Florida
+1306,"['Masetti', 'L.', '']",Johannes Gutenberg-Universität Mainz
+1307,"['Jindal', 'Nihar', '']",University of Minnesota Duluth
+1308,"['Burgarth', 'Daniel', '']",Macquarie University
+1309,"['Chmutov', 'Sergei', '']",The Ohio State University
+1309,"['Voltz', 'Jeremy', '']",University of Toronto
+1310,"['Tziolas', 'Andreas', '']",University of Alaska Anchorage
+1310,"['Wang', 'Anzhong', '']",Baylor University
+1311,"['Dalang', 'Robert C.', '']",École Polytechnique Fédérale de Lausanne
+1311,"['Khoshnevisan', 'Davar', '']",
+1311,"['Nualart', 'Eulalia', '']",University Pompeu Fabra
+1312,"['Chmutov', 'S. V.', '']",The Ohio State University
+1312,"['Lando', 'S. K.', '']",National Research University Higher School of Economics
+1315,"['Gowtham', 'S.', '']",Michigan Technological University
+1315,"['Scheicher', 'Ralph H.', '']",Uppsala University
+1315,"['Ahuja', 'Rajeev', '']",Uppsala University
+1315,"['Pandey', 'Ravindra', '']",Michigan Technological University
+1315,"['Karna', 'Shashi P.', '']",Army Research Laboratory
+1316,"['Sommer', 'Naftali', '']",Apple Inc.
+1316,"['Feder', 'Meir', '']",Tel Aviv University
+1316,"['Shalvi', 'Ofir', '']",none
+1317,"['Ibata', 'R.', '']",French National Centre for Scientific Research
+1317,"['Martin', 'N. F.', '']",French National Centre for Scientific Research
+1317,"['Irwin', 'M.', '']",Cancer Research UK Cambridge Institute
+1317,"['Chapman', 'S.', '']",Dalhousie University
+1317,"['Ferguson', 'A. M. N.', '']",The University of Edinburgh
+1319,"['Dienes', 'Keith R.', '']",The University of Arizona
+1323,"['Moskalenko', 'Igor V.', '', 'Stanford']",Stanford University
+1323,"['Wai', 'Lawrence L.', '', 'SLAC']",Stanford University
+1324,"['Janiuk', 'Agnieszka', '']",Polish Academy of Sciences
+1324,"['Yuan', 'Ye-Fei', '']","University of Nevada, Las Vegas"
+1324,"['Perna', 'Rosalba', '']",Stony Brook University
+1324,"['di Matteo', 'Tiziana', '']",Carnegie Mellon University
+1325,"['Manosa', 'Victor', '']",Universitat Politècnica de Catalunya
+1326,"['Ford', 'Kevin', '']","University of Illinois, Urbana-Champaign"
+1326,"['Luca', 'Florian', '']",University of the Witwatersrand
+1326,"['Shparlinski', 'Igor E.', '']",UNSW Sydney
+1327,"['Strong', 'Andrew W.', '', 'MPE']",Max Planck Institute for Extraterrestrial Physics
+1327,"['Digel', 'Seth W.', '', 'SLAC']",Stanford University
+1327,"['Porter', 'Troy A.', '', 'UCSC']",
+1328,"['Gupta', 'Nayantara', '']",Raman Research Institute
+1328,"['Zhang', 'Bing', '']","University of Nevada, Las Vegas"
+1329,"['Shirokova', 'Nadya', '']",
+1330,"['Ghioca', 'Dragos', '']",University of British Columbia - Vancouver
+1330,"['Tucker', 'Thomas J.', '']",University of Rochester
+1331,"['Lo', 'Assane', '']",University of Wollongong in Dubai
+1333,"['Won', 'E.', '']",Korea University
+1335,"['Quaglioni', 'S.', '']",Lawrence Livermore National Laboratory
+1335,"['Navratil', 'P.', '']",TRIUMF
+1336,"['Kleefeld', 'F.', '', 'Nucl. Phys. Inst., Rez near Prague / CFIF, Lisbon']",Instituto Técnico y Cultural
+1337,"['Liu', 'Ruipeng', '']",Deakin University
+1340,"['Su', 'Guangxiang', '']",
+1342,"['Kombe', 'Ismail', '']",Istanbul Ticaret University
+1343,"['Cao', 'Qing-Hong', '']",Peking University
+1343,"['Chen', 'Chuan-Ren', '']",
+1344,"['Yasui', 'S.', '']",Kochi University
+1344,"['Oka', 'M.', '']",Japan Atomic Energy Agency
+1347,"['Pra', 'Paolo Dai', '']",University of Padova
+1347,"['Runggaldier', 'Wolfgang J.', '']",University of Padova
+1347,"['Sartori', 'Elena', '']",University of Padova
+1349,"['Tertychniy', 'S.', '']",
+1351,"['Hofmann', 'Steve', '']",University of Missouri
+1351,"['Kim', 'Seick', '']",Yonsei University
+1355,"['Buchenau', 'U.', '']",Forschungszentrum Jülich
+1356,"['Stroppa', 'A.', '']",Shanghai University
+1356,"['Duan', 'X.', '']",Ningbo University
+1358,"['Buric', 'Nikola', '']",Institute of Physics Belgrade
+1360,"['Liu', 'Jie', '']",Xiamen University Malaysia
+1360,"['Xin', 'Jack', '']","University of California, Irvine"
+1360,"['Qi', 'Yingyong', '']","University of California, Irvine"
+1361,"['van Hateren', 'J. H.', '']",University of Groningen
+1364,"['Buric', 'Nikola', '']",Institute of Physics Belgrade
+1365,"['Huegelmeyer', 'S. D.', '']",Georg-August-Universität Göttingen
+1365,"['Dreizler', 'S.', '']",Georg-August-Universität Göttingen
+1368,"['Aoki', 'K.', '', 'for the PHENIX Collaboration']",High Energy Accelerator Research Organization
+1369,"['Ozcan', 'O.', '']",Hacettepe University
+1373,"['Davies', 'R.', '']",Max Planck Institute for Extraterrestrial Physics
+1373,"['Sanchez', 'F. Mueller', '']",Instituto de Astrofísica de Canarias
+1373,"['Genzel', 'R.', '']","University of California, Berkeley"
+1377,"['Muro', 'Fernando', '']",
+1377,"['Schwede', 'Stefan', '']",University of Bonn
+1377,"['Strickland', 'Neil', '']",The University of Sheffield
+1379,"['Miyauchi', 'Yuhei', '']",Kyoto University
+1379,"['Saito', 'Riichiro', '']",Tohoku University
+1379,"['Sato', 'Kentaro', '']",Hirosaki University
+1379,"['Ohno', 'Yutaka', '']",Nagoya University
+1379,"['Iwasaki', 'Shinya', '']",
+1383,"['Recio', 'Tomas', '']",Universidad de Cantabria
+1385,"['Weiss', 'Yuval', '']",Bar Ilan University
+1385,"['Goldstein', 'Moshe', '']",Bar Ilan University
+1385,"['Berkovits', 'Richard', '']",Bar Ilan University
+1386,"['Lipunov', 'V. M.', '']",Lomonosov Moscow State University
+1386,"['Postnov', 'K. A.', '']",Lomonosov Moscow State University
+1386,"['Prokhorov', 'M. E.', '']",Lomonosov Moscow State University
+1386,"['Bogomazov', 'A. I.', '']",Lomonosov Moscow State University
+1390,"['Dean', 'D. S.', '']",Université Bordeaux 1
+1390,"['Horgan', 'R. R.', '']",University of Cambridge
+1391,"['Libby', 'J. F.', '', 'on behalf of the LHCb Collaboration']",
+1392,"['Lanzoni', 'B.', '', '1 Dip. Astro., Bologna; 2 INAF--Oss. Astro., Bologna; 3\n  Dip. Fisica, Roma Tor Vergata; 4 ESO-Chile; 5 Dip. Scienze della\n  Comunicazione, Teramo; 6 INAF--Oss. Astro. Collurania, Teramo; 7 Astronomy\n  Dep., University of Virginia; 8 Univ. of Zurich, Institute for Theoretical\n  Physics; 9 Dep. of Astronomy and Astrophysics, The Pennsylvania State\n  University']",Università degli Studi di Siena
+1392,"['Sanna', 'N.', '', '1 Dip. Astro., Bologna; 2 INAF--Oss. Astro., Bologna; 3\n  Dip. Fisica, Roma Tor Vergata; 4 ESO-Chile; 5 Dip. Scienze della\n  Comunicazione, Teramo; 6 INAF--Oss. Astro. Collurania, Teramo; 7 Astronomy\n  Dep., University of Virginia; 8 Univ. of Zurich, Institute for Theoretical\n  Physics; 9 Dep. of Astronomy and Astrophysics, The Pennsylvania State\n  University']","INAF-Arcetri Astrophysical Observatory, Italy"
+1392,"['Ferraro', 'F. R.', '', '1 Dip. Astro., Bologna; 2 INAF--Oss. Astro., Bologna; 3\n  Dip. Fisica, Roma Tor Vergata; 4 ESO-Chile; 5 Dip. Scienze della\n  Comunicazione, Teramo; 6 INAF--Oss. Astro. Collurania, Teramo; 7 Astronomy\n  Dep., University of Virginia; 8 Univ. of Zurich, Institute for Theoretical\n  Physics; 9 Dep. of Astronomy and Astrophysics, The Pennsylvania State\n  University']",Università degli Studi di Siena
+1392,"['Valenti', 'E.', '', '1 Dip. Astro., Bologna; 2 INAF--Oss. Astro., Bologna; 3\n  Dip. Fisica, Roma Tor Vergata; 4 ESO-Chile; 5 Dip. Scienze della\n  Comunicazione, Teramo; 6 INAF--Oss. Astro. Collurania, Teramo; 7 Astronomy\n  Dep., University of Virginia; 8 Univ. of Zurich, Institute for Theoretical\n  Physics; 9 Dep. of Astronomy and Astrophysics, The Pennsylvania State\n  University']",European Southern Observatory
+1392,"['Beccari', 'G.', '', '1 Dip. Astro., Bologna; 2 INAF--Oss. Astro., Bologna; 3\n  Dip. Fisica, Roma Tor Vergata; 4 ESO-Chile; 5 Dip. Scienze della\n  Comunicazione, Teramo; 6 INAF--Oss. Astro. Collurania, Teramo; 7 Astronomy\n  Dep., University of Virginia; 8 Univ. of Zurich, Institute for Theoretical\n  Physics; 9 Dep. of Astronomy and Astrophysics, The Pennsylvania State\n  University']",European Southern Observatory
+1394,"['Emam', 'W.', '']",Ain Shams University
+1394,"['Khalil', 'S.', '']",Zewail University of Science and Technology
+1398,"['Lemle', 'Ludovic Dan', '', 'FIH']",Polytechnic University of Timisoara
+1399,"['Lee', 'Bomee', '', 'Seoul National Univ.']",University of Massachusetts Amherst
+1399,"['Lee', 'Jounghun', '', 'Seoul National Univ.']",University of Massachusetts Amherst
+1400,"['Ferguson', 'James T.', '']",
+1401,"['Smirnova', 'I. S.', '']",Russian Academy of Sciences
+1401,"['Bazhenov', 'A. V.', '']",Russian Academy of Sciences
+1405,"['Angoshtari', 'Arzhang', '']",Sharif University of Technology
+1409,"['Cassing', 'W.', '', 'Univ. of Giessen']",Justus-Liebig-Universität Gießen
+1413,"['Matoussi', 'A.', '']",Université du Maine
+1413,"['Xu', 'M.', '']",
+1414,"['Royen', 'Thomas', '']",Fachhochschule Bingen
+1416,"['Mondejar', 'Jorge', '']",Karlsruhe Institute of Technology
+1416,"['Pineda', 'Antonio', '']",Autonomous University of Barcelona
+1417,"['Rabanal', 'Roland', '']",Pontifical Catholic University of Peru
+1420,"['Jakobsson', 'P.', '']",University of Iceland
+1420,"['Fynbo', 'J. P. U.', '']",University of Copenhagen
+1422,"['Wilken', 'F.', '']",Max Planck Institute for Nuclear Physics
+1422,"['Bauer', 'D.', '']",University of Rostock
+1423,"['Curceanu', 'Catalina', '', 'on behalf of the AMADEUS Collaboration']",
+1424,"['Dias', 'D. H. N.', '']",Universidade Federal Fluminense
+1428,"['Gladyshev', 'A. V.', '']",Joint Institute for Nuclear Research
+1428,"['Kazakov', 'D. I.', '']",Joint Institute for Nuclear Research
+1428,"['Paucar', 'M. G.', '']",Universidad Técnica de Ambato (UTA)
+1429,"['Momany', 'Y.', '']",European Southern Observatory
+1429,"['Held', 'E. V.', '']",The Astronomical Observatory of Brera
+1429,"['Saviane', 'I.', '']",European Southern Observatory
+1429,"['Zaggia', 'S.', '']",National Institute of Astrophysics
+1429,"['Rizzi', 'L.', '']",W. M. Keck Observatory
+1431,"['Kim', 'Dongseok', '']",Kyonggi University
+1433,"['Lechermann', 'Frank', '']",European XFEL
+1433,"['Georges', 'Antoine', '']",
+1435,"['Andrianov', 'A. A.', '']",Saint Petersburg State University
+1435,"['Cannata', 'F.', '']",Paul Scherrer Institut
+1437,"['Janssen', 'Bert', '']",University of Granada
+1439,"['Engel', 'Michael', '', 'Institut für Theoretische und\n  Angewandte Physik, Universität Stuttgart']",Friedrich-Alexander-University of Erlangen-Nürnberg
+1439,"['Trebin', 'Hans-Rainer', '', 'Institut für Theoretische und\n  Angewandte Physik, Universität Stuttgart']",Universität Stuttgart
+1440,"[""Yavors'kii"", 'T.', '']",Coventry University
+1440,"['Apel', 'W.', '']",Physikalisch-Technische Bundesanstalt
+1440,"['Everts', 'H. -U.', '']",Leibniz Universität Hannover
+1442,"['Nguyen', 'T. K. T', '']",Vietnam Academy of Science and Technology
+1446,"['Flanagan', 'Eanna E.', '']",
+1446,"['Rosenthal', 'Eran', '']",Israel Aerospace Industries Ltd.
+1449,"['Garcia-Barreto', 'J. A.', '', 'IA-UNAM, Mexico']",Universidad Nacional Autónoma de México
+1449,"['Hernandez-Toledo', 'H.', '', 'IA-UNAM, Mexico']",Universidad Nacional Autónoma de México
+1449,"['Moreno-Diaz', 'E.', '', 'IA-UNAM, Mexico']",
+1453,"['Graham', 'James R.', '']",
+1453,"['Macintosh', 'Bruce', '']",Stanford University
+1453,"['Doyon', 'Rene', '']",Université de Montréal
+1453,"['Gavel', 'Don', '']",University of California Observatories
+1453,"['Larkin', 'James', '']","University of California, Los Angeles"
+1455,"['Biazzo', 'K.', '']",National Institute of Astrophysics
+1455,"['Frasca', 'A.', '']",National Institute of Astrophysics
+1455,"['Catalano', 'S.', '']",University of Catania
+1455,"['Marilli', 'E.', '']",National Institute of Astrophysics
+1456,"['Damour', 'Thibault', '']",Institut des Hautes Études Scientifiques
+1457,"['Ulvestad', 'James S.', '']",New Mexico Institute of Mining and Technology
+1457,"['Greene', 'Jenny E.', '']",Princeton University
+1457,"['Ho', 'Luis C.', '']",
+1461,"['Biazzo', 'K.', '']",National Institute of Astrophysics
+1461,"['Pasquini', 'L.', '']",Erasmus University Rotterdam
+1461,"['Frasca', 'A.', '']",National Institute of Astrophysics
+1464,"['Kadler', 'M.', '']",University of Wuerzburg
+1468,"['Sandvik', 'A. W.', '']",Beijing Computational Science Research Center
+1468,"['Beach', 'K. S. D.', '']",University of Mississippi
+1472,"['Chen', 'Jianxin', '']",Alibaba Group US
+1472,"['Duan', 'Runyao', '']",University of Technology Sydney
+1472,"['Ji', 'Zhengfeng', '']",
+1472,"['Ying', 'Mingsheng', '']",Tsinghua University
+1472,"['Yu', 'Jun', '']",Alibaba Group US
+1473,"['Sparavigna', 'A.', '']",Politecnico di Torino
+1473,"['Mello', 'A.', '']",Politecnico di Torino
+1473,"['Montrucchio', 'B.', '']",Politecnico di Torino
+1474,"['Abraham', 'Romain', '', 'MAPMO']",Université d'Orléans
+1474,"['Delmas', 'Jean-François', '', 'CERMICS']",École des Ponts ParisTech
+1475,"['Austin', 'Chris', '']",
+1476,"['Stecki', 'J.', '']",
+1478,"['Basko', 'D. M.', '']",Université Grenoble Alpes
+1478,"['Aleiner', 'I. L.', '']",Columbia University
+1478,"['Altshuler', 'B. L.', '']",Columbia University
+1479,"['Adriano', 'C.', '']",University of Campinas
+1483,"['Barbosa', 'Geraldo A.', '']",
+1484,"['Drozdov', 'I. V.', '']",Universität Koblenz-Landau
+1484,"['Stahlhofen', 'A. A.', '']",University of Cologne
+1486,"['Abreu', 'Luis Daniel', '']",Austrian Academy of Sciences
+1489,"['Bailey', 'Jon A.', '']",Fermi National Accelerator Laboratory (Fermilab)
+1490,"['Aidala', 'K. E.', '']",Mount Holyoke College
+1490,"['Parrott', 'R. E.', '']",Harvard University
+1490,"['Kramer', 'T.', '']",
+1490,"['Heller', 'E. J.', '']",Harvard University
+1490,"['Westervelt', 'R. M.', '']",Harvard University
+1494,"['Ayyer', 'Arvind', '']",Indian Institute of Science
+1494,"['Stenlund', 'Mikko', '']",University of Helsinki
+1495,"['Reed', 'M. D.', '']",Missouri State University
+1495,"[""O'Toole"", 'S. J.', '']",Macquarie University
+1495,"['Terndrup', 'D. M.', '']",University of Notre Dame
+1495,"['Eggen', 'J. R.', '']",Georgia State University
+1495,"['Zhou', 'A. -Y.', '']","National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China"
+1495,"['An', 'D.', '']",
+1498,"['Medvedeva', 'J. E.', '']",Missouri University of Science and Technology
+1500,"['Gozar', 'A.', '']",Yale University
+1500,"['Logvenov', 'G.', '']",Max Planck Institute for Solid State Research
+1500,"['Butko', 'V. Y.', '']",
+1503,"['Tsai', 'Victor C.', '']",Harvard University
+1503,"['Wettlaufer', 'J. S.', '']",Yale University and Nordic Institute for Theoretical Physics
+1504,"['Grinstein', 'Benjamin', '']","University of California, San Diego"
+1504,"['Trott', 'Michael', '']",IT University of Copenhagen
+1505,"['Calvo', 'G. F.', '']",University of Castilla-La Mancha
+1505,"['Picón', 'A.', '']",Universidad Autónoma de Madrid
+1505,"['Bramon', 'A.', '']",Autonomous University of Barcelona
+1506,"['Ardila', 'D. R.', '']",NASA
+1506,"['Golimowski', 'D. A.', '']",Space Telescope Science Institute
+1506,"['Krist', 'J. E.', '']",California Institute of Technology
+1506,"['Clampin', 'M.', '']",The University of Edinburgh
+1506,"['Ford', 'H. C.', '']",Johns Hopkins University
+1510,"['Hansteen', 'Viggo H.', '']",University of Oslo
+1510,"['Carlsson', 'Mats', '']",University of Oslo
+1512,"['Noginov', 'M. A.', '']",Norfolk State University
+1512,"['Podolskiy', 'V. A.', '']",University of Massachusetts Lowell
+1512,"['Zhu', 'G.', '']",Norfolk State University
+1512,"['Mayy', 'M.', '']",Norfolk State University
+1512,"['Bahoura', 'M.', '']",Norfolk State University
+1516,"['Sidharth', 'B. G.', '']","International Institute of Applicable Mathemaths and Information Sciences, Hyderabad"
+1517,"['Watson', 'Dan M.', '']",University of Rochester
+1517,"['Leisenring', 'Jarron M.', '']",The University of Arizona
+1517,"['Furlan', 'Elise', '']",Alpen-Adria-Universität Klagenfurt
+1517,"['Bohac', 'C. J.', '']",University of Virginia
+1517,"['Sargent', 'B.', '']",Rochester Institute of Technology
+1517,"['Forrest', 'W. J.', '']",University of Rochester
+1517,"['Calvet', 'Nuria', '']",
+1517,"['Hartmann', 'Lee', '']",University of Michigan
+1521,"['Kirkpatrick', 'J. Davy', '']",California Institute of Technology
+1522,"['Grundy', 'W. M.', '']",Lowell Observatory
+1522,"['Stansberry', 'J. A.', '']",
+1522,"['Noll', 'K. S.', '']",NASA
+1522,"['Stephens', 'D. C.', '']",Brigham Young University - Provo Main Campus
+1522,"['Trilling', 'D. E.', '']",Northern Arizona University
+1524,"['Grundy', 'W. M.', '']",Lowell Observatory
+1524,"['Young', 'L. A.', '']",Southwest Research Institute
+1524,"['Spencer', 'J. R.', '']",National Research Council Canada
+1524,"['Johnson', 'R. E.', '']",New York University
+1526,"['Hyodo', 'Tetsuo', '']",Tokyo Institute of Technology
+1526,"['Jido', 'Daisuke', '']",Tokyo Institute of Technology
+1526,"['Hosaka', 'Atsushi', '']",
+1527,"['Hiroi', 'Z.', '']",
+1527,"['Yonezawa', 'S.', '']",Kyoto University
+1527,"['Nagao', 'Y.', '']",The University of Tokyo
+1527,"['Yamaura', 'J.', '']",The University of Tokyo
+1528,"['Choi', 'Suk', '']",Korea Basic Science Institute KBSI
+1530,"['Yasuda', 'Osamu', '']",
+1531,"['Lefeuvre', 'G.', '', 'APC']",Micron Semiconductor
+1531,"['Gorodetzky', 'P.', '', 'APC']",Retired
+1531,"['Dolbeau', 'J.', '', 'APC']",Atomic Energy and Alternative Energies Commission
+1531,"['Patzak', 'T.', '', 'APC']",Paris Diderot University
+1531,"['Salin', 'P.', '', 'APC']",French National Centre for Scientific Research
+1532,"['Sako', 'Hiroki', '']",Niigata University
+1533,"['Jia', 'J. J.', '']",Sun Yat-Sen University
+1533,"['Tang', 'Anisia P. S.', '']",The University of Hong Kong
+1533,"['Takata', 'J.', '']",Huazhong University of Science and Technology
+1533,"['Chang', 'H. K.', '']",National Tsing Hua University
+1533,"['Cheng', 'K. S.', '']",The University of Hong Kong
+1534,"['Zinoviev', 'Yu. M.', '']",Institute of High Energy Physics
+1535,"['Rodriguez', 'J. P.', '']","California State University, Los Angeles"
+1536,"['Sato', 'Shuichi', '']",Kanazawa University
+1537,"['Karsai', 'M.', '']",Ecole normale supérieure de Lyon
+1537,"[""d'Auriac"", 'J-Ch. Anglès', '']",University Joseph Fourier - Grenoble 1
+1537,"['Iglói', 'F.', '']",Magyar Tudományos Akadémia Wigner Fizikai Kutatóközpont
+1538,"['Mak', 'C. H.', '']",University of Southern California
+1540,"['Remm', 'Elisabeth', '']",Université de Haute-Alsace
+1540,"['Goze', 'Michel', '']",Ramm Algebra Center
+1541,"['Barbieri', 'C.', '', 'GSI']",University of Surrey
+1545,"['Neher', 'Richard A.', '']",Max Planck Institute for Developmental Biology
+1548,"['Jeong', 'J. A.', '']",Seoul National University
+1548,"['Park', 'G. H.', '']",Hanshin University
+1551,"['Henning', 'S.', '']",Humboldt-Universität zu Berlin
+1554,"['Tomoeda', 'A.', '']",Musashino University
+1557,"['Tziotziou', 'Kostas', '']",Academy of Athens
+1558,"['Maiolino', 'R.', '']",
+1558,"['Shemmer', 'O.', '']",University of North Texas
+1558,"['Imanishi', 'M.', '']",National Astronomical Observatory of Japan
+1558,"['Netzer', 'H.', '']",
+1558,"['Oliva', 'E.', '']",Cancer Research UK Cambridge Institute
+1561,"['Lacey', 'C. G.', '']",Durham University
+1561,"['Baugh', 'C. M.', '']",Durham University
+1561,"['Frenk', 'C. S.', '']",Durham University
+1565,"['Soler', 'R.', '']",University of the Balearic Islands
+1565,"['Oliver', 'R.', '']",University of the Balearic Islands
+1565,"['Ballester', 'J. L.', '']",University of the Balearic Islands
+1566,"['Gad', 'Ragab M.', '']",Minia University
+1566,"['Fouad', 'A.', '']",institut für mathematik und informatik
+1567,"['Frasca', 'Marco', '']","MBDA Italia, Rome, Italy"
+1568,"['Birget', 'Jean-Camille', '']",University of Nebraska at Lincoln
+1569,"['Southworth', 'John', '']",Keele University
+1569,"['Wheatley', 'Peter J.', '']",The University of Warwick
+1569,"['Sams', 'Giles', '']",The University of Warwick
+1570,"['Gambette', 'Philippe', '', 'LIAFA']",Université Gustave Eiffel
+1570,"['Vialette', 'Stéphane', '', 'LRI']",Université Gustave Eiffel
+1571,"['Akande', 'A.', '']",IT Sligo
+1571,"['Sanvito', 'S.', '']",Trinity College Dublin
+1574,"['Baldi', 'P.', '']",University of Rome Tor Vergata
+1574,"['Marinucci', 'D.', '']",University of Rome Tor Vergata
+1574,"['Varadarajan', 'V. S.', '']","University of California, Los Angeles"
+1575,"['Sarajedini', 'Ata', '']",
+1575,"['Mancone', 'Conor L.', '']",
+1576,"['Fedotov', 'V. A.', '']",University of Southampton
+1576,"['Rose', 'M.', '']",University of Southampton
+1576,"['Prosvirnin', 'S. L.', '']",Institute of Radio Astronomy NAS
+1580,"['Morosan', 'E.', '']",Rice University
+1580,"['Fleitman', 'J.', '']",Princeton University
+1580,"['Klimczuk', 'T.', '']",Gdansk University of Technology
+1580,"['Cava', 'R. J.', '']",Princeton University
+1581,"['Kyed', 'David', '']",University of Southern Denmark
+1582,"['Mendoza', 'C.', '']",Western Michigan University
+1582,"['Seaton', 'M. J.', '']",University College London
+1582,"['Buerger', 'P.', '']",
+1582,"['Bellorin', 'A.', '']",Central University of Venezuela
+1582,"['Melendez', 'M.', '']","University of Maryland, College Park"
+1582,"['Gonzalez', 'J.', '']","Universidad de Carabobo, UC"
+1585,"['Summers', 'N. C.', '']",Lawrence Livermore National Laboratory
+1585,"['Nunes', 'F. M.', '']",Michigan State University
+1586,"['Mattson', 'Barbara J.', '']",NASA
+1589,"['Drees', 'Manuel', '']",
+1589,"['Iminniyaz', 'Hoernisa', '']",Xinjiang University
+1589,"['Kakizaki', 'Mitsuru', '']",University of Toyama
+1590,"['Antusch', 'Stefan', '']",University of Basel
+1591,"['Tsiropoula', 'G.', '']",National Observatory of Athens
+1591,"['Tziotziou', 'K.', '']",Academy of Athens
+1591,"['Giannikakis', 'J.', '']",National Technical University of Athens
+1593,"['Dussel', 'G. G.', '']",Universidad de Buenos Aires
+1596,"['Molina', 'Rafael A.', '']",
+1596,"['Schmitteckert', 'Peter', '']",University of Wuerzburg
+1597,"['Medin', 'Zach', '', 'Cornell']",Los Alamos National Laboratory
+1597,"['Lai', 'Dong', '', 'Cornell']",Cornell University
+1599,"['Pozzetti', 'L.', '']",National Institute of Astrophysics
+1599,"['Bolzonella', 'M.', '']",The Astronomical Observatory of Brera
+1599,"['Lamareille', 'F.', '']",Research Institute in Astrophysics and Planetology
+1599,"['Zamorani', 'G.', '']",National Institute of Astrophysics
+1599,"['Franzetti', 'P.', '']",National Institute of Astrophysics
+1599,"['Fèvre', 'O. Le', '']",Aix-Marseille Université
+1599,"['Iovino', 'A.', '']",The Astronomical Observatory of Brera
+1602,"['Axelsson', 'M.', '']",
+1602,"['Engdegård', 'O.', '']",University of Adelaide
+1602,"['Ryde', 'F.', '']",KTH Royal Institute of Technology
+1602,"['Larsson', 'S.', '']",KTH Royal Institute of Technology
+1602,"['Pearce', 'M.', '']",AlbaNova University Center
+1606,"['Lukkarinen', 'Jani', '']",University of Helsinki
+1608,"['Page', 'K. L.', '']",University of Leicester
+1608,"['Willingale', 'R.', '']",University of Leicester
+1608,"['Osborne', 'J. P.', '']",
+1608,"['Zhang', 'B.', '']","University of Nevada, Las Vegas"
+1608,"['Godet', 'O.', '']",Research Institute in Astrophysics and Planetology
+1612,"['de la Madrid', 'R.', '']",
+1613,"['Rattenbury', 'Nicholas J.', '']",University of Auckland
+1613,"['Mao', 'Shude', '']",The University of Manchester
+1613,"['Sumi', 'Takahiro', '']",LINE Corp
+1613,"['Smith', 'Martin C.', '']",Chinese Academy of Sciences
+1614,"['Julia-Diaz', 'B.', '']",University of Barcelona
+1614,"['Lee', 'T. -S. H.', '']",Argonne National Laboratory
+1614,"['Matsuyama', 'A.', '']",Shizuoka University
+1614,"['Sato', 'T.', '']",Niigata University
+1615,"['Chanowitz', 'Michael S.', '']","University of California, Berkeley"
+1616,"['Comito', 'C.', '']",Max Planck Institute for Radio Astronomy
+1616,"['Schilke', 'P.', '']",University of Cologne
+1616,"['Endesfelder', 'U.', '']",Carnegie Mellon University
+1616,"['Jimenez-Serra', 'I.', '']",Harvard-Smithsonian Center for Astrophysics
+1616,"['Martin-Pintado', 'J.', '']",Centro de Astrobiología
+1617,"['Moukouri', 'S.', '']",Ben-Gurion University of the Negev
+1619,"['Wittmer', 'J. P.', '']",Institut Charles Gerhardt
+1619,"['Beckrich', 'P.', '']",Institut Charles Gerhardt
+1619,"['Meyer', 'H.', '']",University of Strasbourg
+1619,"['Cavallo', 'A.', '']",Università degli Studi di Salerno
+1619,"['Johner', 'A.', '']",French National Centre for Scientific Research
+1621,"['Garcia', 'Rafael', '', 'WPI']",
+1621,"['Zozulya', 'Alex', '', 'WPI']",
+1621,"['Stickney', 'James', '', 'WPI']",
+1625,"['Liers', 'F.', '']",Friedrich-Alexander-University of Erlangen-Nürnberg
+1625,"['Martin', 'O. C.', '']","French National Institute for Agriculture, Food, and Environment (INRAE)"
+1626,"['Beuthe', 'Mikael', '']",Royal Observatory of Belgium
+1627,"['Koppens', 'F. H. L.', '']",ICFO Institute of Photonic Sciences
+1627,"['Buizert', 'C.', '']",Oregon State University
+1627,"['Vink', 'I. T.', '']",Delft University of Technology
+1627,"['Nowack', 'K. C.', '']",Stanford University
+1627,"['Meunier', 'T.', '']",Delft University of Technology
+1631,"['Alexandrova', 'Ivana', '']","University at Albany, The State University of New York"
+1631,"['Bony', 'Jean-Francois', '']",Laboratoire d'astrophysique de Bordeaux
+1631,"['Ramond', 'Thierry', '']",Université Paris-Sud 11
+1632,"['Berenstein', 'Alexander', '']",Los Andes University (Colombia)
+1636,"['Diaz', 'Pablo', '']",University of Zaragoza
+1636,"['Per', 'M. A.', '']",Universidad San Jorge
+1636,"['Segui', 'Antonio', '']",University of Zaragoza
+1637,"['Pirogov', 'Yu. F.', '']",Institute for High Energy Physics
+1638,"['Afonin', 'S. S.', '']",Saint Petersburg State University
+1639,"['Berman', 'Robert', '']",
+1642,"['Adamczak', 'Radosław', '']",University of Warsaw
+1644,"['Aragao', 'A.', '']",Universidade Federal de Goiás
+1648,"['Leznov', 'A. N.', '']",Institute for High Energy Physics
+1649,"['Buice', 'Michael A.', '']",Allen Institute for Brain Science
+1649,"['Chow', 'Carson C.', '']",The National Institute of Diabetes and Digestive and Kidney Diseases
+1650,"['Hrycyna', 'Orest', '']",National Centre for Nuclear Research
+1650,"['Szydlowski', 'Marek', '']",Jagiellonian University
+1651,"['Ouellette', 'N.', '']",Arizona State University
+1651,"['Desch', 'S. J.', '']",Arizona State University
+1651,"['Hester', 'J. J.', '']",University of Toronto
+1652,"['Chemissany', 'Wissam', '']",Stanford University
+1652,"['ploegh', 'André', '']",University of Groningen
+1655,"['Clay', 'R. T.', '']",Mississippi State University
+1655,"['Hardikar', 'R. P.', '']","Indian Institute of Science Education and Research, Pune"
+1655,"['Mazumdar', 'S.', '']",The University of Arizona
+1656,"['Gomis', 'Jaume', '']",Perimeter Institute for Theoretical Physics
+1660,"['Thakur', 'R. K.', '']",
+1661,"['Zhang', 'Yue', '']",California Institute of Technology
+1661,"['An', 'Haipeng', '']",
+1661,"['Ji', 'Xiangdong', '']",
+1661,"['Mohapatra', 'R. N.', '']","University of Maryland, College Park"
+1662,"['Rahmani', 'Armin', '']",Los Alamos National Laboratory
+1662,"['Castelnovo', 'Claudio', '']",University of Cambridge
+1662,"['Schmit', 'Jeremy', '']",Kansas State University
+1662,"['Chamon', 'Claudio', '']",Boston University
+1663,"['Krick', 'J. E.', '']",California Institute of Technology
+1663,"['Bernstein', 'R. A.', '']",Carnegie Institution for Science
+1664,"['Vernette', 'David', '']",
+1664,"['Tandan', 'Punam', '']",
+1664,"['Caponigro', 'Michele', '']",University of Bergamo
+1665,"['Panagia', 'Nino', '']",Space Telescope Science Institute
+1666,"['Levine', 'Erel', '']",
+1666,"['Hwa', 'Terence', '']",
+1667,"['Montalto', 'M.', '']",University of Padova
+1667,"['Piotto', 'G.', '']",University of Padova
+1667,"['Desidera', 'S.', '']",The Astronomical Observatory of Brera
+1670,"['Dijkstra', 'Mark', '', 'Melbourne']",University of Oslo
+1670,"['Wyithe', 'Stuart', '', 'Melbourne']",University of Melbourne
+1671,"[""Solov'yov"", 'Ilia A.', '']",Carl von Ossietzky Universität Oldenburg
+1674,"['Plangprasopchok', 'Anon', '']",National Electronics and Computer Technology Center
+1674,"['Lerman', 'Kristina', '']",University of Southern California
+1675,"['Wong', 'Chio', '']",
+1676,"['de Florian', 'Daniel', '']",National University of General San Martín
+1676,"['Vogelsang', 'Werner', '']",University of Tuebingen
+1677,"['Chen', 'Xi', '']",Shanghai University
+1677,"['Deng', 'Xiaotie', '']",City University of Hong Kong
+1677,"['Teng', 'Shang-Hua', '']",University of Southern California
+1678,"['Mignone', 'A.', '']",Università degli Studi di Torino
+1678,"['McKinney', 'Jonathan C.', '']","University of Maryland, College Park"
+1679,"['Sinha', 'N.', '']",
+1679,"['Mahapatra', 'D. Roy', '']",Indian Institute of Science
+1679,"['Yeow', 'J. T. W.', '']",University of Waterloo
+1679,"['Melnik', 'R. V. N.', '']",Wilfrid Laurier University
+1679,"['Jaffray', 'D. A.', '']",University of Texas MD Anderson Cancer Center
+1680,"['Najita', 'Joan R.', '']",National Optical Astronomy Observatory
+1680,"['Strom', 'Stephen E.', '']",National Optical Astronomy Observatory
+1680,"['Muzerolle', 'James', '']",Space Telescope Science Institute
+1682,"['Azamov', 'Nurulla', '']",Flinders University
+1682,"['Sukochev', 'Fyodor', '']",Flinders University
+1683,"['Longmore', 'S. N.', '', '1 and 2']",University of Alberta
+1683,"['Burton', 'M. G.', '', '3 and 1']",Armagh Observatory
+1683,"['Barnes', 'P. J.', '', '3 and 1']",University of New England (USA)
+1683,"['Wong', 'T.', '', '1 and 2 and 5']","University of Illinois, Urbana-Champaign"
+1687,"['Kobayashi', 'M.', '']",
+1687,"['Tanaka', 'K.', '']",Extreme Light Infrastructure - Nuclear Physics
+1687,"['Fujimori', 'A.', '']",The University of Tokyo
+1687,"['Ray', 'Sugata', '']",Indian Association for the Cultivation of Science
+1687,"['Sarma', 'D. D.', '']",Indian Institute of Science
+1688,"['Zhao', 'Wenhua', '']",Illinois State University
+1689,"['Essen', 'Arno van den', '']",Radboud University
+1691,"['Zhang', 'Zhongzhi', '']",Fudan University
+1691,"['Fang', 'Lujun', '']",University of Michigan
+1691,"['Zhou', 'Shuigeng', '']",Fudan University
+1691,"['Guan', 'Jihong', '']",Tongji University
+1692,"['Yoon', 'Jin-Hee', '']",
+1692,"['Ha', 'Eunja', '']",
+1692,"['Cha', 'Dongwoo', '']",Inha University
+1693,"['Kedlaya', 'Kiran S.', '']","University of California, San Diego"
+1693,"['Yekhanin', 'Sergey', '']",Microsoft
+1694,"['Dicus', 'Duane A.', '']",University of Texas at Austin
+1694,"['Repko', 'Wayne W.', '']",Michigan State University
+1698,"['Hirano', 'Tetsufumi', '']",Sophia University
+1699,"['Kang', 'Ming-chang', '']",National Taiwan University
+1703,"['Sedrakyan', 'T. A.', '']",University of Massachusetts Amherst
+1703,"['Raikh', 'M. E.', '']",University of Utah
+1706,"['Buisman', 'Linda', '']",Australian National University
+1706,"['Goré', 'Rajeev', '']",Australian National University
+1707,"['Wang', 'Qiuping A.', '', 'ISMANS']",ESIEA Paris France
+1708,"['Cottrell', 'Marie', '', 'SAMOS, Matisse']",Université de Paris 1 Panthéon-Sorbonne
+1708,"['Ibbou', 'Smail', '', 'SAMOS, Matisse']",Université de Paris 1 Panthéon-Sorbonne
+1708,"['Letrémy', 'Patrick', '', 'SAMOS, Matisse']",Université de Paris 1 Panthéon-Sorbonne
+1710,"['Letrémy', 'Patrick', '', 'SAMOS, CES']",Université de Paris 1 Panthéon-Sorbonne
+1710,"['Cottrell', 'Marie', '', 'SAMOS, CES']",Université de Paris 1 Panthéon-Sorbonne
+1712,"['Deguchi', 'S.', '']",National Astronomical Observatory of Japan
+1712,"['Fujii', 'T.', '']",The University of Tokyo
+1712,"['Ita', 'Y.', '']",Tohoku University
+1712,"['Imai', 'H.', '']",Kagoshima University
+1712,"['Izumiura', 'H.', '']",National Astronomical Observatory of Japan
+1714,"['Berezhko', 'E. G.', '']",Russian Academy of Sciences
+1714,"['Voelk', 'H. J.', '']",Max Planck Institute for Nuclear Physics
+1715,"['Paluba', 'Waldemar', '']",University of Warsaw
+1716,"['Douglass', 'J. Matthew', '']",National Science Foundation
+1716,"['Roehrle', 'Gerhard', '']",Ruhr-Universität Bochum
+1717,"['Chandra', 'Anjan Kumar', '']","Malda College, Malda"
+1717,"['Dasgupta', 'Subinay', '']",University of Calcutta
+1718,"['Mangano', 'Michelangelo L.', '']",CERN
+1718,"['Nason', 'Paolo', '']",Università degli Studi di Milano-Bicocca
+1719,"['Laine', 'M.', '']",Universität Bern
+1720,"['Bando', 'Masako', '']",Kyoto University
+1720,"['Fukase', 'Yoko', '']",
+1720,"['Shock', 'Jonathan', '']",University of Cape Town
+1722,"['Ramos', 'A. Asensio', '', 'IAC']",Instituto de Astrofísica de Canarias
+1722,"['Bueno', 'J. Trujillo', '', 'IAC', 'CSIC']",Instituto de Astrofísica de Canarias
+1723,"['Ruggieri', 'M.', '']",Lanzhou University
+1724,"['Giri', 'Pulak Ranjan', '']",Indian Statistical Institute
+1727,"['Mignemi', 'S.', '']",Università degli studi di Cagliari
+1728,"['Piranomonte', 'S.', '']",National Institute of Astrophysics
+1728,"['Perri', 'M.', '']",ASI Science Data Center
+1728,"['Giommi', 'P.', '']",Technische Universität München
+1728,"['Landt', 'H.', '']",Durham University
+1728,"['Padovani', 'P.', '']",European Southern Observatory
+1729,"['Cavenagh', 'Nicholas J.', '']",The University of Waikato
+1729,"['Drapal', 'Ales', '']",Charles University in Prague
+1729,"['Hamalainen', 'Carlo', '']",
+1730,"['Gonzalez-Diaz', 'Pedro F', '', 'IMAFF, CSIC']",Spanish National Research Council
+1730,"['Martin-Moruno', 'Prado', '', 'IMAFF, CSIC']",Complutense University of Madrid
+1731,"['Bastrukov', 'S.', '']",Joint Institute for Nuclear Research
+1731,"['Chang', 'H-K.', '']",National Tsing Hua University
+1731,"['Misicu', 'S.', '']",Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering
+1731,"['Molodtsova', 'I.', '']",Joint Institute for Nuclear Research
+1731,"['Podgainy', 'D.', '']",Joint Institute for Nuclear Research
+1732,"['Bertolami', 'Orfeu', '']",University of Porto
+1734,"['Blakie', 'P. B.', '']",University of Otago
+1734,"['Toth', 'E.', '']",University of Otago
+1734,"['Davis', 'M. J.', '']",The University of Queensland
+1737,"['Chakraborti', 'A.', '']",Jawaharlal Nehru University
+1737,"['Patriarca', 'M.', '']",National Institute of Chemical Physics and Biophysics
+1737,"['Santhanam', 'M. S.', '']","Indian Institute of Science Education and Research, Pune"
+1738,"['Hien', 'Marco', '']",Universität Augsburg
+1738,"['Roucairol', 'Celine', '']",
+1739,"['Moch', 'S.', '']",University of Hamburg
+1739,"['Rogal', 'M.', '']",Karlsruhe Institute of Technology
+1740,"['Jonker', 'P. G.', '']",
+1740,"['Zand', ""J. J. M. in 't"", '']","Netherlands Institute for Space Research, Utrecht"
+1740,"['Mendez', 'M.', '']",Universidad de Artemisa
+1740,"['van der Klis', 'M.', '']",University of Amsterdam
+1741,"['Dohnal', 'Tomas', '']",Martin Luther University Halle-Wittenberg
+1741,"['Pelinovsky', 'Dmitry', '']",McMaster University
+1742,"['Fukugita', 'Masataka', '']",
+1742,"['Nakamura', 'Osamu', '']",Waseda University
+1742,"['Okamura', 'Sadanori', '']",Hosei University
+1742,"['Yasuda', 'Naoki', '']",The University of Tokyo
+1742,"['Barentine', 'John C.', '']",International Dark-Sky Association
+1742,"['Brinkmann', 'Jon', '']",New Mexico State University
+1745,"['Chatterjee', 'Bhramar', '']",Indian Institute of Science Education and Research Kolkata
+1745,"['Ghosh', 'A.', '']",Saha Institute of Nuclear Physics
+1745,"['Mitra', 'P.', '']",Budapest University of Technology and Economics
+1748,"['Mieske', 'S.', '']",European Southern Observatory
+1748,"['Rejkuba', 'M.', '']",European Southern Observatory
+1748,"['Bagnulo', 'S.', '']",Armagh Observatory
+1748,"['Izzo', 'C.', '']",Albany College of Pharmacy and Health Sciences
+1748,"['Marconi', 'G.', '']",European Southern Observatory
+1749,"['Evstigneeva', 'E. A.', '']",The University of Queensland
+1749,"['Drinkwater', 'M. J.', '']",The University of Queensland
+1751,"['Blagov', 'E. V.', '']",Rochester Innovation and Technology Research Enterprise
+1751,"['Klimchitskaya', 'G. L.', '']",Russian Academy of Sciences
+1751,"['Mostepanenko', 'V. M.', '']",Peter the Great St.Petersburg Polytechnic University
+1752,"['Buisseret', 'F.', '']",Haute Ecole Louvain en Hainaut
+1752,"['Semay', 'C.', '']",Université de Mons
+1753,"['Kalev', 'A.', '']","University of Maryland, College Park"
+1753,"['Hen', 'I.', '']",University of Southern California
+1754,"['Goswami', 'Debashish', '']",Indian Statistical Institute
+1754,"['Sahu', 'Lingaraj', '']",Indian Institute of Science Education & Research Mohali
+1755,"['Martin-Garcia', 'Jose M.', '']",Wolfram Research
+1755,"['Portugal', 'Renato', '']",Laboratório Nacional de Computação Científica
+1755,"['Manssur', 'Leon R. U.', '']",Laboratório Nacional de Computação Científica
+1756,"['Macrina', 'Andrea', '']",
+1757,"['Throumoulopoulos', 'G. N.', '']",University of Ioannina
+1757,"['Tasso', 'H.', '']",Max Planck Institute for Plasma Physics
+1757,"['Poulipoulis', 'G.', '']",University of Ioannina
+1759,"['van Dokkum', 'Pieter', '']",Yale University
+1759,"['Quadri', 'Ryan', '']",Texas A&M University
+1760,"['Donagi', 'R.', '']",University of Pennsylvania
+1762,"[""Solov'yov"", 'Ilia A.', '']",Carl von Ossietzky Universität Oldenburg
+1762,"['Greiner', 'Walter', '']",The Cambridge Institute For Advanced Studies
+1763,"['Guthery', 'Scott B.', '']",Docent Press
+1766,"['Mugrauer', 'M.', '']",Physical Research Laboratory
+1766,"['Seifahrt', 'A.', '']",University of Chicago
+1766,"['Neuhaeuser', 'R.', '']",Universitätsklinikum Jena
+1767,"['Gzyl', 'Henryk', '']",IESA Escuela de Negocios
+1767,"['Molina', 'German', '']",Idalion Capital Group
+1769,"['Sales', 'L. V.', '']","University of California, Riverside"
+1769,"['Navarro', 'J. F.', '']",Macquarie University
+1769,"['Abadi', 'M. G.', '']","National University of Cordoba, Argentina"
+1769,"['Steinmetz', 'M.', '']",Leibniz Institute for Astrophysics Potsdam
+1770,"['Tarasov', 'Vasily E.', '']",Lomonosov Moscow State University
+1770,"['Zaslavsky', 'George M.', '']",CUNY Graduate Center
+1772,"['Sales', 'L. V.', '']","University of California, Riverside"
+1772,"['Navarro', 'J. F.', '']",Macquarie University
+1772,"['Abadi', 'M. G.', '']","National University of Cordoba, Argentina"
+1772,"['Steinmetz', 'M.', '']",Leibniz Institute for Astrophysics Potsdam
+1773,"['Gandolfi', 'S.', '']",Los Alamos National Laboratory
+1773,"['Pederiva', 'F.', '']",Università degli Studi di Trento
+1773,"['Fantoni', 'S.', '']",University of Leicester
+1773,"['Schmidt', 'K. E.', '']",Arizona State University
+1774,"['Yu', 'Lam H.', '']",Rice University
+1774,"['Zangmeister', 'Christopher D.', '']",National Institute of Standards and Technology
+1774,"['Kushmerick', 'James G.', '']",National Institute of Standards and Technology
+1776,"['Kim', 'H. -Ch.', '']",Inha University
+1776,"['Yang', 'Gh. -S.', '']",Ruhr-Universität Bochum
+1776,"['Goeke', 'K.', '']",Ruhr-Universität Bochum
+1780,"['Blanchon', 'G.', '', 'INFN and Physics Department, Pisa']",Cea Leti
+1780,"['Bonaccorso', 'A.', '', 'INFN\n  and Physics Department, Pisa']",INFN - Istituto Nazionale di Fisica Nucleare
+1780,"['Brink', 'D. M.', '', 'Oxford University']",University of Oxford
+1780,"['Mau', 'N. Vinh', '', 'IPN, Orsay']",Cea Leti
+1781,"['Ehrenborg', 'Richard', '']",University of Kentucky
+1781,"['Farjoun', 'Yossi', '']",Broad Institute of MIT and Harvard
+1782,"['Bistarelli', 'Stefano', '']",Università degli Studi di Perugia
+1782,"['Montanari', 'Ugo', '']",Università di Pisa
+1784,"['Larionov', 'A. B.', '']",Goethe-Universität Frankfurt am Main
+1784,"['Buss', 'O.', '']",Framatome GmbH
+1784,"['Gallmeister', 'K.', '']",Goethe-Universität Frankfurt am Main
+1784,"['Mosel', 'U.', '']",Justus-Liebig-Universität Gießen
+1785,"['Popescu', 'Stefan', '']",Siemens
+1785,"['Rothenstein', 'Bernhard', '']",Polytechnic University of Timisoara
+1788,"['Ford', 'Kevin', '']","University of Illinois, Urbana-Champaign"
+1789,"['Boccara', 'Nino', '']",University of Illinois at Chicago
+1790,"['Sivers', 'Dennis', '']",
+1791,"['Creffield', 'C. E.', '']",Complutense University of Madrid
+1794,"['Chapoton', 'Frédéric', '', 'ICJ']",University of Strasbourg
+1798,"['Vergne', 'Philippe', '', 'LaMCoS']",CNRS - Univ Lyon - INSA Lyon
+1799,"['Gonzalez-Garcia', 'M. C.', '']",University of Barcelona
+1799,"['Maltoni', 'Michele', '']",Universidad Autónoma de Madrid
+1800,"['Meyer', 'Harvey B.', '']",Johannes Gutenberg-Universität Mainz
+1801,"['Comelli', 'Denis', '']",INFN - Istituto Nazionale di Fisica Nucleare
+1802,"['Elliott', 'George A.', '']",University of Toronto
+1802,"['Toms', 'Andrew S.', '']",Purdue University
+1803,"['Kalas', 'Ryan M.', '']",Los Alamos National Laboratory
+1803,"['Blume', 'D.', '']",University of Oklahoma
+1804,"['Lee', 'Youngone', '']",Sogang University
+1805,"['Olsson', 'Peter', '']",Umeå University
+1805,"['Teitel', 'S.', '']",University of Rochester
+1806,"['Moutinho', 'Ion', '']",Universidade Federal Fluminense
+1806,"['Tojeiro', 'Ruy', '']",Universidade Federal de São Carlos
+1807,"['Cornish', 'Neil J.', '']",Montana State University
+1807,"['Littenberg', 'Tyson B.', '']",NASA Johnson Space Center
+1808,"['Badziag', 'Piotr', '']",Stockholm University
+1808,"['Zukowski', 'Marek', '']",University of Gdansk
+1809,"['Hogan', 'Robert C.', '']",Bay Area Environmental Research Institute
+1809,"['Cuzzi', 'Jeffrey N.', '']",NASA
+1810,"['Swarup', 'Samarth', '']",
+1810,"['Gasser', 'Les', '']","University of Illinois, Urbana-Champaign"
+1811,"['Law', 'N. M.', '', '1 and 2']",University of North Carolina at Chapel Hill
+1811,"['Hodgkin', 'S. T.', '']",Cancer Research UK Cambridge Institute
+1811,"['Mackay', 'C. D.', '']",University of Cambridge
+1812,"['Kilic', 'Mukremin', '']",University of Oklahoma
+1816,"['Strigari', 'Louis E.', '']",Texas A&M University
+1816,"['Bullock', 'James S.', '']","University of California, Irvine"
+1816,"['Kaplinghat', 'Manoj', '']","University of California, Irvine"
+1816,"['Diemand', 'Juerg', '']",University of Zurich
+1816,"['Kuhlen', 'Michael', '']","University of California, Berkeley"
+1818,"['Hanaki', 'Kentaro', '']",New York University
+1822,"['Adem', 'Alejandro', '']",University of British Columbia - Vancouver
+1822,"['Ge', 'Jianquan', '']",Beijing Normal University
+1822,"['Pan', 'Jianzhong', '']",Academia Sinica
+1822,"['Petrosyan', 'Nansen', '']",University of Southampton
+1823,"['Hu', 'Yaozhong', '']",University of Kansas
+1825,"['Bozzi', 'G.', '', 'ITP Karlsruhe']",University of Pavia
+1825,"['Fuks', 'B.', '', 'LPSC\n  Grenoble']",Institut Universitaire de France
+1825,"['Herrmann', 'B.', '', 'LPSC\n  Grenoble']",Université Savoie Mont Blanc
+1825,"['Klasen', 'M.', '', 'LPSC\n  Grenoble']",University of Münster
+1827,"['Dietrich', 'Dennis D.', '']",Ludwig-Maximilians-University of Munich
+1828,"['Felsner', 'Stefan', '']",Technische Universität Berlin
+1828,"['Kloch', 'Kamil', '']",Deutsches Forschungszentrum für Künstliche Intelligenz
+1828,"['Matecki', 'Grzegorz', '']",Jagiellonian University
+1828,"['Micek', 'Piotr', '']",Jagiellonian University
+1829,"['Hamilton', 'D. J.', '']",University of Glasgow
+1833,"['Volja', 'Dmitri', '']",
+1833,"['Yin', 'Wei-Guo', '']",Brookhaven National Laboratory
+1833,"['Ku', 'Wei', '']",
+1834,"['Forde', 'Darren', '']",CERN
+1836,"['Wadati', 'H.', '']",University of Hyogo
+1839,"['Warren', 'Mya', '']",Canada's Michael Smith Genome Sciences Centre
+1839,"['Rottler', 'Joerg', '']",University of British Columbia - Vancouver
+1840,"['Najita', 'Joan R.', '']",National Optical Astronomy Observatory
+1840,"['Carr', 'John S.', '']",United States Naval Research Laboratory
+1840,"['Glassgold', 'Alfred E.', '']",New York University
+1840,"['Valenti', 'Jeff', '']",Space Telescope Science Institute
+1841,"['Keceli', 'Feyza', '']","University of California, Irvine"
+1841,"['Inan', 'Inanc', '']","University of California, Irvine"
+1841,"['Ayanoglu', 'Ender', '']","University of California, Irvine"
+1842,"['Liang', 'Edison', '']",Rice University
+1842,"['Noguchi', 'Koichi', '']",Japan Patent Office(JPO)
+1843,"['Fujii', 'Kazuyuki', '', 'Yokohama City University']",Yokohama City University
+1844,"['Grinstein', 'Benjamin', '']","University of California, San Diego"
+1844,"[""O'Connell"", 'Donal', '']",Institute for Advanced Study
+1844,"['Wise', 'Mark B.', '']",California Institute of Technology
+1848,"['Wang', 'Sheng-Jun', '']",Shaanxi Normal University
+1848,"['Wu', 'An-Cai', '']",
+1848,"['Wu', 'Zhi-Xi', '']",
+1848,"['Xu', 'Xin-Jian', '']",
+1848,"['Wang', 'Ying-Hai', '']",Shaanxi Normal University
+1849,"['Swift', 'Damian C.', '']",Lawrence Livermore National Laboratory
+1852,"['Maki', 'Hideki', '']",Rikkyo University
+1852,"['Susa', 'Hajime', '']",Konan University
+1853,"['Mahajan', 'Sanjoy', '']",
+1854,"['Chen', 'Ching-Ming', '']",TU Wien
+1854,"['Li', 'Tianjun', '']",
+1854,"['Mayes', 'V. E.', '']",University of Houston - Clear Lake
+1854,"['Nanopoulos', 'Dimitri V.', '']",Academy of Athens
+1858,"['Pytlik', 'T.', '']",Opole University
+1858,"['Szwarc', 'R.', '']",Institute of Mathematics
+1859,"['Peng', 'Chien Y.', '', 'STScI']",Giant Magellan Telescope
+1863,"['Neergaard-Nielsen', 'J. S.', '']",Technical University of Denmark
+1863,"['Nielsen', 'B. Melholt', '']",Technical University of Denmark
+1863,"['Takahashi', 'H.', '']",University of Sussex
+1863,"['Vistnes', 'A. I.', '']",University of Oslo
+1863,"['Polzik', 'E. S.', '']",University of Copenhagen
+1864,"['Yu', 'Dan Sheng', '']",Hangzhou Normal University
+1864,"['Zhou', 'Ping', '']",St. Francis Xavier University
+1864,"['Zhou', 'Song Ping', '']",St. Francis Xavier University
+1865,"['Miao', 'Changxing', '']",Institute of Applied Physics and Computational Mathematics
+1865,"['Zhang', 'Junyong', '']",Beijing Institute of Technology
+1866,"['Bauke', 'Heiko', '']",Leica Microsystems
+1868,"['Rao', 'Nagalakshmi A', '']",Maharani's Science College for Women
+1868,"['Kagali', 'B. A.', '']",
+1869,"['Myasnikova', 'A. E.', '']",Southern Federal University
+1869,"['Myasnikov', 'E. N.', '']",Southern Federal University
+1870,"['Balaguera-Antolinez', 'A.', '']",
+1870,"['Nowakowski', 'M.', '']",Los Andes University (Colombia)
+1874,"['Fiori', 'G.', '']",Università di Pisa
+1874,"['Iannaccone', 'G.', '']",Università di Pisa
+1875,"['Funkhouser', 'Scott', '']",
+1878,"['Andersson', 'Johan', '']",Örebro University
+1880,"['Heller', 'Eric J.', '']",Harvard University
+1880,"['Landry', 'Brian R.', '']",Harvard University
+1884,"['Bloom', 'Jesse D.', '']",University of Washington Seattle
+1884,"['Lu', 'Zhongyi', '']",
+1884,"['Chen', 'David', '']","Saint Joseph's University (PA, USA)"
+1884,"['Raval', 'Alpan', '']",Wadhwani Institute for Artificial Intelligence
+1887,"['Hai', 'Phung Ho', '']","Institute of Mathematics, Vietnam"
+1887,"['Kriegk', 'Benoit', '']",Observatoire des Sciences et des Techniques
+1887,"['Lorenz', 'Martin', '']",Temple University
+1888,"['He', 'Yan', '']",
+1888,"['Chen', 'Qijin', '']",University of Chicago
+1888,"['Chien', 'Chih-Chun', '']","University of California, Merced"
+1888,"['Levin', 'K.', '']",University of Chicago
+1890,"['Staecker', 'P. Christopher', '']",Fairfield University
+1894,"['Sinha', 'Supurna', '']",
+1895,"['Miniatura', 'Christian', '']",French National Centre for Scientific Research
+1898,"['Davies', 'Melvyn B.', '']",Lund University
+1898,"['Levan', 'Andrew J.', '']",The University of Warwick
+1898,"['Larsson', 'Josefin', '']",
+1898,"['King', 'Andrew R.', '']",University of Amsterdam
+1898,"['Fruchter', 'Andrew S.', '']",Space Telescope Science Institute
+1899,"['Vecchi', 'Luca', '']","University of Maryland, College Park"
+1900,"['Guha', 'Saikat', '']",Raytheon BBN Technologies
+1900,"['Shapiro', 'Jeffrey H.', '']",Massachusetts Institute of Technology
+1901,"['Beidenkopf', 'H.', '']",Weizmann Institute of Science
+1901,"['Verdene', 'T.', '']",Weizmann Institute of Science
+1901,"['Myasoedov', 'Y.', '']",Weizmann Institute of Science
+1901,"['Shtrikman', 'H.', '']",Weizmann Institute of Science
+1901,"['Zeldov', 'E.', '']",Weizmann Institute of Science
+1905,"['Hozoi', 'L.', '']",Leibniz Institute for Solid State and Materials Research Dresden
+1905,"['Birkenheuer', 'U.', '']",Helmholtz-Zentrum Dresden-Rossendorf
+1907,"['Erban', 'Radek', '']",University of Oxford
+1907,"['Chapman', 'Jonathan', '']",University of Oxford
+1907,"['Maini', 'Philip', '']",University of Oxford
+1908,"['Mikhailov', 'S. A.', '']",Universität Augsburg
+1911,"['Natarajan', 'L. C.', '', 'University of Kansas']",
+1911,"['Melott', 'A. L.', '', 'University of Kansas']",University of Kansas
+1911,"['Rothschild', 'B. M.', '', 'University of Kansas']",University of Kansas
+1911,"['Martin', 'L. D.', '', 'University of Kansas']",University of Kansas
+1915,"['Saxena', 'R. K.', '']",Jai Narain Vyas University
+1915,"['Mathai', 'A. M.', '']",McGill University
+1915,"['Haubold', 'H. J.', '']",United Nations Organization
+1916,"['Bohr', 'Dan', '']",Karlsruhe Institute of Technology
+1916,"['Schmitteckert', 'Peter', '']",University of Wuerzburg
+1917,"['Wittmann', 'C.', '']",Max-Planck-Institut für die Physik des Lichts
+1917,"['Elser', 'D.', '']",Max-Planck-Institut für die Physik des Lichts
+1917,"['Andersen', 'U. L.', '']",Technical University of Denmark
+1917,"['Filip', 'R.', '']",Palacký University Olomouc
+1919,"['Ortega-Rodriguez', 'Manuel', '']",University of Costa Rica
+1919,"['Wagoner', 'Robert V.', '']",Stanford University
+1923,"['Arndt', 'Marcel', '']",
+1923,"['Luskin', 'Mitchell', '']",University of Minnesota Twin Cities
+1926,"['Hwang', 'J.', '']",Kyungpook National University
+1926,"['Noh', 'H.', '']",Korea Astronomy and Space Science Institute
+1927,"['Graham', 'J. Pietarila', '', '1 and 2']",
+1927,"['Holm', 'Darryl', '', '3 and 4']",Imperial College London
+1929,"['Sharif', 'M.', '']",University of the Punjab
+1929,"['Aziz', 'Sehar', '']",P.U.
+1932,"['Tsai', 'Jonathan', '']",The Chinese University of Hong Kong
+1936,"['JLQCD Collaboration', '', '']",University of Tsukuba
+1936,"['Ishikawa', 'T.', '']",University of Tsukuba
+1936,"['Aoki', 'S.', '']",Kyoto University
+1936,"['Fukugita', 'M.', '']",The University of Tokyo
+1936,"['Hashimoto', 'S.', '']",
+1936,"['Ishikawa', 'K-I.', '']",University of Tsukuba
+1938,"['Nha', 'Hyunchul', '']",Texas A&M University at Qatar
+1939,"['Siu', 'Yum-Tong', '']",Harvard University
+1942,"['Blagojević', 'Pavle V. M.', '']",Mathematical Institute of the Serbian Academy of Sciences and Arts
+1942,"['Ziegler', 'Günter M.', '']",Freie Universität Berlin
+1943,"['Iwata', 'Y.', '']",Japan Atomic Energy Agency
+1943,"['Inoue', 'Y.', '']",National Central University
+1943,"['Minowa', 'M.', '']",
+1945,"['Marques', 'J. P.', '', 'CFA']",University of Lisbon
+1948,"['Ueda', 'Kouji', '']",Kobe University
+1948,"['Krcmar', 'Roman', '']",Slovak Academy of Sciences
+1948,"['Gendiar', 'Andrej', '']",Slovak Academy of Sciences
+1948,"['Nishino', 'Tomotoshi', '']",Kobe University
+1949,"['Lebental', 'M.', '']",
+1951,"['Simonsen', 'Ingve', '']",Norwegian University of Science and Technology
+1951,"['Buzna', 'Lubos', '']",University of Žilina
+1951,"['Peters', 'Karsten', '']",Technische Universität Dresden
+1951,"['Bornholdt', 'Stefan', '']",Universität Bremen
+1951,"['Helbing', 'Dirk', '']",ETH Zurich
+1952,"['Ramos', 'E. R. F.', '']",University of São Paulo
+1952,"['Sanz', 'L.', '']",Universidade Federal de Uberlândia (UFU)
+1952,"['Yukalov', 'V. I.', '']",
+1952,"['Bagnato', 'V. S.', '']",University of São Paulo
+1953,"['Mugnai', 'Luca', '']",Max Planck Institute for Mathematics in the Sciences
+1957,"['Trevese', 'D.', '']",Sapienza University of Rome
+1957,"['Paris', 'D.', '']",Space Telescope Science Institute
+1957,"['Stirpe', 'G. M.', '']",The Astronomical Observatory of Brera
+1957,"['Vagnetti', 'F.', '']",University of Rome Tor Vergata
+1957,"['Zitelli', 'V.', '']",The Astronomical Observatory of Brera
+1958,"['Fainberg', 'B. D.', '']",Holon Institute of Technology
+1960,"['Liao', 'Yi', '', 'Nankai U.']",Southwest University of Finance & Economics
+1961,"['Alicki', 'Robert', '']",University of Gdansk
+1963,"['Pan', 'Yi', '']","University of Maryland, College Park"
+1963,"['Buonanno', 'Alessandra', '']",Max Planck Institute for Gravitational Physics (Albert-Einstein-Institute)
+1963,"['Baker', 'John G.', '']","University of Maryland, College Park"
+1963,"['Centrella', 'Joan', '']","University of Maryland, College Park"
+1963,"['Kelly', 'Bernard J.', '']","University of Maryland, Baltimore County"
+1967,"['Gergely', 'László Á.', '']",University of Szeged
+1967,"['Biermann', 'Peter L.', '']",
+1968,"['Nzeutchap', 'Janvier', '']",Université Gustave Eiffel
+1969,"['Izawa', 'K.', '']",
+1969,"['Behnia', 'K.', '']",Wuhan National High Magnetic Field Center
+1969,"['Matsuda', 'Y.', '']",Tohoku University
+1969,"['Shishido', 'H.', '']",Osaka Prefecture University
+1969,"['Settai', 'R.', '']",Niigata University
+1973,"['Morizot', 'Olivier', '', 'LPL']",Aix-Marseille Université
+1973,"['De Bellair', 'Julien De Lapeyre', '', 'LPL']",
+1973,"['Wiotte', 'Fabrice', '', 'LPL']",French National Centre for Scientific Research
+1973,"['Lopez', 'Olivier', '', 'LPL']",French National Centre for Scientific Research
+1973,"['Pottie', 'Paul-Eric', '', 'LPL']",Observatoire de Paris
+1977,"['Ikeda', 'Y.', '']",Osaka University
+1977,"['Sato', 'T.', '']",Tohoku University
+1979,"['Possio', 'C. Tablino', '']",Università degli Studi di Milano-Bicocca
+1982,"['Chang', 'Yi-Fang', '']",Yunnan University
+1985,"['Youssef', 'Nabil L.', '']",Cairo University
+1989,"['Spinelly', 'J.', '']",Universidade Estadual da Paraíba
+1991,"['Weise', 'Wolfram', '']",Technische Universität München
+1992,"['Polak', 'T. P.', '']",Adam Mickiewicz University
+1992,"['Kopec', 'T. K.', '']",Polish Academy of Sciences
+1993,"['Giovannetti', 'Gianluca', '']",Sapienza University of Rome
+1993,"['Khomyakov', 'Petr A.', '']",University of Twente
+1993,"['Brocks', 'Geert', '']",University of Twente
+1993,"['Kelly', 'Paul J.', '']",University of Twente
+1993,"['Brink', 'Jeroen van den', '']",Leibniz Institute for Solid State and Materials Research Dresden
+1994,"['Gu', 'Qiang', '']",
+1994,"['Qiu', 'Haibo', '']",Xi'an University of Posts and Telecommunications
+1995,"['Kounnas', 'Costas', '']",Ecole Normale Supérieure de Paris
+1995,"['Toumbas', 'Nicolaos', '']",University of Cyprus
+1995,"['Troost', 'Jan', '']",French National Centre for Scientific Research
+1998,"['Mohayaee', 'Roya', '']",UPMC
+1998,"['Shandarin', 'Sergei', '']",University of Kansas
+1998,"['Silk', 'Joseph', '']",University of Oxford
+2002,"['Vaglica', 'Gabriella', '']",Università degli Studi di Palermo
+2002,"['Lillo', 'Fabrizio', '']",Scuola Normale Superiore di Pisa
+2005,"['Goorden', 'M. C.', '']",Delft University of Technology
+2005,"['Buttiker', 'M.', '']",University of Geneva
+2006,"['Schenzel', 'Peter', '']",Martin Luther University Halle-Wittenberg
+2007,"['Rantsev-Kartinov', 'Valentin. A.', '']",Kurchatov Institute
+2008,"['Jiang', 'Yunfeng', '']",University of Kansas
+2008,"['Tseng', 'Hsian-Hua', '']",The Ohio State University
+2011,"['Kumar', 'Sanjeev', '']",Dr. Bhimrao Ambedkar University Agra India
+2011,"['Singh', 'Ravendra', '']",K.R. MANGALAM UNIVERSITY
+2012,"['Alves', 'M.', '']",Federal University of Rio de Janeiro
+2013,"['Halpern', 'Joseph Y.', '']",Cornell University
+2013,"['Rêgo', 'Leandro C.', '']",Universidade Federal do Ceará
+2014,"['Slane', 'Patrick', '']",Harvard-Smithsonian Center for Astrophysics
+2018,"['Fliess', 'Michel', '', 'LIX, Inria Futurs']",MINES ParisTech
+2019,"['Gu', 'Pei-Hong', '']",
+2019,"['He', 'Hong-Jian', '']",
+2019,"['Sarkar', 'Utpal', '']",Indian Space Research Organization
+2020,"['Morita', 'Kenji', '']",Kyoto University
+2020,"['Lee', 'Su Houng', '']",
+2021,"['Gow', 'Rod', '']",University College Dublin
+2021,"['Vinroot', 'C. Ryan', '']",College of William and Mary
+2024,"['Gao', 'Peng', '']",Dalian University of Technology
+2027,"['Schmidt', 'M. J.', '']",RWTH Aachen University
+2027,"['Pappert', 'K.', '']",University of Wuerzburg
+2027,"['Gould', 'C.', '']",
+2027,"['Schmidt', 'G.', '']",RWTH Aachen University
+2027,"['Oppermann', 'R.', '']",University of Wuerzburg
+2031,"['Lanfranchi', 'Gustavo A.', '']",Universidade Cruzeiro do Sul
+2031,"['Matteucci', 'Francesca', '']",University of Trieste
+2035,"['Johnston', 'Karen', '']",University of Strathclyde
+2035,"['Nieminen', 'Risto M.', '']",Aalto University
+2037,"['Holman', 'M.', '']",The University of Western Ontario
+2038,"['Ván', 'P.', '']",Wigner Fizikai Kutatóközpont
+2038,"['Biró', 'T. S.', '']",Magyar Tudományos Akadémia Wigner Fizikai Kutatóközpont
+2039,"['Huang', 'Xiaojun', '']","Rutgers, The State University of New Jersey"
+2039,"['Yin', 'Wanke', '']",Wuhan University
+2040,"['Birbrair', 'Lev', '']",Universidade Federal do Ceará
+2040,"['Fernandes', 'Alexandre', '']",Universidade Federal do Ceará
+2040,"['Neumann', 'Walter D.', '']",Columbia University
+2041,"['Clunan', 'Tim', '']",University of Cambridge
+2042,"['Hod', 'Oded', '']",Tel Aviv University
+2046,"['Derbin', 'A.', '']",Petersburg Nuclear Physics Institute
+2046,"['Ianni', 'A.', '']",Canfranc Underground Laboratory
+2046,"['Smirnov', 'O.', '']",Joint Institute for Nuclear Research
+2049,"['Dutkay', 'Dorin Ervin', '']",University of Central Florida
+2051,"['Romanovsky', 'V. I.', '']",Kurchatov Institute
+2053,"['Scherer', 'David R.', '']",The University of Arizona
+2054,"['Seidel', 'Paul', '']",Massachusetts Institute of Technology
+2055,"['Hadizadeh', 'M. R.', '']",Ohio University
+2055,"['Bayegan', 'S.', '']",University of Tehran
+2056,"['Barmby', 'P.', '']",The University of Western Ontario
+2056,"['McLaughlin', 'D. E.', '']",Keele University
+2056,"['Harris', 'W. E.', '']",McMaster University
+2056,"['Harris', 'G. L. H.', '']",
+2056,"['Forbes', 'D. A.', '']",Swinburne University of Technology
+2058,"['Hinz', 'J. L.', '', 'U. Arizona']",The University of Arizona
+2058,"['Rieke', 'M. J.', '', 'U. Arizona']",The University of Arizona
+2058,"['Rieke', 'G. H.', '', 'U. Arizona']",The University of Arizona
+2058,"['Willmer', 'C. N. A.', '', 'U. Arizona']",
+2058,"['Misselt', 'K.', '', 'U. Arizona']",The University of Arizona
+2060,"['Kyrychenko', 'F. V.', '']",
+2060,"['Ullrich', 'C. A.', '']",
+2062,"['Fan', 'Yi-Zhong', '']",Chinese Academy of Sciences
+2062,"['Piran', 'Tsvi', '']",Hebrew University of Jerusalem
+2062,"['Narayan', 'Ramesh', '']",Harvard University
+2062,"['Wei', 'Da-Ming', '']",Chinese Academy of Sciences
+2063,"['Linder', 'Eric V.', '']","University of California, Berkeley"
+2064,"['Jones', 'J. A.', '']",
+2065,"['Berry', 'Dominic W.', '']",Macquarie University
+2066,"['Avramis', 'Spyros D.', '']",Universität Bern
+2066,"['Sfetsos', 'Konstadinos', '']",National and Kapodistrian University of Athens
+2066,"['Zoakos', 'Dimitrios', '']",National and Kapodistrian University of Athens
+2067,"['Lebouteiller', 'V.', '']",Atomic Energy and Alternative Energies Commission
+2067,"['Brandl', 'B.', '']",Leiden University
+2067,"['Bernard-Salas', 'J.', '']",ACRI-ST
+2067,"['Devost', 'D.', '']",Cornell University
+2067,"['Houck', 'J. R.', '']",Cornell University
+2068,"['Young', 'C. A. S.', '']",University of Hertfordshire
+2069,"['Setare', 'M. R.', '']",Institute for Research in Fundamental Sciences (IPM)
+2069,"['Vagenas', 'Elias C.', '']",Kuwait University
+2070,"['Taylor', 'Tomasz R.', '']",Northeastern University
+2071,"['Andreev', 'V. A.', '']",Petersburg Nuclear Physics Institute
+2071,"['Banks', 'T. I.', '']","University of California, Berkeley"
+2071,"['Case', 'T. A.', '']","University of California, Berkeley"
+2071,"['Chitwood', 'D. B.', '']","University of Illinois, Urbana-Champaign"
+2071,"['Clayton', 'S. M.', '']",Los Alamos National Laboratory
+2074,"['Pietrzynski', 'G.', '']",University of Concepción
+2074,"['Gieren', 'W.', '']",University of Concepción
+2074,"['Udalski', 'A.', '']",University of Warsaw
+2074,"['Soszynski', 'I.', '']",University of Warsaw
+2074,"['Bresolin', 'F.', '']",Honolulu University
+2074,"['Kudritzki', 'R. P.', '']",University of Hawaiʻi at Mānoa
+2074,"['Garcia', 'A.', '']",
+2078,"['Pavlov', 'G. G.', '']",
+2078,"['Kargaltsev', 'O.', '']",George Washington University
+2078,"['Garmire', 'G. P.', '']",Pennsylvania State University
+2078,"['Wolszczan', 'A.', '']",Pennsylvania State University
+2080,"['Cortissoz', 'Jean', '']",University of los Andes
+2081,"['Sato', 'Yuki', '']",Harvard University
+2081,"['Joshi', 'Aditya', '']","University of California, Berkeley"
+2081,"['Packard', 'Richard', '']","University of California, Berkeley"
+2082,"['Satori', 'H.', '']",Sidi Mohamed Ben Abdellah University
+2082,"['Harti', 'M.', '']",Faculté des Sciences et Techniques Fès
+2082,"['Chenfour', 'N.', '']",Faculté des Sciences et Techniques Fès
+2083,"['Maitra', 'Neepa T.', '']",City University of New York - Hunter College
+2083,"['Burke', 'Kieron', '']",University of California
+2085,"['Hwang', 'J.', '']",Kyungpook National University
+2085,"['Noh', 'H.', '']",
+2086,"['Li', 'D.', '']",
+2086,"['Li', 'X.', '']",
+2086,"['Huang', 'H.', '']",University of Michigan
+2087,"['Akhanjee', 'Shimul', '']",RIKEN
+2088,"['Cheskidov', 'A.', '']",University of Illinois at Chicago
+2088,"['Friedlander', 'S.', '']",University of Southern California
+2088,"['Shvydkoy', 'R.', '']",University of Illinois at Chicago
+2092,"['Doi', 'Masaru', '']",Osaka University of Pharmaceutical Sciences
+2092,"['Kotani', 'Tsuneyuki', '']",
+2092,"['Nishiura', 'Hiroyuki', '']",Osaka Institute of Technology
+2094,"['Wang', 'I-Chin', '']",Tamkang University
+2094,"['Ng', 'Kin-Wang', '']",Tamkang University
+2096,"['Wilson', 'S. D.', '']",Australian National University
+2096,"['Carvalho', 'A. R. R.', '']",Q-CTRL
+2096,"['Hope', 'J. J.', '']",Australian National University
+2096,"['James', 'M. R.', '']",Australian National University
+2097,"['Parviainen', 'Robert', '']",Reykjavik University
+2098,"['Sharif', 'M.', '']",University of the Punjab
+2098,"['Amir', 'M. Jamil', '']",University of Sargodha
+2099,"['Capetti', 'Alessandro', '']",National Institute of Astrophysics
+2099,"['Balmaverde', 'Barbara', '']",University of Florence
+2100,"['Horiuchi', 'W.', '']",
+2100,"['Suzuki', 'Y.', '']",Toho University
+2101,"['Montes', 'Rodrigo Ristow', '']",Universidade Federal do Paraná
+2102,"['Karanikas', 'A. I.', '']",National and Kapodistrian University of Athens
+2102,"['Ktorides', 'C. N.', '']",Massachusetts Institute of Technology
+2103,"['Tervo', 'Jouko', '']",University of Eastern Finland
+2103,"['Nihtilä', 'Markku', '']",University of Eastern Finland
+2103,"['Kokkonen', 'Petri', '']",Université Paris-Sud 11
+2104,"['Sun', 'F. W.', '']",Peking University
+2104,"['Liu', 'B. H.', '']",University of Science and Technology of China
+2104,"['Huang', 'Y. F.', '']",University of Science and Technology of China
+2104,"['Zhang', 'Y. S.', '']",University of Science and Technology of China
+2104,"['Ou', 'Z. Y.', '']",
+2108,"['Dorey', 'Patrick', '']",Durham University
+2108,"['Dunning', 'Clare', '']",
+2108,"['Masoero', 'Davide', '']",Faculdade Campo Grande
+2108,"['Suzuki', 'Junji', '']",Shizuoka University
+2108,"['Tateo', 'Roberto', '']",Università degli Studi di Torino
+2111,"['Albrecht', 'J', '']","Research Institute for Innovative Surfaces, FINO"
+2111,"['Djupmyr', 'M', '']",
+2111,"['Bruck', 'S', '']",Max Planck Institute for Intelligent Systems
+2114,"['Sinha', 'Sitabhra', '']",The Institute of Mathematical Sciences
+2114,"['Pan', 'Raj Kumar', '']",Aalto University
+2116,"['Tanaka', 'Atushi', '']",Tokyo Metropolitan University
+2116,"['Miyamoto', 'Manabu', '']",Waseda University
+2117,"['Upmanyu', 'M.', '']",Northeastern University
+2117,"['Martin', 'P. A.', '']",Colorado School of Mines
+2117,"['Rollett', 'A. D.', '']",Carnegie Mellon University
+2118,"['Baer', 'Christian', '']",Universität Potsdam
+2119,"['Lançon', 'A.', '']",French National Centre for Scientific Research
+2119,"['Hauschildt', 'P. H.', '']",University of Hamburg
+2119,"['Ladjal', 'D.', '']",Gemini Observatory
+2119,"['Mouhcine', 'M.', '']",Liverpool John Moores University
+2120,"['Pelinovsky', 'Dmitry', '']",McMaster University
+2120,"['Schneider', 'Guido', '']",Universität Stuttgart
+2121,"['Yu', 'Sixia', '']",
+2121,"['Chen', 'Qing', '']",Peking University
+2121,"['Lai', 'C. H.', '']",National University of Singapore
+2121,"['Oh', 'C. H.', '']",National University of Singapore
+2123,"['Kozlov', 'M.', '']",Tel Aviv University
+2127,"['Santos', 'J. M. B. Lopes dos', '']",University of Porto
+2127,"['Peres', 'N. M. R.', '']",University of Minho
+2127,"['Neto', 'A. H. Castro', '']",National University of Singapore
+2128,"['Brener', 'E. A.', '']",Forschungszentrum Jülich
+2131,"['Tomelleri', 'C.', '']",University of Verona
+2131,"['Milotti', 'E.', '']",University of Trieste
+2131,"['Pellegrina', 'C. Dalla', '']",University of Verona
+2131,"['Perbellini', 'O.', '']",Azienda Sanitaria Ulss 6
+2131,"['Del Fabbro', 'A.', '']",
+2135,"['Lane', 'K. P.', '']",University of Nottingham
+2135,"['Almaini', 'O.', '']",University of Nottingham
+2135,"['Foucaud', 'S.', '']",SBSF Consultancy
+2135,"['Simpson', 'C.', '']",National Kaohsiung Normal University
+2135,"['Smail', 'Ian', '']",Durham University
+2135,"['McLure', 'R. J.', '']",The University of Edinburgh
+2135,"['Conselice', 'C. J.', '']",University of Nottingham
+2135,"['Cirasuolo', 'M.', '']",European Southern Observatory
+2135,"['Page', 'M. J.', '']",
+2135,"['Dunlop', 'J. S.', '']",The University of Edinburgh
+2137,"['Emanuel', 'Marc', '']",Delft University of Technology
+2137,"['Mohrbach', 'Hervé', '']",University of Lorraine
+2137,"['Sayar', 'Mehmet', '']",Koc University
+2139,"['Driver', 'Simon P.', '']",University of Western Australia
+2139,"['Popescu', 'Cristina C.', '']",University of Central Lancashire
+2139,"['Tuffs', 'Richard J.', '']",Max Planck Institute for Nuclear Physics
+2139,"['Liske', 'Jochen', '']",University of Hamburg
+2139,"['Graham', 'Alister W.', '']",Swinburne University of Technology
+2139,"['Allen', 'Paul D.', '']",
+2143,"['Rond', 'Guillaume', '']",Institut de Mathématiques de Luminy
+2144,"['Setiawan', 'J.', '']",Toyohashi University of Technology
+2144,"['Weise', 'P.', '']",Max Planck Institute for Astronomy
+2144,"['Henning', 'Th.', '']",
+2144,"['Hatzes', 'A. P.', '']",Thüringer Landessternwarte Tautenburg
+2144,"['Pasquini', 'L.', '']",Erasmus University Rotterdam
+2146,"['Shebeko', 'A.', '']",National Academy of Sciences of Ukraine
+2146,"['Grygorov', 'P.', '']",Merck
+2149,"['Rascon', 'C.', '']",University Carlos III de Madrid
+2152,"['Chapoton', 'Frédéric', '', 'ICJ']",
+2153,"['Boriskina', 'Svetlana V.', '']",Massachusetts Institute of Technology
+2153,"['Benson', 'Trevor M.', '']",University of Nottingham
+2153,"['Sewell', 'Phillip', '']",University of Nottingham
+2154,"['Syassen', 'N.', '']",Max Planck Institute of Quantum Optics
+2154,"['Bauer', 'D. M.', '']",Max Planck Institute of Quantum Optics
+2154,"['Lettner', 'M.', '']",Max Planck Institute of Quantum Optics
+2154,"['Dietze', 'D.', '']","University of California, Berkeley"
+2154,"['Volz', 'T.', '']",Macquarie University
+2156,"['Summerscales', 'T. Z.', '']",Andrews University
+2156,"['Burrows', 'Adam', '']",Princeton University
+2156,"['Ott', 'Christian D.', '']",California Institute of Technology
+2160,"['Couchot', 'Francois', '', 'LMNO']",Université de Caen Normandie
+2161,"['Shabad', 'Anatoly E.', '']",Russian Academy of Sciences
+2161,"['Usov', 'Vladimir V.', '']",Weizmann Institute of Science
+2163,"['Floter', 'B.', '']",Universität Heidelberg
+2163,"['Kopeliovich', 'B. Z.', '']",Universidad Técnica Federico Santa María
+2163,"['Pirner', 'H. J.', '']",Universität Heidelberg
+2163,"['Raufeisen', 'J.', '']",Universität Heidelberg
+2164,"['Osland', 'P.', '']",University of Bergen
+2164,"['Vereshagin', 'A.', '']",M Vest Energy AS
+2165,"['Desmurs', 'J. -F.', '']",National Archeological Museum Spain
+2165,"['Alcolea', 'J.', '']","Observatorio Astronómico Nacional, Spain"
+2165,"['Bujarrabal', 'V.', '']",Institute for Advanced Study
+2165,"['Contreras', 'C. Sanchez', '']",Centro de Astrobiología
+2165,"['Colomer', 'F.', '']",Joint Institute for VLBI ERIC
+2166,"['Belloni', 'Alexandre', '']",Duke University
+2166,"['Chernozhukov', 'Victor', '']",Massachusetts Institute of Technology
+2167,"['Makkonen', 'I.', '']",University of Helsinki
+2167,"['Puska', 'M. J.', '']",Aalto University
+2168,"['Bourgeois', 'Frédéric', '']",Université Paris-Sud 11
+2168,"['Oancea', 'Alexandru', '']",
+2169,"['Krellner', 'C.', '', 'Max Planck Institute for Chemical Physics of Solids,\n  Dresden, Germany']",Goethe-Universität Frankfurt am Main
+2169,"['Kini', 'N. S.', '', 'Max Planck Institute for Chemical Physics of Solids,\n  Dresden, Germany']",Thermax Ltd.
+2171,"['Zhang', 'Ying', '']",Xi'an Jiaotong University
+2171,"['Wang', 'Shun-Zhi', '']",Shanghai University of Engineering Science
+2171,"['Ge', 'Feng-Jun', '']",
+2171,"['Wang', 'Qing', '']",Shanghai University of Engineering Science
+2172,"['Albanis', 'V.', '']",University College London
+2172,"['Ribak', 'E. N.', '']",Technion - Israel Institute of Technology
+2172,"['Carmon', 'Y.', '']",Technion - Israel Institute of Technology
+2173,"['Moehler', 'S.', '']",European Southern Observatory
+2174,"['Miville-Deschenes', 'M. -A.', '', 'IAS, CITA']",AIM CEA Paris-Saclay University
+2174,"['Lagache', 'G.', '', 'IAS']",Aix-Marseille Université
+2174,"['Boulanger', 'F.', '', 'IAS']",Université Paris-Saclay
+2174,"['Puget', 'J. -L.', '', 'IAS']",Université Paris-Sud 11
+2178,"['Neufeld', 'David A.', '', 'JHU']",Johns Hopkins University
+2178,"['Hollenbach', 'David J.', '', 'NASA-Ames']",SETI Institute
+2178,"['Kaufman', 'Michael J.', '', 'SJSU']",San Jose State University
+2178,"['Snell', 'Ronald L.', '', 'UMass']",University of Massachusetts Amherst
+2178,"['Melnick', 'Gary J.', '', 'CfA']",Harvard-Smithsonian Center for Astrophysics
+2178,"['Bergin', 'Edwin A.', '', 'UMich']",University of Michigan
+2180,"['Almeida', 'J.', '']",Complutense University of Madrid
+2180,"['Martin-Delgado', 'M. A.', '']",Complutense University of Madrid
+2184,"['Anikin', 'I. V.', '']",Universität Regensburg
+2184,"['Teryaev', 'O. V.', '']",Joint Institute for Nuclear Research
+2185,"['Maio', 'U.', '']",Max Planck Institute for Extraterrestrial Physics
+2185,"['Dolag', 'K.', '']",Ludwig-Maximilians-University of Munich
+2188,"['Fiore', 'F.', '']",National Institute of Astrophysics
+2188,"['Guetta', 'D.', '']",National Institute of Astrophysics
+2188,"['Piranomonte', 'S.', '']",National Institute of Astrophysics
+2188,"[""D'Elia"", 'V.', '']",
+2188,"['Antonelli', 'L. A.', '']",National Institute of Astrophysics
+2189,"['Labzowsky', 'L.', '']",Saint Petersburg State University
+2189,"['Schedrin', 'G.', '']",Saint Petersburg State University
+2189,"['Solovyev', 'D.', '']",Saint Petersburg State University
+2189,"['Plunien', 'G.', '']",Technische Universität Dresden
+2190,"['Deng', 'Bo', '']",University of Nebraska at Lincoln
+2191,"['Wolff', 'Michael T.', '']",United States Naval Research Laboratory
+2191,"['Becker', 'Peter A.', '']",
+2191,"['Wolfram', 'Kenneth D.', '']",United States Naval Research Laboratory
+2192,"['Poenaru', 'D. N.', '']",Goethe-Universität Frankfurt am Main
+2192,"['Gherghescu', 'R. A.', '']",Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering
+2192,"[""Solov'yov"", 'A. V.', '']",Forschungszentrum L3S
+2192,"['Greiner', 'W.', '']",The Cambridge Institute For Advanced Studies
+2193,"['Pomeau', 'Yves', '']",Sorbonne Université
+2193,"['Roberts', 'David C.', '']",Los Alamos National Laboratory
+2194,"['Engelbracht', 'C. W.', '']",The University of Arizona
+2194,"['Blaylock', 'M.', '']",Northern Arizona University
+2194,"['Su', 'K. Y. L.', '']",
+2194,"['Rho', 'J.', '']","Korea Institute of Lighting Technology, KILT"
+2194,"['Rieke', 'G. H.', '']",
+2194,"['Muzerolle', 'J.', '']",Space Telescope Science Institute
+2196,"['Sharipov', 'V.', '']",Siemens
+2196,"['Labzowsky', 'L.', '']",Saint Petersburg State University
+2196,"['Plunien', 'G.', '']",Technische Universität Dresden
+2200,"['Satori', 'H.', '']",Sidi Mohamed Ben Abdellah University
+2200,"['Harti', 'M.', '']",Faculté des Sciences et Techniques Fès
+2200,"['Chenfour', 'N.', '']",Faculté des Sciences et Techniques Fès
+2201,"['Behler', 'Jorg', '']",
+2201,"['Reuter', 'Karten', '']",Technische Universität München
+2201,"['Scheffler', 'Matthias', '']",
+2202,"['Jennings', 'Kevin', '']",
+2203,"['Walker', 'Gordon A. H.', '']",Sumus Technology Ltd
+2203,"['Croll', 'Bryce', '']",Boston University
+2203,"['Kuschnig', 'Rainer', '']",Graz University of Technology
+2207,"['Finesso', 'Lorenzo', '']",Italian National Research Council
+2207,"['Spreij', 'Peter', '']",University of Amsterdam
+2208,"['Catinella', 'Barbara', '']",International Centre for Radio Astronomy Research
+2208,"['Haynes', 'Martha P.', '']",Cornell University
+2208,"['Giovanelli', 'Riccardo', '']",Cornell University
+2209,"['Khan', 'Sophia A.', '']",Shanghai Normal University
+2209,"['Shafer', 'Richard A.', '']",NASA
+2209,"['Serjeant', 'Stephen', '']",
+2209,"['Willner', 'S. P.', '']",Harvard-Smithsonian Center for Astrophysics
+2209,"['Pearson', 'Chris P.', '']",University of Oxford
+2209,"['Benford', 'Dominic J.', '']",NASA
+2209,"['Staguhn', 'Johannes G.', '']",Johns Hopkins University
+2212,"['Ionescu', 'Lucian M.', '']",Illinois State University
+2213,"['Fulton', 'William', '']",University of Michigan
+2213,"['Olsson', 'Martin', '']",
+2217,"['Eto', 'Minoru', '']",Keio University
+2217,"['Evslin', 'Jarah', '']",Chinese Academy of Sciences
+2217,"['Konishi', 'Kenichi', '']",Università di Pisa
+2217,"['Marmorini', 'Giacomo', '']",Aoyama Gakuin University
+2217,"['Nitta', 'Muneto', '']",Keio University
+2219,"['Gonzalez', 'Guillermo', '']",Pontificia Universidad Católica de Chile
+2219,"['Laws', 'Chris', '']",Pennsylvania State University
+2220,"['Liu', 'Dazhi', '']",Oak Ridge National Laboratory
+2220,"['Zhang', 'Yang', '']",University of Pittsburgh
+2220,"['Chen', 'Chia-Cheng', '']",National Taiwan University
+2220,"['Mou', 'Chung-Yuan', '']",National Taiwan University
+2220,"['Poole', 'Peter H', '']",St. Francis Xavier University
+2220,"['Chen', 'Sow-Hsin', '']",
+2222,"['Coleman', 'A. John', '']",
+2223,"['Lozano', 'G. S.', '']",Universidad de Buenos Aires
+2227,"['Salvador-Solé', 'Eduard', '']",University of Barcelona
+2227,"['Serra', 'Sinue', '']",
+2230,"['Quintanilla', 'J.', '']",University of Kent
+2230,"['Hooley', 'C.', '']",University of St Andrews
+2230,"['Powell', 'B. J.', '']",The University of Queensland
+2233,"['Herbut', 'Igor F.', '']",Simon Fraser University
+2234,"['Mangano', 'V.', '']",Pennsylvania State University
+2234,"['Holland', 'S. T.', '']",Space Telescope Science Institute
+2234,"['Malesani', 'D.', '']",University of Copenhagen
+2234,"['Troja', 'E.', '']",NASA
+2234,"['Chincarini', 'G.', '']",The Astronomical Observatory of Brera
+2236,"['Drukker', 'Nadav', '']",Kingston College United Kingdom
+2236,"['Giombi', 'Simone', '']",Princeton University
+2236,"['Ricci', 'Riccardo', '']",Imperial College London
+2236,"['Trancanelli', 'Diego', '']",University of São Paulo
+2237,"['Kashikawa', 'Nobunari', '']",The University of Tokyo
+2237,"['Kitayama', 'Tetsu', '']",Toho University
+2237,"['Doi', 'Mamoru', '']",The University of Tokyo
+2237,"['Misawa', 'Toru', '']",Shinshu University
+2237,"['Komiyama', 'Yutaka', '']",The Graduate University for Advanced Studies
+2241,"['Goncalves', 'Patricia', '']",Technical University of Lisbon
+2241,"['Landim', 'Claudio', '']",French National Centre for Scientific Research
+2241,"['Toninelli', 'Cristina', '']",Paris Dauphine University
+2242,"['Mitchell', 'Thomas', '', 'Washington University, St.\n  Louis']",Washington University in St. Louis
+2242,"['Will', 'Clifford M.', '', 'Washington University, St.\n  Louis']",University of Florida
+2243,"['Bayraktar', 'Erhan', '']",University of Michigan
+2243,"['Young', 'Virginia R.', '']",University of Michigan
+2244,"['Zimbovskaya', 'Natalya A.', '']",University of Puerto Rico at Humacao
+2245,"['Laurat', 'J.', '']",Sorbonne Université
+2245,"['Chou', 'C. W.', '']",California Institute of Technology
+2245,"['Deng', 'H.', '']",University of Electronic Science and Technology of China
+2245,"['Choi', 'K. S.', '']",California Institute of Technology
+2245,"['Felinto', 'D.', '']",Federal University of Pernambuco
+2245,"['de Riedmatten', 'H.', '']",ICFO Institute of Photonic Sciences
+2249,"['Sergeev', 'A. N.', '']",Saratov State University
+2249,"['Veselov', 'A. P.', '']",Loughborough University
+2253,"['Green', 'R. M.', '']",University of Colorado Boulder
+2254,"['Gotthelf', 'E. V.', '', 'Columbia']",Columbia University
+2254,"['Halpern', 'J. P.', '', 'Columbia']",Columbia University
+2255,"['Gorczyca', 'Anna', '']",University of Silesia in Katowice
+2255,"['Maska', 'Maciej M.', '']",Wroclaw University of Science and Technology
+2255,"['Mierzejewski', 'Marcin', '']",Wrocław University of Environmental and Life Sciences
+2256,"['Schmidt', 'S.', '']",
+2256,"['Alhassid', 'Y.', '']",Yale University
+2258,"['Lai', 'Lifeng', '']","University of California, Davis"
+2258,"['Gamal', 'Hesham El', '']",The Ohio State University
+2258,"['Poor', 'H. Vincent', '']",Princeton University
+2259,"['Matsen', 'Frederick A.', '']",Fred Hutchinson Cancer Research Center
+2259,"['Steel', 'Mike', '']",University of Canterbury
+2260,"['Ouyang*', 'Yijian', '']",University of Florida
+2260,"['Yoon*', 'Youngki', '']",University of Waterloo
+2260,"['Guo', 'Jing', '']",University of Florida
+2261,"['Bae', 'Sunghan', '']",Korea Advanced Institute of Science and Technology
+2261,"['Hu', 'Yong', '']",Southern University of Science and Technology
+2261,"['Yin', 'Linsheng', '']",Tsinghua University
+2262,"['Lee', 'Chaohong', '']",Australian National University
+2262,"['Ostrovskaya', 'Elena A.', '']",Australian National University
+2262,"['Kivshar', 'Yuri S.', '']",Australian National University
+2263,"['Royle', 'Gordon F.', '']",University of Western Australia
+2264,"['Murgan', 'Rajan', '']",Saginaw Valley State University
+2265,"['Budyansky', 'M. V.', '']",Pacific Oceanological Institute
+2265,"['Uleysky', 'M. Yu.', '']",V.I. Il'ichev Pacific Oceanological Institute
+2265,"['Prants', 'S. V.', '']",Pacific Oceanological Institute
+2266,"['Sun', 'Tao', '']",Scuola Internazionale Superiore di Studi Avanzati di Trieste
+2266,"['Allen', 'Philip B.', '']",Stony Brook University
+2266,"['Stahnke', 'David G.', '']","University of California, San Diego"
+2266,"['Jacobsen', 'Steven D.', '']",Northwestern University
+2266,"['Homes', 'Christopher C.', '']",Brookhaven National Laboratory
+2267,"['Rabinovich', 'V. S.', '']",Instituto Politécnico Nacional
+2267,"['Roch', 'S.', '']",Technische Universität Darmstadt
+2268,"['Natali', 'S.', '']",The University of Queensland
+2268,"['Ficek', 'Z.', '']",University of Zielona Góra
+2269,"['Suganuma', 'M.', '']",
+2269,"['Kobayashi', 'Y.', '']",National Astronomical Observatory of Japan
+2269,"['Okada', 'N.', '']",National Astronomical Observatory of Japan
+2269,"['Yoshii', 'Y.', '']",The University of Arizona
+2269,"['Minezaki', 'T.', '']",The University of Tokyo
+2272,"['Jain', 'Pankaj', '']",Indian Institute of Technology Kanpur
+2272,"['Mitra', 'Subhadip', '']","International Institute of Information Technology, Hyderabad"
+2273,"['Eskin', 'Gregory', '', 'UCLA']","University of California, Los Angeles"
+2273,"['Ralston', 'James', '', 'UCLA']","University of California, Los Angeles"
+2273,"['Yamamoto', 'Masahiro', '', 'University of Tokyo']",The University of Tokyo
+2274,"['Mochizuki', 'Satoshi', '']",
+2275,"['Murayama', 'Hitoshi', '']","University of California, Berkeley"
+2276,"['Gattringer', 'Christof', '']",Karl-Franzens-Universität Graz
+2276,"['Hermann', 'Verena', '']",Karl-Franzens-Universität Graz
+2276,"['Limmer', 'Markus', '']",Karl-Franzens-Universität Graz
+2277,"['Sheena', 'Yo', '']",Shinshu University
+2277,"['Takemura', 'Akimichi', '']",Shiga University
+2278,"['Daszynska-Daszkiewicz', 'J.', '']",Wyższa Szkoła Handlowa we Wrocławiu
+2278,"['Dziembowski', 'W. A.', '']",University of Warsaw
+2278,"['Pamyatnykh', 'A. A.', '']",Centrum Astronomiczne im. M. Kopernika PAN
+2279,"['Doktorov', 'Evgeny V.', '']",
+2279,"['Rothos', 'Vassilis M.', '']",Aristotle University of Thessaloniki
+2279,"['Kivshar', 'Yuri S.', '']",Australian National University
+2280,"['Weigel', 'H.', '']",Stellenbosch University
+2281,"['Hesselink', 'W. H.', '']",University of Groningen
+2281,"['Hummelen', 'J. C.', '']",University of Groningen
+2281,"['Jonkman', 'H. T.', '']",University of Groningen
+2281,"['Reker', 'H. G.', '']",University of Groningen
+2284,"['Cappelluti', 'N.', '']",National Institute of Astrophysics
+2284,"['Boehringer', 'H.', '']",Ludwig-Maximilians-University of Munich
+2284,"['Schuecker', 'P.', '']",Max Planck Institute for Extraterrestrial Physics
+2284,"['Pierpaoli', 'E.', '']",
+2284,"['Mullis', 'C. R.', '']",NorthStar Capital Advisors
+2287,"['Wang', 'J. -M.', '']",Chinese Academy of Sciences
+2287,"['Chen', 'Y. -M.', '']",University of St Andrews
+2287,"['Yan', 'C. -S.', '']",
+2287,"['Hu', 'C.', '']",
+2287,"['Bian', 'W. -H.', '']",Nanjing Normal University
+2288,"['Janson', 'Svante', '']",Uppsala University
+2289,"['Marciak-Kozlowska', 'J.', '']",
+2292,"['Cappelluti', 'N.', '']",National Institute of Astrophysics
+2292,"['Hasinger', 'G.', '']",European Space Agency
+2292,"['Brusa', 'M.', '']",University of Bologna
+2292,"['Comastri', 'A.', '']",National Institute of Astrophysics
+2292,"['Zamorani', 'G.', '']",National Institute of Astrophysics
+2296,"['Yang', 'Wen-Xing', '']",Yangtze University
+2296,"['Gong', 'Zhe-Xuan', '']",Joint Quantum Institute
+2297,"['Wang', 'Tower', '']",University of Science and Technology of China
+2298,"['Mayle', 'Michael', '']",University of Colorado Boulder
+2298,"['Hezel', 'Bernd', '']",Potsdam Institute for Climate Impact Research
+2298,"['Lesanovsky', 'Igor', '']",University of Tuebingen
+2298,"['Schmelcher', 'Peter', '']",University of Hamburg
+2299,"['Mlinar', 'V.', '']",Brown University
+2299,"['Peeters', 'F. M.', '']",University of Antwerp
+2301,"['Naseri', 'M.', '']",Islamic Azad University Kermanshah Branch
+2303,"['Cerejeiras', 'P.', '']",University of Aveiro
+2303,"['Vieira', 'N.', '']",University of Aveiro
+2304,"['Lahuis', 'Fred', '']","Netherlands Institute for Space Research, Utrecht"
+2304,"['van Dishoeck', 'Ewine F.', '']",Leiden University
+2304,"['Blake', 'Geoffrey A.', '']",California Institute of Technology
+2304,"['Evans', 'Neal J.', 'II']",University of Texas at Austin
+2304,"['Kessler-Silacci', 'Jacqueline E.', '']",University of Texas at Austin
+2304,"['Pontoppidan', 'Klaus M.', '']",Space Telescope Science Institute
+2305,"['Taverna', 'D.', '']",Université Paris-Sud 11
+2309,"['Olofsson', 'H.', '']",Lund University
+2311,"['Ando', 'Shung-ichi', '', 'Sungkyunkwan U.']",Sun Moon University
+2311,"['Shin', 'Jae Won', '', 'Sungkyunkwan U.']",Institute for Basic Science
+2311,"['Hyun', 'Chang Ho', '', 'Sungkyunkwan U.']",Daegu University
+2311,"['Hong', 'Seung Woo', '', 'Sungkyunkwan U.']",Electronics and Telecommunications Research Institute
+2312,"['Jafarpour', 'F H', '']",Buali Sina University
+2314,"['Bermudez', 'A.', '']",Complutense University of Madrid
+2314,"['Martin-Delgado', 'M. A.', '']",
+2314,"['Solano', 'E.', '']",Universidad del País Vasco / Euskal Herriko Unibertsitatea
+2316,"['Chiavazzo', 'E.', '']",Politecnico di Torino
+2316,"['Karlin', 'I. V.', '']",ETH Zurich
+2317,"['Stuchlik', 'Zdenek', '']",Silesian University in Opava
+2321,"['Neumann', 'F.', '']",
+2321,"['Genenko', 'Y. A.', '']",Technical University of Darmstadt
+2321,"['Melzer', 'C.', '']",InnovationLab GmbH
+2325,"['Caudrelier', 'V.', '']",University of Leeds
+2326,"['Sasano', 'Yusuke', '']",Kobe University
+2327,"['Pireddu', 'Marina', '']",Università degli Studi di Milano-Bicocca
+2327,"['Zanolin', 'Fabio', '']",University of Udine
+2328,"['Arrachea', 'L.', '']",Universidad Nacional de San Martín - Buenos Aires
+2328,"['Naón', 'Carlos', '']",Universidad Nacional de La Plata
+2328,"['Salvay', 'Mariano', '']",Universidad Nacional de La Plata
+2329,"['Matveev', 'O. A.', '']",Russian Academy of Sciences
+2329,"[""Terent'ev"", 'A. I.', '']",Russian Academy of Sciences
+2329,"['Karpenko', 'V. P.', '']",Russian Academy of Sciences
+2329,"['Zelenina', 'N. K.', '']",Ioffe Physical Technical Institute
+2329,"['Fauler', 'A.', '']",University of Freiburg
+2331,"['Brauer', 'F.', '']",Max Planck Institute for Astronomy
+2331,"['Dullemond', 'C. P.', '']",Universität Heidelberg
+2331,"['Johansen', 'A.', '']",Lund University
+2331,"['Henning', 'Th.', '']",
+2331,"['Klahr', 'H.', '']",Max Planck Institute for Astronomy
+2331,"['Natta', 'A.', '']",Dublin Institute for Advanced Studies
+2335,"['Ohira-Kawamura', 'S.', '']",Japan Atomic Energy Agency
+2335,"['Shishido', 'H.', '']",Osaka Prefecture University
+2335,"['Yoshida', 'A.', '']",
+2335,"['Okazaki', 'R.', '']",Kyoto University
+2335,"['Kawano-Furukawa', 'H.', '']",Ochanomizu University
+2338,"['Budiyono', 'Agung', '']",Hebrew University of Jerusalem
+2339,"['Chen', 'Lie-Wen', '']",Shanghai Jiao Tong University
+2339,"['Ko', 'Che Ming', '']",
+2339,"['Li', 'Bao-An', '']",
+2342,"['Essler', 'F. H. L.', '']",University of Oxford
+2342,"['Kuzmenko', 'T.', '']",Ben-Gurion University of the Negev
+2342,"['Zaliznyak', 'I. A.', '']",Brookhaven National Laboratory
+2343,"['Vollaire', 'Christian', '', 'CEGELY']",Ecole Centrale de Lyon
+2343,"['Nicolas', 'Laurent', '', 'CEGELY']",Ecole Centrale de Lyon
+2343,"['Nicolas', 'Alain', '', 'CEGELY']",Ecole Centrale de Lyon
+2344,"['Bushby', 'Paul J.', '']",Newcastle University
+2344,"['Tobias', 'Steven M.', '']",University of Leeds
+2346,"['El-Orany', 'Faisal A. A.', '']",Suez Canal University
+2347,"['Satori', 'H.', '']",Sidi Mohamed Ben Abdellah University
+2347,"['Harti', 'M.', '']",Faculté des Sciences et Techniques Fès
+2347,"['Chenfour', 'N.', '']",Faculté des Sciences et Techniques Fès
+2347,"['Assaoui', 'F.', '']",Mohammed V University of Rabat
+2348,"['Igarashi', 'Yuji', '']",Niigata University
+2348,"['Itoh', 'Katsumi', '']",Niigata University
+2348,"['Sonoda', 'Hidenori', '']",Kobe University
+2349,"['Balbi', 'A.', '']",University of Rome Tor Vergata
+2349,"['Quercellini', 'C.', '']",WWF Italy
+2350,"['Dumas', 'Jean-Guillaume', '', 'LMC - IMAG']",Université Grenoble Alpes
+2350,"['Elbaz-Vincent', 'Philippe', '', 'I3M']",University Joseph Fourier - Grenoble 1
+2350,"['Giorgi', 'Pascal', '', 'LP2A']",
+2350,"['Urbanska', 'Anna', '', 'LMC - IMAG']",University of Warsaw
+2351,"['Gellé', 'Alain', '', 'EPFL']",École Polytechnique Fédérale de Lausanne
+2354,"['Santocanale', 'Luigi', '', 'LIF']",Laboratoire d’Informatique et des Systèmes de Marseille
+2355,"['Pierre', 'Chaomleffel Jean', '', 'LaMCoS']",
+2355,"['Gérard', 'Dalmaz', '', 'LaMCoS']",
+2355,"['Vergne', 'Philippe', '', 'LaMCoS']",
+2356,"['Abdalaoui', 'El Houcein El', '', 'LMRS']",Université de Rouen
+2357,"['Hammer', 'J. C.', '']",Universität Konstanz
+2357,"['Cuevas', 'J. C.', '']",Universidad Autónoma de Madrid
+2357,"['Bergeret', 'F. S.', '']",Donostia International Physics Center
+2357,"['Belzig', 'W.', '']",Universität Konstanz
+2359,"['Amrouche', 'Chérif', '', 'LMA - Pau']",Université de Pau et des Pays de l'Adour
+2359,"['Batchi', 'Macaire', '', 'LMA - Pau, Latep']",Université de Pau et des Pays de l'Adour
+2359,"['Batina', 'Jean', '', 'LATEP']",Université de Pau et des Pays de l'Adour
+2361,"['Batakis', 'Athanasios', '', 'MAPMO']",Université d'Orléans
+2361,"['Levitz', 'Pierre', '', 'PMC']",Sorbonne Université
+2361,"['Zinsmeister', 'Michel', '', 'PMC, MAPMO']",Université d'Orléans
+2364,"['Ito', 'Takeyasu M.', '']",
+2365,"['Nicolas', 'Laurent', '', 'CEGELY']",Ecole Centrale de Lyon
+2365,"['Furstoss', 'M.', '', 'LMFA']",Ecole Centrale de Lyon
+2365,"['Galland', 'Marie-Annick', '', 'LMFA']",Ecole Centrale de Lyon
+2366,"['Sasano', 'Yusuke', '']",Kobe University
+2367,"['Achasov', 'N. N.', '']",Landau Institute for Theoretical Physics
+2367,"['Shestakov', 'G. N.', '']",Landau Institute for Theoretical Physics
+2370,"['Hundur', 'Yakup', '']",Istanbul Technical University
+2370,"['Hippler', 'Rainer', '']",University of Greifswald
+2370,"['Guvenc', 'Ziya B.', '']",Cankaya University
+2373,"['Fraiman', 'Daniel', '']",Universidad de San Andrés
+2374,"['Buzzi', 'Stefano', '']",Università degli studi di Cassino e del Lazio Meridionale
+2374,"['Poor', 'H. Vincent', '']",Princeton University
+2375,"['Oliveira', 'Taise Santiago Costa', '']",Universidade Estadual de Feira de Santana
+2376,"['Knutsen', 'Andreas Leopold', '']",University of Bergen
+2377,"['Bell', 'Jason P.', '']",University of Waterloo
+2377,"['Smoktunowicz', 'Agata', '']",The University of Edinburgh
+2378,"['Capitan', 'Jose A.', '']",University Carlos III de Madrid
+2378,"['Cuesta', 'Jose A.', '']",University Carlos III de Madrid
+2379,"['Marinelli', 'Carlo', '']",
+2381,"['Fodor', 'Z.', '', '1 and 2 and 3']",Hungarian Academy of Sciences
+2381,"['Szabo', 'K. K.', '', '1 and 2']",Bergische Universität Wuppertal
+2381,"['Toth', 'B. C.', '', '1 and 2']",Bergische Universität Wuppertal
+2382,"['Massaro', 'Valeria', '']",Università degli studi di Cassino e del Lazio Meridionale
+2383,"['Cuntz', 'Michael', '']",
+2384,"['Cook', 'M. S.', '']",Converse College
+2384,"['Fiebig', 'H. R.', '']",Florida International University
+2385,"['Albert', 'Pilar', '']",University of Zaragoza
+2385,"['Mayordomo', 'Elvira', '']",University of Zaragoza
+2385,"['Moser', 'Philippe', '']","National University of Ireland, Maynooth"
+2386,"['Anderson', 'J. P.', '']",European Southern Observatory
+2390,"['Sasano', 'Yusuke', '']",Kobe University
+2391,"['Ries', 'Alexander', '']",University of Duisburg-Essen
+2391,"['Unger', 'Tamas', '']",Budapest University of Technology and Economics
+2391,"['Wolf', 'Dietrich E.', '']",University of Duisburg-Essen
+2393,"['Roberts', 'B. Lee', '']",Boston University
+2394,"['Skopina', 'M.', '']",Saint Petersburg State University
+2395,"['Santos', 'F. C.', '']",Federal University of Rio de Janeiro
+2395,"['Soares', 'V.', '']",Federal University of Rio de Janeiro
+2398,"['Adamyan', 'Vadym M.', '']","Odessa I.I. Mechnikov National University, Odessa, Ukraine"
+2398,"['Smyrnov', 'Oleksii A.', '']",Odessa National University
+2399,"['Actis', 'S.', '', 'DESY']","AVACO AG, Switzerland"
+2399,"['Czakon', 'M.', '', 'U. Wuerzburg']",
+2399,"['Gluza', 'J.', '', 'U. Katowice']",University of Silesia in Katowice
+2399,"['Riemann', 'T.', '', 'DESY']",Deutsches Elektronen-Synchrotron
+2400,"['Lee', 'Ho Nyung', '']",Oak Ridge National Laboratory
+2400,"['Nakhmanson', 'Serge M.', '']",University of Connecticut
+2400,"['Chisholm', 'Matthew F.', '']",Oak Ridge National Laboratory
+2400,"['Christen', 'Hans M.', '']",Oak Ridge National Laboratory
+2400,"['Rabe', 'Karin M.', '']","Rutgers, The State University of New Jersey"
+2404,"['Bock', 'Robert D.', '']",R-DEX
+2406,"['Ghosh', 'Kajal K.', '']",University of Nebraska at Lincoln
+2406,"['Punsly', 'Brian', '']",
+2410,"['Lopatin', 'A. A.', '']",University of Campinas
+2411,"['Akimoto', 'H.', '']",RIKEN
+2411,"['Xia', 'J. S.', '']",
+2411,"['Candela', 'D.', '']",University of Massachusetts Amherst
+2411,"['Mullin', 'W. J.', '']",University of Massachusetts Amherst
+2411,"['Adams', 'E. D.', '']",The National High Magnetic Field Laboratory (National MagLab)
+2413,"['Jafarizadeh', 'M. A.', '']",University of Tabriz
+2413,"['Najarbashi', 'G.', '']",University of Mohaghegh Ardabili
+2413,"['Akbari', 'Y.', '']",Azarbaijan Shahid Madani University
+2413,"['Habibian', 'H.', '']",ICFO Institute of Photonic Sciences
+2414,"['Cameron', 'P. B.', '', 'Caltech']",California Institute of Technology
+2414,"['Kulkarni', 'S. R.', '', 'Caltech']",California Institute of Technology
+2416,"['Venters', 'Tonia M.', '', 'KICP, U. Chicago']",NASA
+2416,"['Pavlidou', 'Vasiliki', '', 'KICP, U. Chicago']",University of Crete
+2417,"['Khochfar', 'S.', '']",The University of Edinburgh
+2417,"['Ostriker', 'J. P.', '']",
+2418,"['Zarbo', 'Liviu P.', '']",National Institute for Research and Development of Isotopic and Molecular Technologies
+2418,"['Nikolic', 'Branislav K.', '']",University of Delaware
+2419,"['Reid', 'I. Neill', '', 'STScI']",Space Telescope Science Institute
+2419,"['Turner', 'Edwin L.', '', 'Princeton University']",Institute for Advanced Study
+2419,"['Turnbull', 'Margaret C.', '', 'STScI']",SETI Institute
+2419,"['Mountain', 'M.', '', 'STScI']",Space Telescope Science Institute
+2419,"['Valenti', 'Jeff A.', '', 'STScI']",Space Telescope Science Institute
+2420,"['Amendola', 'Luca', '', 'INAF/OAR Italy']",ITP
+2420,"['Kunz', 'Martin', '', 'U.\n  Geneve, Switzerland']",University of Geneva
+2420,"['Sapone', 'Domenico', '', 'U.\n  Geneve, Switzerland']",University of Chile
+2421,"['Hughes', 'A. M.', '']",Wesleyan University
+2421,"['Wilner', 'D. J.', '']",Harvard-Smithsonian Center for Astrophysics
+2421,"['Calvet', 'N.', '']",University of Michigan
+2421,"[""D'Alessio"", 'P.', '']",Universidad Nacional Autónoma de México
+2421,"['Claussen', 'M. J.', '']",National Radio Astronomy Observatory
+2421,"['Hogerheijde', 'M. R.', '']",Leiden University
+2422,"['Gluza', 'J.', '', 'U. Katowice']",University of Silesia in Katowice
+2422,"['Kajda', 'K.', '', 'U. Katowice']",University of Silesia in Katowice
+2422,"['Riemann', 'T.', '', 'DESY']",Deutsches Elektronen-Synchrotron
+2423,"['Afonso', 'V. I.', '']",Universidade Federal de Campina Grande (UFCG)
+2423,"['Bazeia', 'D.', '']",Universidade Federal da Paraíba
+2423,"['Leon', 'M. A. Gonzalez', '']",Universidad de Salamanca
+2423,"['Losano', 'L.', '']",Universidade Federal da Paraíba
+2423,"['Guilarte', 'J. Mateos', '']",Universidad de Salamanca
+2424,"['Bhattacharya', 'M.', '']",Rochester Institute of Technology
+2424,"['Meystre', 'P.', '']",The University of Arizona
+2427,"['Ng', 'Siu-Hung', '']",
+2428,"['Leal', 'Lorenzo', '']",Central University of Venezuela
+2428,"['Pineda', 'Jesus', '']",Simon Bolívar University
+2429,"['Capak', 'P.', '']",California Institute of Technology
+2429,"['Aussel', 'H.', '']",French National Centre for Scientific Research
+2429,"['Ajiki', 'M.', '']",Honolulu University
+2429,"['McCracken', 'H. J.', '']",Institut d'astrophysique de Paris
+2429,"['Mobasher', 'B.', '']",
+2433,"['Aguilar', 'Jose Edgar Madriz', '']",University of Guadalajara
+2436,"['Quintero-Torres', 'R.', '']",Universidad Nacional Autónoma de México
+2436,"['Vazquez-Ceron', 'E.', '']",
+2438,"['Kotov', 'Valeri N.', '']",
+2438,"['Yao', 'D. X.', '']",Sun Yat-Sen University
+2438,"['Neto', 'A. H. Castro', '']",National University of Singapore
+2438,"['Campbell', 'D. K.', '']",Boston University
+2439,"['Huang', 'Min-xin', '']",
+2442,"['Koyama', 'Akira', '']",Kyoto University
+2442,"['Odagaki', 'Takashi', '']",Research Institute for Science Education
+2442,"['Fukao', 'Koji', '']",Ritsumeikan University
+2443,"['Zhang', 'Le', '']",University of Wisconsin–Madison
+2443,"['Chen', 'Xuelei', '']",Peking University
+2443,"['Kamionkowski', 'Marc', '']",Johns Hopkins University
+2443,"['Si', 'Zongguo', '']",Shandong University
+2443,"['Zheng', 'Zheng', '']",Nanjing Institute of Technology
+2444,"['Kravtsov', 'V.', '']",National Aviation University
+2444,"['Alcaino', 'G.', '']",Lomonosov Moscow State University
+2444,"['Marconi', 'G.', '']",European Southern Observatory
+2444,"['Alvarado', 'F.', '']",Universidad Mayor de San Andres
+2445,"['Shparlinski', 'I. E.', '']",UNSW Sydney
+2445,"['Voloch', 'J. F.', '']",University of Canterbury
+2446,"['Brown', 'Duncan A.', '']","University of California, Santa Barbara"
+2446,"['Crowder', 'Jeff', '']",California Institute of Technology
+2446,"['Cutler', 'Curt', '']",California Institute of Technology
+2446,"['Mandel', 'Ilya', '']",University of Birmingham
+2446,"['Vallisneri', 'Michele', '']",
+2447,"['Baillot', 'Patrick', '']",University of Lyon
+2447,"['Coppola', 'Paolo', '']",University of Udine
+2447,"['Lago', 'Ugo Dal', '']",University of Bologna
+2448,"['Saitou', 'Takashi', '']",
+2449,"['Bollobas', 'Bela', '']",University of Cambridge
+2449,"['Nikiforov', 'Vladimir', '']",The University of Memphis
+2452,"['Smarandache', 'Florentin', '']",University of New Mexico Gallup
+2453,"['Rezania', 'Vahid', '']",MacEwan University
+2453,"['Tuszynski', 'Jack', '']",University of Alberta
+2453,"['Hendzel', 'Michael', '']",University of Alberta
+2454,"['Johnson', 'John A.', '']",Harvard-Smithsonian Center for Astrophysics
+2454,"['Fischer', 'Debra A.', '']",Yale University
+2454,"['Marcy', 'Geoffrey W.', '']","University of California, Berkeley"
+2457,"['Ambrosio', 'Luigi', '']",Scuola Normale Superiore di Pisa
+2457,"['Savare', 'Giuseppe', '']",University of Pavia
+2457,"['Zambotti', 'Lorenzo', '']",
+2461,"['Wang', 'Y. D.', '']",University of Basel
+2461,"['Semba', 'K.', '']",National Institute of Information and Communications Technology
+2461,"['Yamaguchi', 'H.', '']",
+2462,"['Kalashev', 'Oleg E.', '', 'INR Moscow']",Russian Academy of Sciences
+2462,"['Semikoz', 'Dmitry V.', '', 'APC,\n  Paris']",AstroParticle and Cosmology Laboratory
+2462,"['Sigl', 'Guenter', '', 'APC,\n  Paris']",University of Hamburg
+2463,"['Feigin', 'B.', '']",

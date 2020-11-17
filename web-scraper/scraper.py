@@ -69,6 +69,8 @@ def send_request(url,counter,author, scraper):
         response = scrapingbee(url,js="false")
     elif(scraper=="free"):
         response = free_proxy(url)
+    elif(scraper=="crawlera"):
+        response = crawlera(url)
     else:
         raise Exception("No suitable proxy method given")
 
@@ -79,8 +81,11 @@ def send_request(url,counter,author, scraper):
         counter += 1
         send_request(url,counter,author,scraper)
 
-    if(BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub(" ","-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author))), flags=re.I)})== None):
-        response = ""
+    print(response.text)
+
+    if(BeautifulSoup(response.text,'lxml').find("a", {'href': re.compile(re.sub(" ", "-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author))),flags=re.I)})== None):
+        counter += 1
+        send_request(url,counter,author,scraper)
     return(response)
 
 
@@ -117,6 +122,33 @@ def scrapingbee(url, js):
 
     ))
 
+
+def crawlera(url):
+
+    # Counter so I don't accidentally overuse the allotted amount and charge myself money...
+    counter = int(retrieve_count())
+    if(counter>9500):
+        raise Exception("Too close to usage cap-- change proxies or manually change cap")
+
+    proxy_host = "proxy.crawlera.com"
+    proxy_port = "8010"
+    proxy_auth = "c47caddc62f54928b5d825cd0f331e78:" # Make sure to include ':' at the end
+    proxies = {"https": "https://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port),
+          "http": "http://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port)}
+    counter = counter+1
+    r = requests.get(url,proxies=proxies,verify=False)
+
+    update_count(str(counter))
+
+    return(r)
+
+def update_count(count):
+    with open("UsageCount","w") as f:
+        f.write(count)
+
+def retrieve_count():
+    with open("UsageCount","r") as f:
+        return(f.readline().strip())
 
 # Returns list of proxies from freeproxylist. Unfortunately, requires a proxy... WIP
 
@@ -157,19 +189,18 @@ def scrapingbee(url, js):
 
 ## This section is where the scraping happens
 
-lastchecked = authuni[-1][0]
-for j,title in enumerate(htmltitles[int(lastchecked)+1:]):
-    i = j+int(lastchecked)+1
+lastchecked = int(authuni[-1][0]) + random.randint(1,3)
+for j, title in enumerate(htmltitles[lastchecked+1]):
+    i = j+lastchecked+1
     # turn database into python list
     authorslist = eval("list(" + htmlauthors[i] + ")")
-
-
+    title = htmltitles[i]
     # pull publications and soupify
     time.sleep(1/250)
 
     # Prevents edge cases where organizations are listed as authors...
     if (("The " in authorslist[0][0]) !=True):
-        r = send_request('https://www.researchgate.net/search/publication?q=' + title,0,authorslist[0][0],scraper="free")
+        r = send_request('https://www.researchgate.net/search/publication?q=' + title,0,authorslist[0][0],scraper="crawlera")
         if (r == ""):
             for author in authorslist:
                 university = ""
@@ -185,13 +216,16 @@ for j,title in enumerate(htmltitles[int(lastchecked)+1:]):
                 for lists in authuni:
                     authorcount += lists.count(author)
                 if (authorcount==0 & ("The " in author[0])):
-                    print(soup.find("a", {'href': re.compile(re.sub("[^0-9a-zA-Z\-]","",anglicize(author[0])),flags=re.I)}))
-                    r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub(" ", "-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author[0]))),flags=re.I)}).attrs['href'],0,author[0],scraper="free")
+                    print(author)
+                    print(r.url)
+                    r2 = send_request('https://www.researchgate.net/' + soup.find("a", {'href': re.compile(re.sub(" ", "-",re.sub("[^0-9a-zA-Z\- ]","",anglicize(author[0]))),flags=re.I)}).attrs['href'],0,author[0],scraper="crawlera")
                     soup2 = BeautifulSoup(r2.text, 'lxml')
                     if r2.url.find("profile")>=0:
                         university = soup2.find("div", class_="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600").contents[0].contents[0].contents[0]
                     else:
-                        if (len(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)
+                        if (hasattr(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title"),'children')==False):
+                            university = ""
+                        elif (len(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)
     )>=3 | (soup2.title!=("<title>17+ million researchers on ResearchGate</title>"))):
                             university = BeautifulSoup(str(list(soup2.find("h1", class_="nova-e-text nova-e-text--size-xl nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-grey-600 sci-con__header-title").children)[2]),"lxml").text
                         else:
