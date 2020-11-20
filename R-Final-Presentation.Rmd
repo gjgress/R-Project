@@ -1,31 +1,25 @@
 ---
 title: "STAT 405/605 Presentation Group 11"
+subtitle: "Insights into arXiv Articles Data"
 author: "Gabe Gress, Minyue Hu, Tina Dantono, Kristin West"
 date: "11/17/2020"
 output:
   beamer_presentation: default
   ioslides_presentation: default
 ---
-## Introduction
-- arXiv, hosted by Cornell University, is a web-based open-access archive for over 1.7M scholarly articles
+# Introduction
 
-- The documents in arXiv range from 1996 to 2020
+## Dataset
 
-- Our research debated whether different authors have different propensities for research topics over time
+* Primary dataset: the arXiv Bulk Data from [the arXiv official website](https://arxiv.org/help/bulk_data)
+  * arXiv, hosted by Cornell University, is a web-based open-access archive for over 1.7M scholarly articles
+  * The documents in arXiv range from 1991-07 to 2020-10
 
-- We expected the final results to show that certain research fields are of greater interest over time
-
-
-## Introduction
-- We also considered the following issues: 
-  - which year has the greatest number of published papers on average
-  - the number of papers published in each arXiv category per year
-  - the geographical distribution of the publishers and the types of papers they published
-  - the universities to which the researchers belong,
-  - the influencing factors on the papers (i.e. funding)
-  - 6 categories: physics, computer science, math, statistics, economics, electrical engineering and systems science. Categories can also be combined. 
+* Secondary dataset: Universities & Colleges Dataset
+  * Published by [the Department of Homeland Security](https://catalog.data.gov/dataset/colleges-and-universities-cb8a4), so the reliability is extremely high
 
 ## Background
+
 - arXiv collects research papers on the topics of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
 
 - As of October 2016, the submission rate has exceeded 10,000 articles per month.
@@ -37,9 +31,23 @@ output:
 - arXiv accepts publications free of charge, meaning it is most likely to fairly represent all scientific contributions
 - Most preprints are on arXiv, so it often can represent trends in science
 
+## Goals: 
+- Our research debated whether different authors have different propensities for research topics over time
 
-## Secondary Dataset 
-- Universities & Colleges Dataset from the Department of Homeland Security
+- We expected the final results to show that certain research fields are of greater interest over time
+
+## Goals (cont.) :
+- We also considered the following issues: 
+  - which year has the greatest number of published papers on average
+  - the number of papers published in each arXiv category per year
+  - the geographical distribution of the publishers and the types of papers they published
+  - the universities to which the researchers belong,
+  - the influencing factors on the papers (i.e. funding)
+  - 6 categories: physics, computer science, math, statistics, economics, electrical engineering and systems science. Categories can also be combined. 
+
+
+
+# Data Exploration
 
 ## Growth of arXiv
 ```{r,echo=FALSE}
@@ -270,7 +278,7 @@ panel.grid.minor = element_line(size = 0.25, linetype = 'solid',
 colour = "black")) + 
 theme(plot.background = element_rect(fill = "white")) + 
 theme(strip.text = element_text(size = 10)) + 
-theme(axis.text.x = element_text(angle = 20, hjust = 1, size = 10)) + 
+theme(axis.text.x = element_text(angle = 20, hjust = 1, size = 8)) + 
 theme(axis.text.y = element_text(size = 10)) + 
 theme(axis.title.x = element_text(size = 10) + 
 theme(axis.title.y = element_text(size = 10), 
@@ -284,9 +292,9 @@ remove(arxivsimplified)
 ## Active Institutions in Science
 ```{r,echo=FALSE}
 authorsuni_2 <- as.data.frame(read.csv(file="./web-scraper/authorsuni.csv", stringsAsFactors=FALSE))
-
 unicount <- table(authorsuni_2$University)
-unicount_top10 <- as.data.frame(head(sort(unicount, decreasing=TRUE),n=10))
+
+unicount_top10 <- as.data.frame(head(sort(unicount, decreasing=TRUE),n=11))[-1,]
 
 ggplot(unicount_top10) + geom_col(aes(x=Var1,y=Freq), color = "red", fill = "midnightblue", width = 0.7) +
   xlab("Institution") + 
@@ -307,8 +315,38 @@ ggtitle("Most ArXiv Submitters by Institution")  +
                 theme(title =element_text(size = 10))))
 
 remove(authorsuni_2)
-remove(unicount)
+```
 
+## Statistical Data
+
+```{r,echo=FALSE, fig.height= 10, fig.width=8}
+
+coluni = read.csv(file = "Colleges_and_Universities.csv", stringsAsFactors = FALSE)
+
+unicount = as.data.frame(unicount[-1], stringsAsFactors=FALSE)
+
+unicount$Enrollment = coluni$TOT_ENROLL[match(table = coluni$NAME, x= toupper(as.character(unicount$Var1)))]
+
+unicount$Size = coluni$INST_SIZE[match(table = coluni$NAME, x= toupper(as.character(unicount$Var1)))]
+
+unicount$Employment = coluni$TOT_EMP[match(table = coluni$NAME, x= toupper(as.character(unicount$Var1)))]
+
+sumsub = 1:5
+for (i in 1:5){
+sumsub[i] = sum(unicount$Freq[unicount$Size==i], na.rm=TRUE)
+}
+par(mfrow=c(2,1))
+barplot(height = sumsub, main = "Total Submissions in Size Category", ylab = "Submission Count", col = "midnightblue")
+plot(unicount$Size, unicount$Freq, ylab = "Submission Count", xlab = "Size of Institution", main = "Submissions by Size of U.S. Institution")
+
+
+
+
+
+summary(lm(Freq ~ Size, data = unicount))
+
+
+remove(unicount)
 ```
 
 ## Conclusion
